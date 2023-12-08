@@ -10,5 +10,5 @@ function lastOccuranceIndex(arr,x,len){
 }
 
 let arr = [4,6,9,7,8,7,3,7,2,];
-let x = 11;
+let x = 7;
 console.log(lastOccuranceIndex(arr,x,arr.length));
