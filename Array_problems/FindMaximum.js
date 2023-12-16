@@ -11,5 +11,6 @@ function findMaximuInArray(arr,n){
 }
 
 let arr = [12, 7, 41, 22, 9, -11];
-console.log(findMaximuInArray(arr, arr.length));
+let ans = findMaximuInArray(arr, arr.length)
 
+module.exports = findMaximuInArray;
