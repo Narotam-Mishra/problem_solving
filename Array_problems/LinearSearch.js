@@ -1,5 +1,9 @@
 
 function linearSearch(arr,len,key){
+    if(len === 0){
+        return -1;
+    }
+    
     for(let i=0; i<len; i++){
         if(arr[i] === key){
             return i;
