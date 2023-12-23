@@ -24,6 +24,6 @@ public class SearchIn2DArray {
                 }
             }
         }
-        return new int[0];
+        return new int[] {-1,-1};
     }
 }
