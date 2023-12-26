@@ -1,0 +1,5 @@
+// Predict Output
+
+const obj = {
+
+}
