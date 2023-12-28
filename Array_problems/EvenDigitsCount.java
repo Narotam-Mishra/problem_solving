@@ -26,7 +26,8 @@ public class EvenDigitsCount {
 
     public static void main(String[] args) throws NumberFormatException, IOException {
         int[] arr = takeInput();
-        int ans = SolutionEventDigitsCount.findNumbers(arr);
+        // int ans = SolutionEventDigitsCount.findNumbers(arr);
+        int ans = SolutionEventDigits2.findNumbers(arr);
         System.out.println(ans);
     }
 }
