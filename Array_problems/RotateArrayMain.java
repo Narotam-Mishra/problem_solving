@@ -30,7 +30,8 @@ public class RotateArrayMain {
     public static void main(String[] args) throws NumberFormatException, IOException {
         int arr[] = takeInput();
         int k = Integer.parseInt(br.readLine().trim());
-        int ans[] = RotateArrayByK.rotateArrayByK(arr, k);
+        // int ans1[] = RotateArrayByK.rotateArrayByK(arr, k);
+        int ans[] = RotateArrayInplace.rotateArrayInPlace(arr, k);
         printArray(ans);
     }
 }
