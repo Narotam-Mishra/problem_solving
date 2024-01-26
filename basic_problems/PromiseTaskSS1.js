@@ -29,7 +29,7 @@ function downloader(url, cb) {
     setTimeout(() => {
         console.log("Download completed");
          // with the downloaded content, whatever you want to do you can do
-        let downloadData = "Download content";
+        let downloadData = "Some dummy download content";
         cb(downloadData);
     },4000)
 }
