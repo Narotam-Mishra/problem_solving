@@ -22,6 +22,8 @@ function uploadFile(fileName, newUrl, cb) {
 The download should take say 4sec delay, filewrite should take 2sec delay, upload should take 3sec delay
 Write the above callbacks and use them in a manner that first download happens then writefile happens and then upload happens
 
+Link -  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then#onfulfilled
+
 */
 
 function downloader(url) {
