@@ -1,4 +1,4 @@
-// async await Demo example - 2
+// async await Demo example - 4
 
 function downloader(url) {
     return new Promise((res, rej) => {
