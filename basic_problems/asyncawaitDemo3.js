@@ -17,7 +17,6 @@ function writeFile(data) {
         let fileName = "Dummy.txt";
         res(fileName); // cb -> any callback
     })
-    
 }
 
 function uploadFile(fileName, newUrl) {
