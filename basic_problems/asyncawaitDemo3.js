@@ -3,9 +3,10 @@
 function downloader(url) {
     return new Promise((res, rej) => {
         console.log("Started downloading from", url);
-        console.log("Download completed");
         let downloadedData = "Dummy content";
+        console.log("Download completed");
         res(downloadedData); 
+        console.log("proceed further...");
     })
 }
 
