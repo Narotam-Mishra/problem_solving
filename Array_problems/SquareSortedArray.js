@@ -17,7 +17,7 @@ let sortedSquares = function(nums) {
 let sortedSquares1 = function(nums) {
     let l = 0;
     let r = nums.length - 1;
-    let res = [];
+    let res = Array(n);
 
     // to handle edge cases
     if(nums.length === 1){
