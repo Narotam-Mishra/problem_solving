@@ -1,3 +1,5 @@
+
+
 function binarySearch(arr, key) {
     var s = 0, e = arr.length - 1, mid;
     while (s < e) {

@@ -17,14 +17,15 @@ function bubbleSort(arr){
     }
 }
 
-let t1 = performance.now();
 
 let arr = [5,2,7,1,4,3];
 // let arr = [3,4,5,7,8,9];
 
 console.log("Unsorted array: ",arr);
+let t1 = performance.now();
 
 bubbleSort(arr);
+
 let t2 = performance.now();
 console.log("Sorted array: ",arr);
 

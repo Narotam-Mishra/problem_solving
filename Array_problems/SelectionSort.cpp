@@ -41,4 +41,6 @@ int main(){
     for(int num: arr){
         cout<< num << " ";
     }
+
+    return 0;
 }
