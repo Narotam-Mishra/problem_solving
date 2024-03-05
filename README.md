@@ -17,4 +17,7 @@
 -[2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
 
 ## Searching and Sorting
+- [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+
+
 
