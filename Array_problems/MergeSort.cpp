@@ -67,8 +67,11 @@ int main(){
     for(int num: arr){
         cout<< num << " ";
     }
+
     vector<int> ans = mergeSortHelper(arr, 0, arr.size()-1);
-    cout<< "Unsorted Array: ";
+    cout<<endl;
+
+    cout<< "Sorted Array: ";
     for(int num: ans){
         cout<< num << " ";
     }
