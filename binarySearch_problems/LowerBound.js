@@ -5,12 +5,12 @@ You are given an integer array of size n and you are given element 'x'. Return t
 
 */
 
-function findUpperBound(arr, x){
+function findLowerBound(arr, x){
     let s = 0, e = arr.length-1;
-    let ans = 0;
+    let ans = -1;
 
     while(s <= e){
-        let mid = s + Math.floor((e - s)/2);
+       let mid = s + Math.floor((e - s)/2);
        if(x > arr[mid]){
             s = mid + 1;
         }else{
@@ -23,5 +23,5 @@ function findUpperBound(arr, x){
 }
 
 let arr = [1,2,2,3,3,5];
-let ans = findUpperBound(arr,4);
+let ans = findLowerBound(arr,3);
 console.log(ans);
