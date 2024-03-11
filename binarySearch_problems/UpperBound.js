@@ -15,7 +15,7 @@ function findUpperBound(arr, x){
             // discard the left half
             s = mid + 1;
         }else{
-            // we right half we will get the first probable ans
+            // in right half we will get the first probable ans
             ans = mid;
             e = mid - 1;
         }
@@ -24,5 +24,5 @@ function findUpperBound(arr, x){
 }
 
 let arr = [2,2,3,3,3,4,6,6,8];
-let res = findUpperBound(arr,1);
+let res = findUpperBound(arr,4);
 console.log(res);
