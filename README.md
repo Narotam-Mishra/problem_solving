@@ -33,8 +33,8 @@
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
 - [Smaller or equal elements](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
 - [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) 
-- [Search insert position](https://leetcode.com/problems/search-insert-position/description/) [Unsolved]
-- [Guess Number Higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) [Unsolved]
+- [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
+- [Guess Number Higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) 
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/) [Unsolved]
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
