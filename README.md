@@ -35,6 +35,6 @@
 - [Search 2d Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/) 
 - [Search insert position](https://leetcode.com/problems/search-insert-position/description/)
 - [Guess Number Higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) 
-- [Arranging Coins](https://leetcode.com/problems/arranging-coins/) [Unsolved]
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/) [Unsolved]
+- [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]

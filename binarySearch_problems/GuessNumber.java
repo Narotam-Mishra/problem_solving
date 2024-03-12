@@ -21,7 +21,6 @@ public class GuessNumber {
     }
 
     private int guess(int mid) {
-        // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Predefined API method as part of problem");
     }
 }
