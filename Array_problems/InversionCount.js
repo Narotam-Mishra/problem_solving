@@ -17,7 +17,7 @@ function mergeArray(arr, s, e){
             res[k] = arr[j];
             j++;
             k++;
-            // count for cross inversions
+            // count inversions
             ic += mid-i+1;
         }
     }
@@ -65,5 +65,6 @@ function countInversion(arr, s, e){
 }
 
 let arr = [2,3,8,6,1];
+// let arr = [5,2,6,1];
 let ans = countInversion(arr, 0, arr.length-1);
 console.log(ans);

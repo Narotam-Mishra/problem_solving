@@ -22,7 +22,7 @@
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [min cost to remove all elements such that cost to remove one element is sum of array](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
 - [Inversion count](https://www.spoj.com/problems/INVCNT/)
-- [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) [Unsolved]
+- [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) [VVI - Solved]
 - [Quick Sort Algorithm](https://hack.codingblocks.com/app/contests/62/736/problem)
 - [Implement partition algorithm and then modify it to make quick sort (randomised)](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-#sorting)
 - [Implement bubble sort using recursion without any single loop] [Not Solved]
