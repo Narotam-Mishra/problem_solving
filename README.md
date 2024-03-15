@@ -38,4 +38,6 @@
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
 - [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
+- [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)
+- [Count Element Occurence](https://www.interviewbit.com/problems/count-element-occurence/)
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
