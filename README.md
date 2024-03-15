@@ -37,4 +37,5 @@
 - [Guess Number Higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/) 
 - [Arranging Coins](https://leetcode.com/problems/arranging-coins/)
 - [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)
+- [540. Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
