@@ -43,6 +43,6 @@
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
 - [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
-- [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) [VVI - Unsolved]
+- [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) [VVI - Solved]
 - [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]

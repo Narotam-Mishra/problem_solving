@@ -1,7 +1,7 @@
 
 /*
 
-You are given an integer array of size n and you are given element 'x'. Return the index of the first value greater than or equal to 'x'.
+You are given an integer array (in sorted order) of size n and you are given element 'x'. Return the index of the first value greater than or equal to 'x'.
 
 */
 
