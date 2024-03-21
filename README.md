@@ -16,6 +16,7 @@
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
+- [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 
 ## Searching and Sorting
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort]
