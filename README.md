@@ -46,4 +46,5 @@
 - [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/) [VVI - Solved]
 - [2300. Successful Pairs of Spells and Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/) [VVI - Solved]
+- [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) [VVI - Solved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
