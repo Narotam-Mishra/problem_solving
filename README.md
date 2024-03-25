@@ -11,6 +11,8 @@
 - [4sum - try with 2 points](https://leetcode.com/problems/4sum/)
 - [move zeros](https://leetcode.com/problems/move-zeroes/)
 - [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) [Unsolved]
+- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) [Unsolved]
 
 ## Arrays and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
