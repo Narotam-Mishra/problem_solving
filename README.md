@@ -17,6 +17,7 @@
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
+- [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [VVI]
 
 ## Searching and Sorting
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort]
@@ -58,3 +59,7 @@
 
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
+- [Friends Pairing Problem](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
+- [322. Coin Change](https://leetcode.com/problems/coin-change/description/) [Unsolved]
+- [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/) [Unsolved]
+- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) [Unsolved]
