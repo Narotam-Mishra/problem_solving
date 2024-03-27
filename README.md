@@ -52,8 +52,11 @@
 - [1011. Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) [VVI - Solved]
 - [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/) [VVI]
 - [410. Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/description/) [VVI]
+- [Painter's Partition Problem](https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557?utm_source=youtube&utm_medium=affiliate&utm_campaign=codestudio_Striver_BinarySeries) [VVI - Solved]
+- [Painter's Partition Problem with modification](https://www.interviewbit.com/problems/painters-partition-problem/) 
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
+- [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
 
 
