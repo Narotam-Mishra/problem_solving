@@ -41,7 +41,7 @@ public class MedianOfTwoSortedArrays {
 
         return res;
     }
-    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
+    public static double findMedianSortedArrays1(int[] nums1, int[] nums2) {
         int m = nums1.length;
         int n = nums2.length;
 
@@ -57,6 +57,61 @@ public class MedianOfTwoSortedArrays {
         }else{
             return (double)mergedArr[mid];
         }
+    }
+
+    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        int m = nums1.length, n = nums2.length;
+        int i = 0, j = 0;
+        int len = m + n;
+        int mid = len / 2;
+        int preMid = mid - 1;
+        int cnt = 0;
+        int indNum1 = -1, indNum2 = -1;
+
+        while (i < m && j < n) {
+            if (nums1[i] < nums2[j]) {
+                if (cnt == preMid)
+                    indNum1 = nums1[i];
+                if (cnt == mid)
+                    indNum2 = nums1[i];
+                cnt++;
+                i++;
+            } else {
+                if (cnt == preMid)
+                    indNum1 = nums2[j];
+                if (cnt == mid)
+                    indNum2 = nums2[j];
+                cnt++;
+                j++;
+            }
+        }
+
+        // if any element left in nums1
+        while (i < m) {
+            if (cnt == preMid)
+                indNum1 = nums1[i];
+            if (cnt == mid)
+                indNum2 = nums1[i];
+            cnt++;
+            i++;
+        }
+
+        // if any element left in nums2
+        while (j < n) {
+            if (cnt == preMid)
+                indNum1 = nums2[j];
+            if (cnt == mid)
+                indNum2 = nums2[j];
+            cnt++;
+            j++;
+        }
+
+        // if size is odd
+        if (len % 2 == 1) {
+            return indNum2;
+        }
+
+        return (double) (indNum1 + indNum2) / 2.0;
     }
 
     public static void main(String[] args) {
