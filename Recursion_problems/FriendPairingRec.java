@@ -1,6 +1,7 @@
 
 // Problem link - https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM
 
+
 package Recursion_problems;
 
 /**
