@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/coin-change/description/
 
-let c = [];
+let c;
 
 function coinChangeRecursive(amount){
     // Base case: if amount is negative or zero
@@ -13,8 +13,9 @@ function coinChangeRecursive(amount){
 
     // Recursive case f(amount) = 1 + min(f(amount - coins[i]))
     for(let i=0; i<n; i++){
-        if(amount >= c[i])
-        ans = Math.min(ans, coinChangeRecursive(amount - c[i]));
+        if(amount >= c[i]){
+            ans = Math.min(ans, coinChangeRecursive(amount - c[i]));
+        }
     }
 
     // if ans is still Number.MAX_VALUE, then the given amount is not possible

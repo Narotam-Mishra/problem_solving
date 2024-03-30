@@ -2,7 +2,7 @@
 // Problem link - https://leetcode.com/problems/coin-change/description/
 
 
-let c = [];
+let c;
 let dp;
 
 function coinChangeTopDownDP(amount){
