@@ -68,7 +68,7 @@
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
-- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) [Unsolved]
+- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 
 
 
@@ -77,4 +77,4 @@
 - [Friends Pairing Problem](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
-- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/) [Unsolved]
+- [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
