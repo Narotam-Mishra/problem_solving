@@ -69,6 +69,7 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+- [120. Triangle](https://leetcode.com/problems/triangle/description/)
 
 
 
@@ -78,3 +79,5 @@
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+- [120. Triangle](https://leetcode.com/problems/triangle/description/)
+
