@@ -70,7 +70,7 @@
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [120. Triangle](https://leetcode.com/problems/triangle/description/)
-
+- [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 
 
 ## Dynamic Programming Problems
@@ -80,4 +80,5 @@
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [120. Triangle](https://leetcode.com/problems/triangle/description/)
+- [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 
