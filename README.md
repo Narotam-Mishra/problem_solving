@@ -71,6 +71,7 @@
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 
 
 ## Dynamic Programming Problems
@@ -81,4 +82,5 @@
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [120. Triangle](https://leetcode.com/problems/triangle/description/)
 - [377. Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
-
+- [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+- [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
