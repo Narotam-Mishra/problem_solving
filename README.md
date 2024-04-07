@@ -13,6 +13,7 @@
 - [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/) [Unsolved]
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) 
+- [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 
 ## Arrays and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
