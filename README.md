@@ -75,6 +75,7 @@
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
+- [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
