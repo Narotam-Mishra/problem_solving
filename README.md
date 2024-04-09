@@ -88,5 +88,5 @@
 - [673. Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 - [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
-- [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/) [Unsolved]
-- [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) [Unsolved]
+- [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
+- [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) [VVI - DP with Hash Map]
