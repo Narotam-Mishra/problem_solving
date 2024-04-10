@@ -76,6 +76,7 @@
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
@@ -90,3 +91,4 @@
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 - [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) [VVI - DP with Hash Map]
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
