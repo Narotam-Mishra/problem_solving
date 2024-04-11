@@ -91,4 +91,5 @@
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 - [446. Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/description/) [VVI - DP with Hash Map]
-- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+- [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/) [VVI]
+- [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
