@@ -77,6 +77,8 @@
 - [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/)
 - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
+- [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
+
 
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
