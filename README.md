@@ -17,6 +17,8 @@
 - [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) 
 - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
+- [Find missing elements of a range](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
+
 
 ## Arrays and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
