@@ -3,6 +3,7 @@
 
 ## Basic Problems
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
+- [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
