@@ -130,16 +130,16 @@ public:
 
 int main() {
     MyLinkedList obj;
-    // obj.addAtHead(1);
-    // obj.addAtTail(3);
-    // obj.addAtIndex(1, 2);
-    // cout << obj.get(1) << endl;
-    // obj.deleteAtIndex(1);
-    // cout << obj.get(1) << endl;
+    obj.addAtHead(1);
+    obj.addAtTail(3);
+    obj.addAtIndex(1, 2);
+    cout << obj.get(1) << endl;
+    obj.deleteAtIndex(1);
+    cout << obj.get(1) << endl;
 
-    obj.addAtIndex(0,10);
-    obj.addAtIndex(0,20);
-    obj.addAtIndex(1,30);
-    cout<<obj.get(0)<<endl;
+    // obj.addAtIndex(0,10);
+    // obj.addAtIndex(0,20);
+    // obj.addAtIndex(1,30);
+    // cout<<obj.get(0)<<endl;
     return 0;
 }

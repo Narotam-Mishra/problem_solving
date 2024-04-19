@@ -1,0 +1,430 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FIzzBuzz",
+            "request": "launch",
+            "mainClass": "basic_problems.FIzzBuzz",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "DesignLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.DesignLinkedList",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "FindMissingNumbers",
+            "request": "launch",
+            "mainClass": "Array_problems.FindMissingNumbers",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "ReverseInteger",
+            "request": "launch",
+            "mainClass": "basic_problems.ReverseInteger",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStocksIVDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.BestTimeToBuyAndSellStocksIVDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "BestTimeToBuyAndSellStockIVRec",
+            "request": "launch",
+            "mainClass": "Recursion_problems.BestTimeToBuyAndSellStockIVRec",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestPallindromicSubsequenceDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.LongestPallindromicSubsequenceDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestPallindromicSubSequenceRec",
+            "request": "launch",
+            "mainClass": "Recursion_problems.LongestPallindromicSubSequenceRec",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MaximumSubArraySum",
+            "request": "launch",
+            "mainClass": "Array_problems.MaximumSubArraySum",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestPallindromicSunsequenceDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.LongestPallindromicSunsequenceDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubsequenceTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.LongestCommonSubsequenceTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonSubsequence",
+            "request": "launch",
+            "mainClass": "Recursion_problems.LongestCommonSubsequence",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticSliceIIBottomUpDp",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.ArithmeticSliceIIBottomUpDp",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticSlicesTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.ArithmeticSlicesTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "ArithmeticSliceRecusion",
+            "request": "launch",
+            "mainClass": "Recursion_problems.ArithmeticSliceRecusion",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LexicographicalNumbers",
+            "request": "launch",
+            "mainClass": "Array_problems.LexicographicalNumbers",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "NthTribonacciNumberTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.NthTribonacciNumberTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "NthTribonacciNumber",
+            "request": "launch",
+            "mainClass": "Recursion_problems.NthTribonacciNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfLIS",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.NumberOfLIS",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LISTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.LISTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "LongestIncreasingSubsequence",
+            "request": "launch",
+            "mainClass": "Recursion_problems.LongestIncreasingSubsequence",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSumBottomUpDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.CombinationSumBottomUpDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSumTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.CombinationSumTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CombinationSumRecusion",
+            "request": "launch",
+            "mainClass": "Recursion_problems.CombinationSumRecusion",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_MinPathSumBottomUpDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.Triangle_MinPathSumBottomUpDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_MinPathSumTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.Triangle_MinPathSumTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "Triangle_MinPathSum",
+            "request": "launch",
+            "mainClass": "Recursion_problems.Triangle_MinPathSum",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MinCostForTicketBottomUpDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.MinCostForTicketBottomUpDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MinCostForTicketsTopDownDP",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.MinCostForTicketsTopDownDP",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MinCostForTickets",
+            "request": "launch",
+            "mainClass": "Recursion_problems.MinCostForTickets",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CountInequalitiyPairs",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.CountInequalitiyPairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquaresTopDown",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.PerfectSquaresTopDown",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquaresRec",
+            "request": "launch",
+            "mainClass": "Recursion_problems.PerfectSquaresRec",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CoinChangeBottomUp",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.CoinChangeBottomUp",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CoinChangeTD",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.CoinChangeTD",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CoinChangeRecursive",
+            "request": "launch",
+            "mainClass": "Recursion_problems.CoinChangeRecursive",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MedianOfTwoSortedArrays",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.MedianOfTwoSortedArrays",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PainterPartitionProblem",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.PainterPartitionProblem",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PainterProblemI",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.PainterProblemI",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRotatedArrayII",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.SearchInRotatedArrayII",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PeakIndexInMoutainArray",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.PeakIndexInMoutainArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfTwoArrays2",
+            "request": "launch",
+            "mainClass": "Array_problems.IntersectionOfTwoArrays2",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "IntersectionOfArray",
+            "request": "launch",
+            "mainClass": "Array_problems.IntersectionOfArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "GroupedAnagram",
+            "request": "launch",
+            "mainClass": "Array_problems.GroupedAnagram",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "FriendPairing",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.FriendPairing",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "FriendPairingRec",
+            "request": "launch",
+            "mainClass": "Recursion_problems.FriendPairingRec",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "NthFibonacciBU",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.NthFibonacciBU",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "NthFibonacciNumber",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.NthFibonacciNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SplitArrayLargestSum",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.SplitArrayLargestSum",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MinimizeTheMaxDiffOfPairs",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.MinimizeTheMaxDiffOfPairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CapacityToShipPackages",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.CapacityToShipPackages",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MakeArrayZero",
+            "request": "launch",
+            "mainClass": "Array_problems.MakeArrayZero",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SuccessfulPairs",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.SuccessfulPairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SuccessfulPairsOfSpellsAndPotions",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.SuccessfulPairsOfSpellsAndPotions",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "KokoEatingBananas",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.KokoEatingBananas",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SearchRotatedSortedArray",
+            "request": "launch",
+            "mainClass": "binarySearch_problems.SearchRotatedSortedArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CountSmallerNumberAfterSelf",
+            "request": "launch",
+            "mainClass": "Array_problems.CountSmallerNumberAfterSelf",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "name": "C/C++: g++.exe build and debug active file",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "C:/MinGW/bin",
+            "environment": [],
+            "externalConsole": false,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\MinGW\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "Enable pretty-printing for gdb",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "Set Disassembly Flavor to Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe build active file"
+        }
+    ],
+    "version": "2.0.0"
+}

@@ -1,4 +1,6 @@
 
+// Problem link - https://leetcode.com/problems/fizz-buzz/
+
 let fizzBuzz =  function printFizzBuzz(n){
     let res = []
     for (let i=1; i<=n; i++){
