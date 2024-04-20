@@ -19,6 +19,7 @@
 - [350. Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) 
 - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 - [Find missing elements of a range](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
+- [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 
 ## Arrays and Hashing
@@ -27,6 +28,8 @@
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [VVI]
+- [Find Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+
 
 ## Searching and Sorting
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort]
