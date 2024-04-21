@@ -109,7 +109,7 @@
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) [Unsolved]
 
 ## Linked List Problems
-- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/)[VVI]
+- [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/) [VVI]
 - [Design Doubly Linked List](https://aaronice.gitbook.io/lintcode/linked_list/design-linked-list/design-doubly-linked-list)
-- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
+- [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) [VVI]
 
