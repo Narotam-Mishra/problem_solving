@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveDuplicatesFromSortedList",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.RemoveDuplicatesFromSortedList",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DesignDoublyLinkedList",
             "request": "launch",
             "mainClass": "LinkedList_problems.DesignDoublyLinkedList",
