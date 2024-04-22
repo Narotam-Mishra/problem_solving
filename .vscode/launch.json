@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SwapNodesInLL",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.SwapNodesInLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RemoveNthNodeFromLast",
             "request": "launch",
             "mainClass": "LinkedList_problems.RemoveNthNodeFromLast",

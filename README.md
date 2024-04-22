@@ -113,4 +113,5 @@
 - [Design Doubly Linked List](https://aaronice.gitbook.io/lintcode/linked_list/design-linked-list/design-doubly-linked-list)
 - [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) [VVI]
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
-- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+- [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [VVI]
+- [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
