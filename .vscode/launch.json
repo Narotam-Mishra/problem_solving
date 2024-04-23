@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PartitonList",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.PartitonList",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SwapNodesInLL",
             "request": "launch",
             "mainClass": "LinkedList_problems.SwapNodesInLL",
