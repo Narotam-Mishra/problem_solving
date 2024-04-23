@@ -76,6 +76,7 @@
 
 ## Recursion Problems
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
+- [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
 - [983. Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
@@ -89,8 +90,10 @@
 - [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
+
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
+- [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [Friends Pairing Problem](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
 - [279. Perfect Squares](https://leetcode.com/problems/perfect-squares/description/)
@@ -107,13 +110,37 @@
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [Unsolved]
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) [Unsolved]
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) [Unsolved]
+- [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) [Unsolved]
+- [198. House Robber](https://leetcode.com/problems/house-robber/description/) [Unsolved]
+- [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) [Unsolved]
+- [64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/description/) [Unsolved]
+- [72. Edit Distance](https://leetcode.com/problems/edit-distance/description/) [Unsolved]
+- [62. Unique Paths](https://leetcode.com/problems/unique-paths/description/) [Unsolved]
+- [63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/description/) [Unsolved]
+- [Paint House](https://www.naukri.com/code360/problems/paint-house_1460385) [Unsolved]
+- [Paint House II](https://www.naukri.com/code360/problems/ninja-s-contract_1459321) [Unsolved]
+
 
 ## Linked List Problems
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/) [VVI]
 - [Design Doubly Linked List](https://aaronice.gitbook.io/lintcode/linked_list/design-linked-list/design-doubly-linked-list)
+- [Design Circular Linked List](https://www.geeksforgeeks.org/circular-linked-list/) [Unsolved]
 - [1472. Design Browser History](https://leetcode.com/problems/design-browser-history/description/) [VVI]
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [VVI]
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 - [86. Partition List](https://leetcode.com/problems/partition-list/description/) [VVI]
-- [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/) [Unsolved - VVI]
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+- [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [VVI - Unsolved]
+- [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)[Unsolved - VVI]
+- [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [Unsolved]
+- [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) [Unsolved]
+- [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) [Unsolved]
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Unsolved]
+- [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [Unsolved]
+- [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) [Unsolved]
+
+## Stack Problems
+- [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/) [Unsolved]
+- [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) [Unsolved]
