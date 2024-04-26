@@ -144,4 +144,6 @@
 
 ## Stack Problems
 - [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
-- [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) 
+- [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
+- [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
+- [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)[Unsolved]
