@@ -142,5 +142,5 @@
 - [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) [Unsolved]
 
 ## Stack Problems
-- [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/) [Unsolved]
+- [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
 - [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) [Unsolved]

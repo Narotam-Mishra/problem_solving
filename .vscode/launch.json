@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackUsingArray",
+            "request": "launch",
+            "mainClass": "Stack_Problems.StackUsingArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "PartitonList",
             "request": "launch",
             "mainClass": "LinkedList_problems.PartitonList",
