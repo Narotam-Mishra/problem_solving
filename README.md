@@ -123,6 +123,7 @@
 
 
 ## Linked List Problems
+- [Linked List Implementation](https://www.geeksforgeeks.org/what-is-linked-list/)
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/) [VVI]
 - [Design Doubly Linked List](https://aaronice.gitbook.io/lintcode/linked_list/design-linked-list/design-doubly-linked-list)
 - [Design Circular Linked List](https://www.geeksforgeeks.org/circular-linked-list/) [Unsolved]
@@ -143,4 +144,4 @@
 
 ## Stack Problems
 - [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
-- [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) [Unsolved]
+- [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/) 

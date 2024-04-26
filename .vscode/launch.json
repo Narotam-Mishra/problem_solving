@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "StackUsingLL",
+            "request": "launch",
+            "mainClass": "Stack_Problems.StackUsingLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "StackUsingArray",
             "request": "launch",
             "mainClass": "Stack_Problems.StackUsingArray",
