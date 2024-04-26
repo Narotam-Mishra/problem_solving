@@ -3,7 +3,7 @@
 
 // Approach - Brute Force Method
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * MedianOfTwoSortedArrays

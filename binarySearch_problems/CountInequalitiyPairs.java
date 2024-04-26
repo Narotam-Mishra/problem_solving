@@ -3,7 +3,7 @@
 // Problem Link - https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/
 
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class CountInequalitiyPairs {
     static long pairCount = 0;

@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class PeakIndexInMoutainArray {
     public static int peakIndexInMountainArray(int[] arr) {

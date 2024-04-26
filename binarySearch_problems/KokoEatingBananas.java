@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/koko-eating-bananas/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * KokoEatingBananas

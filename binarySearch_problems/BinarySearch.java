@@ -1,7 +1,7 @@
 
 // Problem link - https://hack.codingblocks.com/app/contests/5320/199/problem
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 import java.util.Scanner;
 

@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * SearchInRotatedArrayII

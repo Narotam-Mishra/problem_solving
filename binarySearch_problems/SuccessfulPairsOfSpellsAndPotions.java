@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/successful-pairs-of-spells-and-potions/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 import java.util.Arrays;
 

@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/sqrtx/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class Sqrt {
     public int mySqrt(int x) {

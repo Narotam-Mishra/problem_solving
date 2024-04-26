@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * CapacityToShipPackages

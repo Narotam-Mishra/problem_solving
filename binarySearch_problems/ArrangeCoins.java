@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/arranging-coins/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class ArrangeCoins {
     public int arrangeCoins(long n) {

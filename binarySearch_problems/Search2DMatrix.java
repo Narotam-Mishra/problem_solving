@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/search-a-2d-matrix/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class Search2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {

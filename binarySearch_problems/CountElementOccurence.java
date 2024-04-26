@@ -1,7 +1,7 @@
 
 // Problem link - https://www.codingninjas.com/studio/problems/occurrence-of-x-in-a-sorted-array_630456
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class CountElementOccurence {
 

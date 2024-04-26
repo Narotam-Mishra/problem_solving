@@ -2,7 +2,7 @@
 // Problem link - https://leetcode.com/problems/single-element-in-a-sorted-array/description/
 
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * SingleElement

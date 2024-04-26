@@ -1,7 +1,7 @@
 
 //Problem link - https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 import java.util.Arrays;
 

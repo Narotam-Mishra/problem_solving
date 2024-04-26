@@ -1,4 +1,4 @@
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * UpperBound

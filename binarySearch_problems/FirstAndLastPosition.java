@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * FirstAndLastPosition

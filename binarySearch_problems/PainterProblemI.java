@@ -1,7 +1,7 @@
 
 // Problem Link - https://www.interviewbit.com/problems/painters-partition-problem/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 import java.util.Arrays;
 

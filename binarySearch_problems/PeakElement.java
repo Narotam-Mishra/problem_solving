@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/find-peak-element/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * PeakElement

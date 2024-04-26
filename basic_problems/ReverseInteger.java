@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/reverse-integer/
 
-package basic_problems;
+package Basic_problems;
 
 public class ReverseInteger {
     public static int reverse(int x) {

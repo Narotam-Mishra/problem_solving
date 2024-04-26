@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/guess-number-higher-or-lower/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class GuessNumber {
     public int guessNumber(int n) {

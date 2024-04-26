@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class FindMinimumInSortedArray {
     public int findMin(int[] nums) {

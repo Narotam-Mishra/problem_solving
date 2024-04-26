@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/search-insert-position/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 /**
  * SearchInsertPosition

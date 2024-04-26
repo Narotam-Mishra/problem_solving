@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/split-array-largest-sum/description/
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class SplitArrayLargestSum {
     private static boolean isBestWayToSplitArrayWithMidSubArray(int[] arr, int mid, int k){

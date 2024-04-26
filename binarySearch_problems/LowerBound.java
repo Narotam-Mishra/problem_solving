@@ -5,7 +5,7 @@ You are given an integer array of size n and you are given element 'x'. Return t
 
  */
 
-package binarySearch_problems;
+package BinarySearch_problems;
 
 public class LowerBound {
     public static int findLowerBound(int[] arr, int x){
