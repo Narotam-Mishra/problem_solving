@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AsteroidsCollision",
+            "request": "launch",
+            "mainClass": "Stack_Problems.AsteroidsCollision",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RemoveStarsFromString",
             "request": "launch",
             "mainClass": "Stack_Problems.RemoveStarsFromString",
