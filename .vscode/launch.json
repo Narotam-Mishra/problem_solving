@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BuildArrayWithStackOperations",
+            "request": "launch",
+            "mainClass": "Stack_Problems.BuildArrayWithStackOperations",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ValidParentheses",
             "request": "launch",
             "mainClass": "Stack_Problems.ValidParentheses",

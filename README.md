@@ -149,7 +149,7 @@
 - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)[VVI]
 - [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) [VVI - Solved]
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
-- [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) [Unsolved]
+- [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) 
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) [Unsolved]
 - [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
 - [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
