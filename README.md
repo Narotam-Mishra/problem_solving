@@ -147,4 +147,4 @@
 - [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
 - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)[VVI]
-- [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) [VVI - Unsolved]
+- [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) [VVI - Solved]

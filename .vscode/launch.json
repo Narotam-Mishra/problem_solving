@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxFrequencyStack",
+            "request": "launch",
+            "mainClass": "Stack_Problems.MaxFrequencyStack",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "AsteroidsCollision",
             "request": "launch",
             "mainClass": "Stack_Problems.AsteroidsCollision",
