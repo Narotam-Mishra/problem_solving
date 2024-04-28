@@ -148,3 +148,15 @@
 - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
 - [735. Asteroid Collision](https://leetcode.com/problems/asteroid-collision/description/)[VVI]
 - [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) [VVI - Solved]
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+- [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) [Unsolved]
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) [Unsolved]
+- [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
+- [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
+- [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) [Unsolved]
+- [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) [Unsolved]
+- [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) [Unsolved]
+- [155. Min Stack](https://leetcode.com/problems/min-stack/description/) [Unsolved]
+- [Stock Span Problem](https://www.interviewbit.com/blog/stock-span-problem/) [Unsolved]
+- [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) [Unsolved]
+- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Unsolved]
