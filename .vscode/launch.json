@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BackspaceStringCompare",
+            "request": "launch",
+            "mainClass": "Stack_Problems.BackspaceStringCompare",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BuildArrayWithStackOperations",
             "request": "launch",
             "mainClass": "Stack_Problems.BuildArrayWithStackOperations",
