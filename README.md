@@ -150,7 +150,7 @@
 - [895. Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/description/) [VVI - Solved]
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 - [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) 
-- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/) [Unsolved]
+- [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
 - [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
 - [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
 - [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) [Unsolved]
@@ -160,3 +160,7 @@
 - [Stock Span Problem](https://www.interviewbit.com/blog/stock-span-problem/) [Unsolved]
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) [Unsolved]
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Unsolved]
+
+## Queue Problems
+- [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
+- [Design Queue using Linked List](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
