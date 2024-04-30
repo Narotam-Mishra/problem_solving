@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "QueueUsingTwoStacks",
+            "request": "launch",
+            "mainClass": "Queue_Problems.QueueUsingTwoStacks",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DesignQueue",
             "request": "launch",
             "mainClass": "Queue_Problems.DesignQueue",

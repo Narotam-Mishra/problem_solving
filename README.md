@@ -165,3 +165,8 @@
 - [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
 - [Design Queue using Linked List](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
 - [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) [VVI]
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) [VVI]
+- [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) [Unsolved]
+- [Design Deque](https://www.geeksforgeeks.org/implementation-deque-using-doubly-linked-list/)[Unsolved]
+- [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) [Unsolved]
+- [134. Gas Station](https://leetcode.com/problems/gas-station/description/) [Unsolved]
