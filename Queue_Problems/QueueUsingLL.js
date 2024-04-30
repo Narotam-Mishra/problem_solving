@@ -131,6 +131,7 @@ console.log("Back element of queue:", qu.getBack());
 qu.dequeue();
 qu.dequeue();
 
+console.log("Queue after insertion/deletion:");
 console.log("Front element of queue:", qu.getFront());
 console.log("Back element of queue:", qu.getBack());
 console.log("Queue elements:");

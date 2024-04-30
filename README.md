@@ -164,3 +164,4 @@
 ## Queue Problems
 - [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
 - [Design Queue using Linked List](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
+- [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) [VVI]

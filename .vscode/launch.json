@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DesignQueue",
+            "request": "launch",
+            "mainClass": "Queue_Problems.DesignQueue",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "QueueUsingLL",
+            "request": "launch",
+            "mainClass": "Queue_Problems.QueueUsingLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "QueueUsingArray",
             "request": "launch",
             "mainClass": "Queue_Problems.QueueUsingArray",
