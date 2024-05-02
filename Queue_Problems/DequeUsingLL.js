@@ -111,7 +111,7 @@ dq.addAtBack(4);
 dq.addAtBack(5);
 dq.addAtBack(6);
 dq.addAtFront(7);
-dq.printDeque(); // Output: 2 1 3 4
-console.log(dq.removeAtFront()); // Output: 2
-console.log(dq.removeAtBack()); // Output: 4
-dq.printDeque(); // Output: 1 3
+dq.printDeque(); // Output: 7 2 1 3 4 5 6 
+console.log(dq.removeAtFront()); // Output: 7
+console.log(dq.removeAtBack()); // Output: 6
+dq.printDeque(); // Output: 2 1 3 4 5

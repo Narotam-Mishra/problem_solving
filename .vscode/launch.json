@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DequeUsingLL",
+            "request": "launch",
+            "mainClass": "Queue_Problems.DequeUsingLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DesignCircularQueue",
             "request": "launch",
             "mainClass": "Queue_Problems.DesignCircularQueue",
