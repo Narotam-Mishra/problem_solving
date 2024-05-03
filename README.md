@@ -167,7 +167,7 @@
 - [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) [VVI]
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/) [VVI]
 - [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/description/) [VVI]
-- [Design Deque using DLL](https://www.geeksforgeeks.org/implementation-deque-using-doubly-linked-list/)[Unsolved]
 - [Design Deque using Linked List]()
+- [Design Deque using DLL](https://www.geeksforgeeks.org/implementation-deque-using-doubly-linked-list/)[Unsolved]
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) [Unsolved]
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/) [Unsolved]

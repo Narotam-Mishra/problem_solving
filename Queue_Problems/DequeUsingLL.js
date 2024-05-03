@@ -1,5 +1,5 @@
 
-// Deque using Linked List
+// Design Deque using Linked List
 
 class Node{
     constructor(element){
