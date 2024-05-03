@@ -13,12 +13,12 @@ class Node{
     }
 }
 
-class Deque{
+class CustomDeque{
     Node front;
     Node rear;
     int size;
 
-    public Deque(){
+    public CustomDeque(){
         front = null;
         rear = null;
         size = 0;
@@ -50,7 +50,7 @@ class Deque{
         size++;
     }
 
-    int removeAtFront(){
+    int removeAtFrontSide(){
         if(isEmpty()) return -1;
         Node nodeToBeDel = front;
         front = front.next;
@@ -62,7 +62,7 @@ class Deque{
         return nodeToBeDel.element;
     }
 
-    int removeAtBack(){
+    int removeAtBackSide(){
         if(isEmpty()) return -1;
         Node cur = front;
         Node prev = cur;
@@ -110,7 +110,7 @@ class Deque{
 
 public class DequeUsingLL {
     public static void main(String[] args) {
-        Deque dq = new Deque();
+        CustomDeque dq = new CustomDeque();
 
         dq.addAtFront(1);
         dq.addAtFront(2);
@@ -120,8 +120,8 @@ public class DequeUsingLL {
         dq.addAtBack(6);
         dq.addAtFront(7);
         dq.printDequeUtils(); // Output: 7 2 1 3 4 5 6
-        System.out.println(dq.removeAtFront()); // Output: 7
-        System.out.println(dq.removeAtBack()); // Output: 6
+        System.out.println(dq.removeAtFrontSide()); // Output: 7
+        System.out.println(dq.removeAtBackSide()); // Output: 6
         dq.printDequeUtils(); // Output: 2 1 3 4 5
     }
 }

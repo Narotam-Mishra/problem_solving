@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DesignDequeUsingDLL",
+            "request": "launch",
+            "mainClass": "Queue_Problems.DesignDequeUsingDLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "FindFirstUniqueCharacterInString",
+            "request": "launch",
+            "mainClass": "Array_problems.FindFirstUniqueCharacterInString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DequeUsingLL",
             "request": "launch",
             "mainClass": "Queue_Problems.DequeUsingLL",

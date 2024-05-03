@@ -29,6 +29,7 @@
 - [2357. Make Array Zero by Subtracting Equal Amounts](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [VVI]
 - [Find Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
+- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
 
 ## Searching and Sorting
