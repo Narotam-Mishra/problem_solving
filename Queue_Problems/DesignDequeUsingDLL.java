@@ -3,35 +3,35 @@
 
 package Queue_Problems;
 
-class Node {
+class NodeForDq{
     int data;
-    Node next;
-    Node prev;
+    NodeForDq next;
+    NodeForDq prev;
 
-    public Node(int data) {
+    public NodeForDq(int data){
         this.data = data;
         this.next = null;
         this.prev = null;
     }
 }
 
-class DoublyLinkedListrunner {
-    Node head;
-    Node tail;
+class DoublyLinkedList{
+    NodeForDq head;
+    NodeForDq tail;
 
-    public DoublyLinkedListrunner() {
+    public DoublyLinkedList(){
         this.head = null;
         this.tail = null;
     }
 
     // Method to add a node at the head of the doubly linked list
-    public void addAtHead(int data) {
-        if (isEmpty()) {
-            Node newNode = new Node(data);
+    public void addAtHead(int data){
+        if(isEmpty()){
+            NodeForDq newNode = new NodeForDq(data);
             this.head = newNode;
             this.tail = newNode;
-        } else {
-            Node newNode = new Node(data);
+        }else{
+            NodeForDq newNode = new NodeForDq(data);
             newNode.next = this.head;
             this.head.prev = newNode;
             this.head = newNode;
@@ -39,11 +39,11 @@ class DoublyLinkedListrunner {
     }
 
     // Method to add a node at the tail of the doubly linked list
-    public void addAtTail(int data) {
+    public void addAtTail(int data){
         if (isEmpty()) {
             addAtHead(data);
         } else {
-            Node newNode = new Node(data);
+            NodeForDq newNode = new NodeForDq(data);
             this.tail.next = newNode;
             newNode.prev = this.tail;
             this.tail = newNode;
@@ -51,13 +51,13 @@ class DoublyLinkedListrunner {
     }
 
     // Method to remove a node from the head of the doubly linked list
-    public void removeAtHead() {
+    public void removeAtHead(){
         if (!isEmpty()) {
             if (this.head.next == null) {
                 this.head = null;
                 this.tail = null;
             } else {
-                Node newHead = this.head.next;
+                NodeForDq newHead = this.head.next;
                 this.head.next = null;
                 newHead.prev = null;
                 this.head = newHead;
@@ -66,13 +66,13 @@ class DoublyLinkedListrunner {
     }
 
     // Method to remove a node from the tail of the doubly linked list
-    public void removeAtTail() {
+    public void removeAtTail(){
         if (!isEmpty()) {
             if (this.head.next == null) {
                 this.head = null;
                 this.tail = null;
             } else {
-                Node newTail = this.tail.prev;
+                NodeForDq newTail = this.tail.prev;
                 newTail.next = null;
                 this.tail.prev = null;
                 this.tail = newTail;
@@ -81,13 +81,13 @@ class DoublyLinkedListrunner {
     }
 
     // Method to check if the doubly linked list is empty
-    public boolean isEmpty() {
+    public boolean isEmpty(){
         return this.head == null;
     }
 
     // Utility method to display the doubly linked list data
-    public void displayDLLUtils() {
-        Node temp = this.head;
+    public void displayDLL(){
+        NodeForDq temp = this.head;
         System.out.print("From head to tail: ");
         while (temp != null) {
             System.out.print(temp.data + " ");
@@ -104,11 +104,11 @@ class DoublyLinkedListrunner {
     }
 }
 
-class DequeRunner {
-    DoublyLinkedListrunner dll;
+class DequeUtil{
+    DoublyLinkedList dll;
 
-    public DequeRunner() {
-        this.dll = new DoublyLinkedListrunner();
+    public DequeUtil(){
+        this.dll = new DoublyLinkedList();
     }
 
     // Method to add an element at the front of the deque
@@ -143,7 +143,7 @@ class DequeRunner {
 
     // Method to print the deque
     public void printDeque(){
-        Node temp = this.dll.head;
+        NodeForDq temp = this.dll.head;
         StringBuilder res = new StringBuilder();
         while (temp != null) {
             res.append(temp.data).append(" ");
@@ -155,7 +155,7 @@ class DequeRunner {
 
 public class DesignDequeUsingDLL {
     public static void main(String[] args) {
-        DequeRunner dq = new DequeRunner();
+        DequeUtil dq = new DequeUtil();
         dq.addAtFront(11);
         dq.addAtFront(13);
         dq.addAtFront(19);
@@ -175,5 +175,5 @@ public class DesignDequeUsingDLL {
 
         System.out.println("Front Element: " + dq.getFront());
         System.out.println("Rear Element: " + dq.getBack());
-    }
+    }    
 }
