@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SlidingWindowMaximum",
+            "request": "launch",
+            "mainClass": "Queue_Problems.SlidingWindowMaximum",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DesignDequeUsingDLL",
             "request": "launch",
             "mainClass": "Queue_Problems.DesignDequeUsingDLL",

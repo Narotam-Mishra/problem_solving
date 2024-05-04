@@ -1,5 +1,5 @@
 
-// Design your own Deque using DLL
+// Problem link - https://leetcode.com/problems/sliding-window-maximum/description/
 
 class Node{
     constructor(data){
@@ -69,7 +69,6 @@ class DoublyLinkedList{
             newHead.prev = null;
             // assign new head as the head of DLL
             this.head = newHead;
-
         }
     }
 
@@ -90,37 +89,11 @@ class DoublyLinkedList{
             // reassign the tail
             this.tail = newTail;
         }
- 
     }
 
     // method check if DLL is empty or not
     isEmpty(){
         return this.head === null;
-    }
-
-    // utility method to display the DLL data
-    displayDLLUtils(){
-        // head to tail
-        let temp = this.head;
-        let res = "";
-        while(temp != null){
-            // console.log(temp.data);
-            res += temp.data + " ";
-            temp = temp.next;
-        }
-        console.log("From head to tail");
-        console.log(res);
-        console.log("*******************************");
-        // tail to head;
-        res = "";
-        temp = this.tail;
-        while(temp != null){
-            // console.log(temp.data);
-            res += temp.data + " ";
-            temp = temp.prev;
-        }
-        console.log("From tail to head");
-        console.log(res);
     }
 }
 
@@ -153,38 +126,58 @@ class Deque{
         return this.dll.tail ? this.dll.tail.data : -1;
     }
 
-    printDequeUtils(){
-        let temp = this.dll.head;
-        let res = "Deque: ";
-        while(temp !== null){
-            res += temp.data + " ";
-            temp = temp.next;
-        }
-        console.log(res);
+    isEmpty(){
+        return this.dll.isEmpty();
     }
 }
 
-let dq = new Deque();
-dq.addAtFront(11);
-dq.addAtFront(13);
-dq.addAtFront(19);
-dq.addAtFront(21);
-dq.addAtBack(91);
-dq.addAtBack(87);
-dq.addAtBack(77);
-dq.printDequeUtils();
+let maxSlidingWindow = function(nums, k) {
+    let dq = new Deque();
+    let res = [];
 
-console.log("Front Element:", dq.getFront());
-console.log("Rear Element:", dq.getBack());
+    // prepare the first window size of k
+    for (let i = 0; i < k; i++) {
+      // if deque is empty then directly add element index
+      if (dq.isEmpty()) dq.addAtBack(i);
+      else {
+        // if deque is not empty then check upcoming element
+        while (!dq.isEmpty() && nums[i] > nums[dq.getBack()]) {
+          // till the time upcoming element is greater than deque back element
+          // we will pop the element from back of deque
+          dq.removeAtBack();
+        }
+        // Add the current index to the deque
+        dq.addAtBack(i);
+      }
+    }
+    res.push(nums[dq.getFront()]);
 
-dq.removeAtFront();
-dq.removeAtBack();
+    // iterate on remaining elements
+    for (let i = k; i < nums.length; i++) {
+      // remove those element's indices(from front) that is not in proximity of the window
+      while (!dq.isEmpty() && dq.getFront() <= i - k) {
+        dq.removeAtFront();
+      }
+      // now start adding remaining element's index
+      // if deque is empty then directly add element index
+      if (dq.isEmpty()) dq.addAtBack(i);
+      else {
+        // if deque is not empty then check upcoming element
+        while (!dq.isEmpty() && nums[i] > nums[dq.getBack()]) {
+          // till the time upcoming element is greater than deque back element
+          // pop the element from back
+          dq.removeAtBack();
+        }
+        // Add the current index to the deque
+        dq.addAtBack(i);
+      }
+      // Push the maximum of the current window to the result array
+      res.push(nums[dq.getFront()]);
+    }
+    return res;
+};
 
-dq.printDequeUtils();
+let arr = [1,3,-1,-3,5,3,6,7], k = 3;
 
-console.log("Front Element:", dq.getFront());
-console.log("Rear Element:", dq.getBack());
-
-
-
-
+// let arr = [1,-1], k = 1;
+console.log(maxSlidingWindow(arr,k));
