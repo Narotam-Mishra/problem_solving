@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LRUCache",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.LRUCache",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SlidingWindowMaximum",
             "request": "launch",
             "mainClass": "Queue_Problems.SlidingWindowMaximum",

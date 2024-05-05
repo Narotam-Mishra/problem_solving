@@ -142,6 +142,7 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Unsolved]
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [Unsolved]
 - [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) [Unsolved]
+- [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) [VVI - Solved]
 
 ## Stack Problems
 - [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
