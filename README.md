@@ -33,15 +33,13 @@
 
 
 ## Searching and Sorting
-- [selection sort, bubble sort, insertion sort, merge sort, quick sort]
+- [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [min cost to remove all elements such that cost to remove one element is sum of array](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
 - [Inversion count](https://www.spoj.com/problems/INVCNT/)
 - [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) [VVI - Solved]
 - [Quick Sort Algorithm](https://hack.codingblocks.com/app/contests/62/736/problem)
 - [Implement partition algorithm and then modify it to make quick sort (randomised)](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-#sorting)
-- [Implement bubble sort using recursion without any single loop] [Not Solved]
-- [Implement selection sort using recursion.]
 - [Binary Search](https://hack.codingblocks.com/app/contests/5320/199/problem)
 - [Lower Bound](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
 - [Upper Bound](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
@@ -76,6 +74,8 @@
 
 
 ## Recursion Problems
+- [Implement bubble sort using recursion without any single loop](https://www.geeksforgeeks.org/recursive-bubble-sort/)
+- [Implement selection sort using recursion](https://www.geeksforgeeks.org/recursive-selection-sort/) [Unsolved]
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/)
