@@ -153,8 +153,8 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 - [1441. Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/description/) 
 - [844. Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/description/)
-- [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
-- [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Unsolved]
+- [Stack using queue - Push efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Solved]
+- [Stack using queue - pop efficient](https://leetcode.com/problems/implement-stack-using-queues/description/) [Solved]
 - [71. Simplify Path](https://leetcode.com/problems/simplify-path/description/) [Unsolved]
 - [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/description/) [Unsolved]
 - [907. Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/description/) [Unsolved]
@@ -173,3 +173,9 @@
 - [Design Deque using DLL](https://www.geeksforgeeks.org/implementation-deque-using-doubly-linked-list/)
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) [VVI - Solved]
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/) [Unsolved]
+
+## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
+
+## Binary Tree Problems
+- [Design Generic Tree(N-ary Tree)](https://www.geeksforgeeks.org/generic-treesn-array-trees/)
+
