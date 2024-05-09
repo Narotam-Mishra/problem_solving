@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DesignGenericTree",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.DesignGenericTree",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "MinStackHelper",
             "request": "launch",
             "mainClass": "Stack_Problems.MinStackHelper",
