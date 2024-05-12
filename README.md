@@ -177,5 +177,30 @@
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
 ## Binary Tree Problems
-- [Design Generic Tree(N-ary Tree)](https://www.geeksforgeeks.org/generic-treesn-array-trees/)
-
+- [Design Generic Tree(N-ary Tree)](https://www.geeksforgeeks.org/generic-treesn-array-trees/) [Solved]
+- [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Unsolved]
+- [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) [Unsolved]
+- [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) [Unsolved]
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) [Unsolved]
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [Unsolved]
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [Unsolved]
+- [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Unsolved]
+- [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) [Unsolved]
+- [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) [Unsolved]
+- [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) [Unsolved]
+- [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) [Unsolved]
+- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) [Unsolved]
+- [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) [Unsolved]
+- [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) [Unsolved]
+- [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) [Unsolved]
+- [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) [Unsolved]
+- [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) [Unsolved]
+- [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) [Unsolved]
+- [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) [Unsolved]
+- [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) [Unsolved]
+- [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) [Unsolved]
+- [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) [Unsolved]
+- [572. Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/description/) [Unsolved]
+- [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) [Unsolved]
+- [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Unsolved]
+- [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Unsolved]
