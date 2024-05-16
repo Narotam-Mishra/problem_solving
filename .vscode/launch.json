@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BTPostOrderTraversal",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.BTPostOrderTraversal",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BinaryTreePreorderTraversal",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.BinaryTreePreorderTraversal",
