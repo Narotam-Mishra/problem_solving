@@ -194,7 +194,7 @@
 - [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) [Unsolved]
 - [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) [Unsolved]
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) [Unsolved]
-- [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) [Unsolved]
+- [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) [Solved]
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) [Solved]
 - [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) [Unsolved]
 - [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) [Unsolved]
