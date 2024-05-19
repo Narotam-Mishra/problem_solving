@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CousinsInBT",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.CousinsInBT",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BTInOrderTraversal",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.BTInOrderTraversal",
