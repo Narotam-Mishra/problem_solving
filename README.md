@@ -181,7 +181,7 @@
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Solved]
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) [Solved]
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) [Solved]
-- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) [Unsolved]
+- [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) [Solved]
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [Unsolved]
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [Unsolved]
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Unsolved]
