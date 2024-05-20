@@ -196,7 +196,7 @@
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) [Unsolved]
 - [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) [Solved]
 - [107. Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/) [Solved]
-- [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) [Unsolved]
+- [993. Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/description/) [Solved]
 - [103. Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/) [Unsolved]
 - [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/description/) [Unsolved]
 - [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/) [Unsolved]
