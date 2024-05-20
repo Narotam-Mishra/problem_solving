@@ -64,12 +64,24 @@ public:
         cout << "]" << endl;
     }
 
-    void invertTreeTec(){
+    void invertTreeRec(TreeNode* root){
+        // base case:
+        if(root == nullptr) return;
 
+        // recursive case:
+        // invert left and right subtree
+        invertTreeRec(root->left);
+        invertTreeRec(root->right);
+
+        // swap nodes
+        TreeNode* temp = root->left;
+        root->left = root->right;
+        root->right = temp;
     }
 
     TreeNode* invertTree(TreeNode* root) {
-        
+        invertTreeRec(root);
+        return root;
     }
 };
 
@@ -77,6 +89,11 @@ int main(){
     BinaryTree bt;
     vector<int> arr = {1, 2, 3, 4, 5, 6, 7};
     bt.initializeTree(arr);
-    cout <<"Invert Binary Tree:"<<endl;
+    cout <<"Invert Binary Tree:";
+    bt.root = bt.invertTree(bt.root);
+
+    vector<int> res;
+    bt.InOrderRec(bt.root, res);
+    bt.printOneDVector(res);
     return 0;
 }
