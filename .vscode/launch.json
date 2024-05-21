@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RemoveAllAdjacentDuplicatesInString",
+            "request": "launch",
+            "mainClass": "Stack_Problems.RemoveAllAdjacentDuplicatesInString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "InvertBinaryTree",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.InvertBinaryTree",

@@ -161,7 +161,7 @@
 - [155. Min Stack](https://leetcode.com/problems/min-stack/description/) [Solved]
 - [Stock Span Problem](https://www.interviewbit.com/blog/stock-span-problem/) [Unsolved]
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) [Unsolved]
-- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Unsolved]
+- [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Solved]
 
 ## Queue Problems
 - [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
@@ -182,7 +182,7 @@
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) [Solved]
 - [145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/) [Solved]
 - [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/description/) [Solved]
-- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [Unsolved]
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) [Solved]
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) [Unsolved]
 - [543. Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/description/) [Unsolved]
 - [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/description/) [Unsolved]
