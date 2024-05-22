@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DiameterOfBT",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.DiameterOfBT",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MaxDepthOfBT",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.MaxDepthOfBT",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RemoveAllAdjacentDuplicatesInString",
             "request": "launch",
             "mainClass": "Stack_Problems.RemoveAllAdjacentDuplicatesInString",
