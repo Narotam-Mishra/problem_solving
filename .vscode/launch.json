@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindLargestValueInEachTreeRow",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.FindLargestValueInEachTreeRow",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBinaryTree",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.BalancedBinaryTree",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DiameterOfBT",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.DiameterOfBT",
