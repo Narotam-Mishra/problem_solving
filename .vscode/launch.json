@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindSumRootToLeaf",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.FindSumRootToLeaf",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindLargestValueInEachTreeRow",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.FindLargestValueInEachTreeRow",
