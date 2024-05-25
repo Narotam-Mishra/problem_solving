@@ -189,7 +189,7 @@
 - [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/description/) [Solved]
 - [513. Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/description/) [Unsolved]
 - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) [Solved]
-- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) [Unsolved]
+- [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) [VVI - Solved]
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) [Unsolved]
 - [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) [Unsolved]
 - [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) [Unsolved]
