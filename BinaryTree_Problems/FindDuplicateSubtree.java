@@ -56,10 +56,9 @@ public class FindDuplicateSubtree {
         // return
         return str;
     }
-    @SuppressWarnings("unchecked")
+    
     public static List<TreeNodeUtil> findDuplicateSubtrees(TreeNodeUtil root) {
-        @SuppressWarnings("rawtypes")
-        Map mp = new HashMap<>();
+        Map<String, Integer> mp = new HashMap<>();
         List<TreeNodeUtil> res = new ArrayList<>();
         serializeBT(root, mp, res);
         return res;

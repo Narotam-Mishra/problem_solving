@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinaryTreeTemplate",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.BinaryTreeTemplate",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "MaxWidthOfBT",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.MaxWidthOfBT",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindDuplicateSubtree",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.FindDuplicateSubtree",

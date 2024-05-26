@@ -29,6 +29,25 @@ class BinaryTree{
     }
 }
 
+const treeToArray = (root) => {
+    if (!root) return [];
+    const result = [];
+    const queue = [root];
+    while (queue.length > 0) {
+        const node = queue.shift();
+        if (node) {
+            result.push(node.val);
+            queue.push(node.left);
+            queue.push(node.right);
+        } else {
+            result.push(null);
+        }
+    }
+    while (result[result.length - 1] === null) {
+        result.pop();
+    }
+    return result;
+};
 
 let nodeMp;
 let res;
@@ -68,9 +87,10 @@ let findDuplicateSubtrees = function(root) {
 };
 
 const bt = new BinaryTree();
-// let arr = [1,2,3,4,2,4,4];
-let arr = [2,1,1];
+let arr = [1,2,3,4,2,4,4];
+// let arr = [2,1,1];
 bt.intializeTreeNode(arr,0);
 
-const ans = findDuplicateSubtrees(bt.root);
+const duplicates = findDuplicateSubtrees(bt.root);
+const ans = duplicates.map(treeToArray);
 console.log("Duplicate Subtree: ",ans);
