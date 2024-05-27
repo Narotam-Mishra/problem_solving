@@ -6,25 +6,25 @@ package BinaryTree_Problems;
 import java.util.ArrayList;
 import java.util.List;
 
-class TreeNode{
+class GenericTreeNode{
     int value;
-    List<TreeNode> children;
+    List<GenericTreeNode> children;
 
-    TreeNode(int value){
+    GenericTreeNode(int value){
         this.value = value;
         children = new ArrayList<>();
     }
 }
 
 class GenericTree{
-    TreeNode root;
+    GenericTreeNode root;
 
     GenericTree(){
         root = null;
     }
 
     void insertInTree(int value, int parentValue){
-        TreeNode newNode = new TreeNode(value);
+        GenericTreeNode newNode = new GenericTreeNode(value);
         if(parentValue == 0){
             if(root == null){
                 root = newNode;
@@ -32,7 +32,7 @@ class GenericTree{
                 System.out.println("Cannot insert root node more than once!");
             }
         }else{
-            TreeNode parentNode = findNode(root, parentValue);
+            GenericTreeNode parentNode = findNode(root, parentValue);
             if(parentNode != null){
                 parentNode.children.add(newNode);
             }else{
@@ -41,11 +41,11 @@ class GenericTree{
         }
     }
 
-    TreeNode findNode(TreeNode node, int value){
+    GenericTreeNode findNode(GenericTreeNode node, int value){
         if(node == null) return null;
         if(node.value == value) return node;
-        for(TreeNode child : node.children){
-            TreeNode foundNode = findNode(child, value);
+        for(GenericTreeNode child : node.children){
+            GenericTreeNode foundNode = findNode(child, value);
             if(foundNode != null) return foundNode;
         }
         return null;
@@ -55,10 +55,10 @@ class GenericTree{
         return searchNode(root, value);
     }
 
-    boolean searchNode(TreeNode node, int value){
+    boolean searchNode(GenericTreeNode node, int value){
         if(node == null) return false;
         if(node.value == value) return true;
-        for(TreeNode child : node.children){
+        for(GenericTreeNode child : node.children){
             if(searchNode(child, value)) return true;
         }
         return false;
