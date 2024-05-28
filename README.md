@@ -191,7 +191,7 @@
 - [515. Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/) [Solved]
 - [652. Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/description/) [VVI - Solved]
 - [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/) [Solved]
-- [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) [Unsolved]
+- [951. Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/description/) [Solved]
 - [337. House Robber III](https://leetcode.com/problems/house-robber-iii/description/) [Unsolved]
 - [606. Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/) [Unsolved]
 - [637. Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/description/) [Solved]
@@ -204,3 +204,7 @@
 - [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) [Unsolved]
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Unsolved]
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Unsolved]
+
+## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
+
+## Binary Search Tree (BST) Problems 

@@ -25,20 +25,30 @@ public:
         this->root = nullptr;
     }
 
-    // Utility method to create a binary tree from an array
-    TreeNode* createBinaryTree(const vector<int>& arr, int index){
-        if(index < arr.size() && arr[index] != -1){
-            TreeNode* temp = new TreeNode(arr[index]);
-            temp->left = createBinaryTree(arr, 2 * index + 1);
-            temp->right = createBinaryTree(arr, 2 * index + 2);
-            return temp;
-        }
-        return nullptr;
-    }
+    TreeNode* buildTreeNodeUtil(const vector<int>& arr) {
+        if (arr.empty() || arr[0] == -1) return nullptr;
 
-    // Initialize the binary tree with the given array
-    void initializeTree(const vector<int>& arr){
-        this->root = createBinaryTree(arr, 0);
+        TreeNode* root = new TreeNode(arr[0]);
+        queue<TreeNode*> q;
+        q.push(root);
+        int i = 1;
+
+        // iterate on queue and build tree
+        while (!q.empty() && i < arr.size()) {
+            TreeNode* curr = q.front();
+            q.pop();
+            if (i < arr.size() && arr[i] != -1) {
+                curr->left = new TreeNode(arr[i]);
+                q.push(curr->left);
+            }
+            i++;
+            if (i < arr.size() && arr[i] != -1) {
+                curr->right = new TreeNode(arr[i]);
+                q.push(curr->right);
+            }
+            i++;
+        }
+        return root;
     }
 };
 
@@ -68,11 +78,15 @@ bool flipEquiv(TreeNode* root1, TreeNode* root2) {
 int main(){
     BinaryTree bt1;
     vector<int> arr1 = {1,2,3,4,5,6,-1,-1,-1,7,8};
-    bt1.initializeTree(arr1);
+    bt1.buildTreeNodeUtil(arr1);
 
     BinaryTree bt2;
     vector<int> arr2 = {1,3,2,-1,6,4,5,-1,-1,-1,-1,8,7};
-    bt2.initializeTree(arr2);
-    cout <<"Is Binary Tree Flip Equivalent : "<<flipEquiv(bt1.root, bt2.root)<<endl;
+    bt2.buildTreeNodeUtil(arr2);
+    if(flipEquiv(bt1.root, bt2.root)){
+        cout <<"Is Binary Tree Flip Equivalent : "<<"true"<<endl;
+    }else{
+        cout <<"Is Binary Tree Flip Equivalent : "<<"false"<<endl;
+    }
     return 0;
 }

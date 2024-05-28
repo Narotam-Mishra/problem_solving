@@ -10,11 +10,11 @@ public class FlipEquivalentBT {
             return true;
 
         // base case2: if either of the root is null then return false
-        else if (root1 == null || root2 == null)
+        if (root1 == null || root2 == null)
             return false;
 
         // base case3: if root's val are not equal then return false
-        else if (root1.val != root2.val)
+        if (root1.val != root2.val)
             return false;
         
         // recursive case: recursively check for left and right subtree
@@ -32,12 +32,12 @@ public class FlipEquivalentBT {
 
     public static void main(String[] args) {
         BinaryTree bt1 = new BinaryTree();
-        Integer[] arr1 = {1,2,3,4,5,6,null,null,null,7,8};
-        bt1.initializeTreeUtil(arr1);
+        Integer[] arr1 = {1, 2, 3, 4, 5, 6, -1, -1, -1, 7, 8};
+        bt1.buildTreeNodeUtil(arr1);
 
         BinaryTree bt2 = new BinaryTree();
-        Integer[] arr2 = {1,3,2,null,6,4,5,null,null,null,null,8,7};
-        bt2.initializeTreeUtil(arr2);
+        Integer[] arr2 = {1, 3, 2, -1, 6, 4, 5, -1, -1, -1, -1, 8, 7};
+        bt2.buildTreeNodeUtil(arr2);
 
         System.out.println("Is Binary Tree Flip Equivalent : "+flipEquiv(bt1.root, bt2.root));
     }
