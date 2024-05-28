@@ -70,7 +70,7 @@ class BinaryTree{
 public class BinaryTreeTemplate {
     public static void main(String[] args) {
         BinaryTree bt = new BinaryTree();
-        Integer[] arr = {1, 2, 3, 4, 5, 6, 7};
+        Integer[] arr = {1, 2, 3, 4, null, 5, 6, null, 7};
         bt.initializeTreeUtil(arr);
 
         // Creating a list of trees to pass to the convertTreesToArrays method
