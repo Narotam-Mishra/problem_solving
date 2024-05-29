@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HouseRobberIII",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.HouseRobberIII",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FlipEquivalentBT",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.FlipEquivalentBT",

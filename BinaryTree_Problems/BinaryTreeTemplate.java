@@ -61,6 +61,11 @@ class BinaryTree{
         return null;
     }
 
+    // Initialize the binary tree with the given array
+    void initializeTreeUtil(int[] arr){
+        this.root = createBinaryTreeNodeUtil(arr, 0);
+    }
+
     // build BT using Queue
     public TreeNode buildTreeNodeUtil(Integer[] arr){
         // corner case:
@@ -88,11 +93,6 @@ class BinaryTree{
             i++;
         }
         return root;
-    }
-
-    // Initialize the binary tree with the given array
-    void initializeTreeUtil(int[] arr){
-        this.root = createBinaryTreeNodeUtil(arr, 0);
     }
 }
 
