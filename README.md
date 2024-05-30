@@ -208,3 +208,5 @@
 ## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
 ## Binary Search Tree (BST) Problems 
+- [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) [VVI - Solved]
+
