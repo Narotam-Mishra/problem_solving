@@ -122,6 +122,7 @@
 - [Paint House](https://www.naukri.com/code360/problems/paint-house_1460385) [Unsolved]
 - [Paint House II](https://www.naukri.com/code360/problems/ninja-s-contract_1459321) [Unsolved]
 
+## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
 ## Linked List Problems
 - [Linked List Implementation](https://www.geeksforgeeks.org/what-is-linked-list/)
@@ -144,6 +145,8 @@
 - [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) [Unsolved]
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) [VVI - Solved]
 
+## [Intro to Stack](https://www.geeksforgeeks.org/stack-data-structure/)
+
 ## Stack Problems
 - [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
 - [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
@@ -162,6 +165,8 @@
 - [Stock Span Problem](https://www.interviewbit.com/blog/stock-span-problem/) [Unsolved]
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) [Unsolved]
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Solved]
+
+## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
 ## Queue Problems
 - [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
