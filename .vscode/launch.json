@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConstructStringFromBT",
+            "request": "launch",
+            "mainClass": "BinaryTree_Problems.ConstructStringFromBT",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "InsertIntoBST",
             "request": "launch",
             "mainClass": "BinarySearchTree_problems.InsertIntoBST",
