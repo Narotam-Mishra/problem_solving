@@ -1,5 +1,5 @@
 
-// Problem link - https://leetcode.com/problems/insert-into-a-binary-search-tree/description/
+// Problem link - https://leetcode.com/problems/search-in-a-binary-search-tree/description/
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -78,39 +78,47 @@ public:
         // return result list
         return resList;
     }
+
+    // utility method to print 1-D Vector
+    void printOneDVectorFormat(vector<int>& result) {
+        cout << "[";
+        for (size_t i = 0; i < result.size(); ++i) {
+            cout<<result[i]<<" ";
+            // Only add a comma and space if not the last element
+            if (i != result.size() - 1) { 
+                cout << ",";
+            }
+        }
+        cout << "]" << endl;
+    }
 };
 
-// insert node into BST recursively
-TreeNode* insertIntoBSTRec(TreeNode* root, int val) {
-    if (root == nullptr) {
-        return new TreeNode(val);
+TreeNode* serachIntoBSTRec(TreeNode* curr, int val) {
+    // base case 1:
+    if (curr == nullptr) return nullptr;
+
+    // base case 2:
+    if (val == curr->val) return curr;
+
+    // recursive case:
+    else if (val < curr->val) {
+        return serachIntoBSTRec(curr->left, val);
     }
-    if (root->val > val) {
-        root->left = insertIntoBSTRec(root->left, val);
-    }
-    else {
-        root->right = insertIntoBSTRec(root->right, val);
-    }
-    return root;
+    return serachIntoBSTRec(curr->right, val);
 }
 
-TreeNode* insertIntoBST(TreeNode* root, int val) {
-    return insertIntoBSTRec(root, val);
+TreeNode* searchBST(TreeNode* root, int val) {
+    return serachIntoBSTRec(root, val);
 }
 
 int main(){
     BinarySearchTree bst;
-    vector<int> arr = { 40, 20, 60, 10, 30, 50, 70 };
-    int value = 25;
+    vector<int> arr = {4, 2, 7, 1, 3};
+    int value = 2;
 
     bst.buildBST(arr);
-    bst.root = bst.insertNodeIntoBST(bst.root, value);
+    bst.root = searchBST(bst.root, value);
     vector<int> res = bst.printBST();
-
-    cout << "After Insertion: [";
-    for (int val : res) {
-        cout << val << " ";
-    }
-    cout <<"]"<<endl;
+    bst.printOneDVectorFormat(res);
     return 0;
 }

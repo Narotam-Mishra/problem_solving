@@ -1,5 +1,5 @@
 
-// Problem link - https://leetcode.com/problems/insert-into-a-binary-search-tree/description/
+// Problem link - https://leetcode.com/problems/search-in-a-binary-search-tree/description/
 
 class Node{
     constructor(data){
@@ -104,10 +104,26 @@ class BinarySearchTree{
         this.root = null;
     }
 
-    createBinarySearchTree(arr) {
+    insertIntoBSTRec(root, val){
+        if(root === null){
+            return new TreeNode(val);
+        }
+    
+        // if root node value is greater than given val
+        // then attach into left subtree
+        if(root.val > val){
+            root.left = this.insertIntoBSTRec(root.left, val);
+        }else{
+            // otherwise insert into right subtree
+            root.right = this.insertIntoBSTRec(root.right, val);
+        }
+        return root;
+    }
+
+    buildBSTUtil(arr) {
         for (let val of arr) {
             if(val !== null){
-                this.root = insertIntoBST(this.root, val);
+                this.root = this.insertIntoBSTRec(this.root, val);
             }
         }
     }
@@ -142,35 +158,35 @@ class BinarySearchTree{
     }
 }
 
-function insertIntoBSTRec(root, val){
-    if(root === null){
-        return new TreeNode(val);
-    }
+function searchBSTRec(root, val){
+    // base case1:
+    if(root === null) return null;
 
-    // if root node value is greater than given val
-    // then attach into left subtree
-    if(root.val > val){
-        root.left = insertIntoBSTRec(root.left, val);
-    }else{
-        // otherwise insert into right subtree
-        root.right = insertIntoBSTRec(root.right, val);
+    //base case2: 
+    if(val === root.val){
+        return root;
     }
-    return root;
+    // recursive case:
+    else if(val < root.val){
+        return searchBSTRec(root.left, val);
+    }
+    return searchBSTRec(root.right, val);
 }
 
-let insertIntoBST = function(root, val) {
-    return insertIntoBSTRec(root, val);
+let searchBST = function(root, val) {
+    return searchBSTRec(root, val);
 };
 
 const bst = new BinarySearchTree();
+let arr = [4,2,7,1,3];
+let val = 2;
+
 // let arr = [4,2,7,1,3];
-// let value = 5;
+// let val = 5;
 
-let arr = [40,20,60,10,30,50,70];
-let value = 25;
-bst.createBinarySearchTree(arr);
+bst.buildBSTUtil(arr);
 
-// insert value into BST
-bst.root = insertIntoBST(bst.root, value);
-// print BST into array
-console.log(bst.printBST());
+bst.root = searchBST(bst.root, val);
+
+const bstArr = bst.printBST();
+console.log(bstArr);
