@@ -4,8 +4,7 @@
 ## [Basic Problems](https://leetcode.com/problemset/?difficulty=EASY&page=1&topicSlugs=math%2Carray&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
-- [976. Largest Perimeter Triangle
-](https://leetcode.com/problems/largest-perimeter-triangle/description/)
+- [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
