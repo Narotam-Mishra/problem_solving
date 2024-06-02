@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthSmallestElementInBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree_problems.KthSmallestElementInBST",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DeleteNodeInBST",
             "request": "launch",
             "mainClass": "BinarySearchTree_problems.DeleteNodeInBST",

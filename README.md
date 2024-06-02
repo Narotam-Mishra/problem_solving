@@ -215,5 +215,5 @@
 ## Binary Search Tree (BST) Problems 
 - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) [VVI - Solved]
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) [Solved]
-- [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Unsolved]
-
+- [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
+- [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)[Solved]
