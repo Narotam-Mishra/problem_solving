@@ -230,6 +230,12 @@
 - [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)[Unsolved]
 - [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)[Unsolved]
 
+## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
+
+## Hashing and HashMap Problems
+-[Implement Hashing]()
+-[706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
+
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
 ## Trie Problems
