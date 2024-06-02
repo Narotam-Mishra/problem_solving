@@ -1,9 +1,11 @@
 
 ## [Problem Solving (DSA)](https://leetcode.com/problemset/)
 
-## Basic Problems
+## [Basic Problems](https://leetcode.com/problemset/?difficulty=EASY&page=1&topicSlugs=math%2Carray&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJGUkVRVUVOQ1kifV0%3D)
 - [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/description/)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
+- [976. Largest Perimeter Triangle
+](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -72,6 +74,7 @@
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
 
+## [Intro to Recursion](https://chatgpt.com/share/94fb6625-6f75-4627-aa86-f0f021ec3cf8)
 
 ## Recursion Problems
 - [Implement bubble sort using recursion without any single loop](https://www.geeksforgeeks.org/recursive-bubble-sort/)
@@ -91,6 +94,7 @@
 - [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
+## [Intro to Dynamic Programming](https://chatgpt.com/share/c060c58c-2e0a-4832-be6f-8e3944995c8c)
 
 ## Dynamic Programming Problems
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
@@ -209,6 +213,7 @@
 - [617. Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) [Unsolved]
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Unsolved]
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Unsolved]
+- [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)[Unsolved]
 
 ## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
@@ -217,3 +222,17 @@
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) [Solved]
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)[Solved]
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [VVI - Unsolved]
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)[Unsolved]
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Unsolved]
+- [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)[Unsolved]
+- [1307 · Verify Preorder Sequence in Binary Search Tree](https://www.naukri.com/code360/problems/verify-preorder-sequence-in-binary-search-tree_1281309)[Unsolved]
+- [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)[Unsolved]
+- [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)[Unsolved]
+- [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)[Unsolved]
+
+## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
+
+## Trie Problems
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)[VVI - Unsolved]
+- [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[Unsolved]

@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindLargestPerimeterTriangle",
+            "request": "launch",
+            "mainClass": "Basic_problems.FindLargestPerimeterTriangle",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "KthSmallestElementInBST",
             "request": "launch",
             "mainClass": "BinarySearchTree_problems.KthSmallestElementInBST",
