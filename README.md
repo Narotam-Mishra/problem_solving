@@ -213,6 +213,7 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Unsolved]
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Unsolved]
 - [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)[Unsolved]
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [VVI - Unsolved]
 
 ## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
@@ -221,7 +222,6 @@
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) [Solved]
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)[Solved]
-- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [VVI - Unsolved]
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)[Unsolved]
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Unsolved]
 - [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)[Unsolved]
@@ -233,8 +233,8 @@
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
 ## Hashing and HashMap Problems
--[Implement Hashing]()
--[706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
+- [Implement Hashing]()
+- [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
