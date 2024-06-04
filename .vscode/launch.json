@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMiddleOfLL",
+            "request": "launch",
+            "mainClass": "LinkedList_problems.FindMiddleOfLL",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "ConvertSortedLLToBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree_problems.ConvertSortedLLToBST",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BTMaximumPathSum",
             "request": "launch",
             "mainClass": "BinaryTree_Problems.BTMaximumPathSum",

@@ -137,7 +137,7 @@
 - [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) [VVI]
 - [1721. Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 - [86. Partition List](https://leetcode.com/problems/partition-list/description/) [VVI]
-- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+- [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)[Solved]
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [VVI - Unsolved]
 - [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)[Unsolved - VVI]
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [Unsolved]
@@ -213,7 +213,8 @@
 - [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/) [Unsolved]
 - [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [Unsolved]
 - [979. Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/description/?envType=daily-question&envId=2024-05-18)[Unsolved]
-- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [VVI - Unsolved]
+- [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/description/) [VVI - Solved]
+
 
 ## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
@@ -222,7 +223,7 @@
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) [Solved]
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)[Solved]
-- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)[Unsolved]
+- [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)[VVI - Solved]
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Unsolved]
 - [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)[Unsolved]
 - [1307 · Verify Preorder Sequence in Binary Search Tree](https://www.naukri.com/code360/problems/verify-preorder-sequence-in-binary-search-tree_1281309)[Unsolved]
