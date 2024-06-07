@@ -61,10 +61,18 @@ class HashMap {
         let primeNo = 101;
         // prime number to keep
 
+        let pow = 1;
+        // initially power p^0 i.e 1
+
         // iterate on each character of input key
         for(let i=0; i<key.length; i++){
             let asciiValue = this.getASCIIValue(key, i);
+            hashedValue = (hashedValue + asciiValue*pow) % this.currSize;
+
+            // for next iteration we will increment the power
+            pow = pow * primeNo;
         }
+        return hashedValue;
     }
 
     // utility function to find ASCII of a character
