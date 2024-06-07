@@ -224,7 +224,7 @@
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
 - [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)[Solved]
 - [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)[VVI - Solved]
-- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Unsolved]
+- [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Solved]
 - [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)[Unsolved]
 - [1307 · Verify Preorder Sequence in Binary Search Tree](https://www.naukri.com/code360/problems/verify-preorder-sequence-in-binary-search-tree_1281309)[Unsolved]
 - [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)[Unsolved]
