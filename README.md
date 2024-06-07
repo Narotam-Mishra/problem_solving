@@ -234,7 +234,7 @@
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
 ## Hashing and HashMap Problems
-- [Implement Hashing]()
+- [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
