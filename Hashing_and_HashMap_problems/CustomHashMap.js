@@ -127,6 +127,11 @@ class HashMap {
     // utility method to insert into HashMap
     insert(key, value){
         // TODO: implement update function
+        if(this.search(key)){
+            // key already present, so no need to insert just update
+            this.update(key, value);
+            return;
+        }
 
         let newLoadFactor = (this.currSize + 1) / this.maxSize;
         if(newLoadFactor > this.lambdaFactorThreshold){
