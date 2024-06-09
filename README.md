@@ -245,3 +245,8 @@
 
 
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
+
+## [Intro to Heaps / Priority Queue]()
+
+## Heaps/Priority Queue Problems
+- [Implement your own Priority Queue]()
