@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ValidateBST",
+            "request": "launch",
+            "mainClass": "BinarySearchTree_problems.ValidateBST",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindMiddleOfLL",
             "request": "launch",
             "mainClass": "LinkedList_problems.FindMiddleOfLL",

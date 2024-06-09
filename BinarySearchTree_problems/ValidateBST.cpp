@@ -80,9 +80,33 @@ public:
     }
 };
 
+bool isValidBSTRec(TreeNode* root, long long lowerVal, long long upperVal){
+    // Base case: if root doesn't exist then return true
+    if(root == nullptr) return true;
+
+    // base case: the current tree node's value must be within the range 
+    // and the right subtree with updated lower bound.
+    if(root->val <= lowerVal || root->val >= upperVal) return false;
+
+    // Recursively validate the left subtree with updated upper bound,
+    // and the right subtree with updated lower bound.
+    return isValidBSTRec(root->left, lowerVal, root->val) && isValidBSTRec(root->right, root->val, upperVal);
+}
+
+bool isValidBST(TreeNode* root) {
+    return isValidBSTRec(root, LLONG_MIN, LLONG_MAX);
+}
+
 int main(){
     BinarySearchTree bst;
-    vector<int> arr = {4, 2, 7, 1, 3};
+    // vector<int> arr = {2, 1, 3};
+
+    vector<int> arr = {5, 1, 4, -1, -1, 3, 6};
     bst.buildBST(arr);
+    if(isValidBST(bst.root)){
+        cout<<"Is valid BST : "<<"true"<<endl; 
+    }else{
+        cout<<"Is valid BST : "<<"false"<<endl; 
+    }
     return 0;
 }
