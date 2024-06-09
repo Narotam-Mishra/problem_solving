@@ -141,6 +141,71 @@ class HashMapUtils{
         currSize++;
     }
 
+    // utility method to remove(key,value pair entry) from HashMap
+    public void remove(String key){
+        /**
+        * 1. Check if the key is even present or not ?
+        * 2. If the key is present, check in which ll bucket it is, using hash function
+        * 3. Iterate on the LL and remove the node
+        */
+
+        // step - 1
+        Integer value = search(key);
+        if(value == null){
+            System.out.println("Key is not present, nothing to remove");
+            return;
+        }
+
+        // step - 2
+        int bucketIndex = hashFunction(key);
+        Node temp = arr[bucketIndex].head;
+
+        // 2.1 - check LL to find key
+        if(temp.key.equals(key)){
+            // head node need to be deleted
+            arr[bucketIndex].deleteAtHead();
+
+            // 2.2 - decrease current size of hash map
+            currSize--;
+
+            // 2.3 - after decrement , recalculate load factor
+            double loadFactor = (double) currSize/maxSize;
+            if(loadFactor <= lambdaFactorLowerThreshold){
+                //2.4 - if current load factor is less than lower load factor value then rehash()
+                rehash(0.5);
+            }
+            return;
+        }
+
+        // step - 3
+        while(temp != null){
+            //3.1 - check if the curr node is just behind the node to be deleted ?
+            if(temp.next != null && temp.next.key.equals(key)){
+                Node nodeToBeDel = temp.next;
+
+                //3.2 - attach prev node to next node
+                temp.next = nodeToBeDel.next;
+
+                //3.3 - break the LL connection
+                nodeToBeDel.next = null;
+                
+                // 3.4 - decrement current size of hash map
+                currSize--;
+
+                //3.5 - after decrement , recalculate load factor
+                double loadFactor = (double) currSize / maxSize;
+
+                if(loadFactor <= lambdaFactorLowerThreshold){
+                    //3.6 - if current load factor is less than lower load factor value, then rehash()
+                    rehash(0.5);
+                }
+                return;
+            }
+            // move forward in LL
+            temp = temp.next;
+        }
+    }
+
     // utility method to search key's value in HashMap
     public Integer search(String key){
         // get bucketIndex using hash function
@@ -201,6 +266,24 @@ class HashMapUtils{
 
 public class CustomHashMap {
     public static void main(String[] args) {
-        
+        HashMapUtils hm = new HashMapUtils();
+        hm.insert("mango", 21);
+        hm.display();
+        hm.insert("chiku", 11);
+        hm.display();
+        hm.insert("apple", 31);
+        hm.display();
+        hm.insert("grapes", 51);
+        hm.display();
+        hm.insert("Pineapple", 61);
+        hm.display();
+
+        System.out.println(hm.search("Orange"));
+
+        hm.remove("chiku");
+        hm.display();
+
+        hm.update("mango", 49);
+        hm.display();
     }
 }

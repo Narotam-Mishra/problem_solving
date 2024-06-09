@@ -169,7 +169,7 @@ class HashMap {
         const bucketIndex = this.hashFunction(key);
         let temp = this.arr[bucketIndex].head;
 
-        // 2.1 - iterate LL to find key
+        // 2.1 - check LL to find key
         if(temp.key === key){
             // head node need to be deleted
             this.arr[bucketIndex].deleteAtHead();

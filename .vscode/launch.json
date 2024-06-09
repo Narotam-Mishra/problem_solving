@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomHashMap",
+            "request": "launch",
+            "mainClass": "Hashing_and_HashMap_problems.CustomHashMap",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ValidateBST",
             "request": "launch",
             "mainClass": "BinarySearchTree_problems.ValidateBST",
