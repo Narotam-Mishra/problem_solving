@@ -234,7 +234,7 @@
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
 ## Hashing and HashMap Problems
-- [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)
+- [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)[Solved]
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
@@ -245,8 +245,12 @@
 
 
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
+- [Implement all Important AVL Tree methods](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)[Unsolved]
+- [Left rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
+- [Right rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
+- [Insert in AVL Tree](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
 
-## [Intro to Heaps / Priority Queue]()
+## [Intro to Heaps / Priority Queue](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904)
 
 ## Heaps/Priority Queue Problems
-- [Implement your own Priority Queue]()
+- [Implement your own Priority Queue](https://github.com/Narotam-Mishra/problem_solving#heapspriority-queue-problems)
