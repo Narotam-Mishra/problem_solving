@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ImplementTrie",
+            "request": "launch",
+            "mainClass": "Tries_problems.ImplementTrie",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CustomHashMap",
             "request": "launch",
             "mainClass": "Hashing_and_HashMap_problems.CustomHashMap",
