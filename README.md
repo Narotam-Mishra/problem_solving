@@ -247,7 +247,7 @@
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
 
 ## AVL Tree Methods
-- [Implement all Important AVL Tree methods](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)[Unsolved]
+- [Implement all Important AVL Tree methods](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)[Solved]
 - [Left rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
 - [Right rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
 - [Insert in AVL Tree](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
