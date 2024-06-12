@@ -1,6 +1,109 @@
 
 // Design your own AVL Tree with its important methods
 
+class ListNode{
+    constructor(data){
+        this.data = data;
+        this.next = null;
+    }
+}
+
+class LinkedList{
+    constructor(){
+        // head of ll
+        this.head = null;
+        // tail of ll
+        this.tail = null;
+    }
+
+    addAtTail(data){
+        if(this.head == null){
+            // ll is empty
+            const newNode = new ListNode(data);
+            this.head = newNode;
+            this.tail = newNode;
+            return;
+        }else{
+            let newNode = new ListNode(data);
+            // we are attaching the new node after the prev tail 
+            this.tail.next = newNode;
+            // update the tail property
+            this.tail = newNode;
+        }
+    }
+
+    removeAtHead(){
+        // if ll is null
+        if(this.head === null) return 
+        else{
+            // if ll is not empty
+            // store the new head of ll
+            let newHead = this.head.next;
+
+            // disconnect the old head from ll
+            this.head.next = null;
+            // allocating the brand new head 
+            this.head = newHead;
+
+            // if head becomes null after removal of the node, means ll is empty
+            if(this.head === null){
+                // make tail also null
+                this.tail = null;
+            }
+        }
+    }
+
+    getHeadData(){
+        if(this.head === null) return undefined;
+        return this.head.data;
+    }
+
+    getTailData(){
+        if(this.tail === null) return undefined;
+        return this.tail.data;
+    }
+
+    isEmpty(){
+        return this.head === null
+    }
+}
+
+class CustomQueue{
+
+    constructor(){
+        // we will create a brand new empty ll
+        this.ll = new LinkedList();
+    }
+
+    // utility method to insert element into queue
+    enqueue(data){
+        this.ll.addAtTail(data);
+    }
+
+    // utility method to delete element from queue
+    dequeue(){
+        if(this.ll.isEmpty()) return;
+        this.ll.removeAtHead();
+    }
+
+    // check if queue is empty or not
+    isEmpty(){
+        return this.ll.isEmpty();
+    }
+
+    // get front element of queue
+    getFront(){
+        return this.ll.getHeadData();
+    }
+
+    // get back/rear element of queue
+    getBack(){
+        return this.ll.getTailData();
+    }
+}
+
+// Node for AVL Tree
+
 class Node {
     constructor(data){
         this.data = data;
@@ -165,6 +268,50 @@ class AVLTree {
         let res = [];
         this.postOrderRec(this.root, res);
         return res;
+    }
+
+    levelOrderTraversal(){
+        return this.levelOrder(this.root);
+    }
+
+    levelOrder(root) {
+        //corner case: if root is null then return empty array
+        if(root === null) return [];
+        let qu = new CustomQueue();
+        // first we insert root of the tree to the Queue
+        qu.enqueue(root);
+        // marker null indicates end of the level
+        qu.enqueue(null);
+        // to store tree's data in result 'res' array
+        const res = [];
+        // to store each level data we used levelArr
+        let levelArr = new Array();
+        // traverse queue
+        while(!qu.isEmpty()){
+            // get front node from queue
+            const curr = qu.getFront();
+            qu.dequeue();
+            if(curr === null){
+                // this show end of last level
+                if(!qu.isEmpty()){
+                    // if queue is not empty then we have all elements in queue of of next level
+                    // befor we refresh level array it has data of lst level, so we push into result 'res' array 
+                    res.push(levelArr);
+                    // again add marker null 
+                    qu.enqueue(null);
+                    // in the end refresh level array
+                    levelArr = new Array();
+                }else{
+                    res.push(levelArr);
+                }
+            }else{
+                levelArr.push(curr.data);
+                // recursively traverse left and right node of tree for each level
+                if(curr.left) qu.enqueue(curr.left);
+                if(curr.right) qu.enqueue(curr.right);
+            }
+        }
+        return res;
     };
 }
 
@@ -180,11 +327,12 @@ avl.insertInAVLTree(7);
 const pre = avl.preorderTraversal();
 const post = avl.postorderTraversal();
 const inorder = avl.inorderTraversal();
+const levelOrderArr = avl.levelOrderTraversal();
 
-console.log(`PreOrder Traversal: ${pre}`);
-console.log(`InOrder Traversal: ${inorder}`);
-console.log(`PostOrder Traversal: ${post}`);
-
+console.log(`PreOrder Traversal: `, pre);
+console.log(`InOrder Traversal: `, inorder);
+console.log(`PostOrder Traversal: `, post);
+console.log(`LevelOrder Traversal: `, levelOrderArr);
 
 
 
