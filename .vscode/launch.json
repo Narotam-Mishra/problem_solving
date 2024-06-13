@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PlusOne",
+            "request": "launch",
+            "mainClass": "Basic_problems.PlusOne",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DesignAVLTree",
             "request": "launch",
             "mainClass": "AVL_Tree.DesignAVLTree",
