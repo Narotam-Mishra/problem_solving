@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DesignAVLTree",
+            "request": "launch",
+            "mainClass": "AVL_Tree.DesignAVLTree",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ImplementTrie",
             "request": "launch",
             "mainClass": "Tries_problems.ImplementTrie",
