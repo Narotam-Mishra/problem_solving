@@ -76,7 +76,7 @@ class AVLTree {
         return calcHeight(node.left) - calcHeight(node.right);
     }
 
-    // insert method helper method
+    // insert helper method
     public void insertIntoAVLTree(int data){
         root = insert(root, data);
     }
@@ -230,12 +230,13 @@ class AVLTree {
 public class DesignAVLTree {
     public static void main(String[] args) {
         AVLTree tree = new AVLTree();
-        tree.insertIntoAVLTree(10);
-        tree.insertIntoAVLTree(20);
-        tree.insertIntoAVLTree(30);
-        tree.insertIntoAVLTree(40);
-        tree.insertIntoAVLTree(50);
-        tree.insertIntoAVLTree(25);
+        tree.insertIntoAVLTree(1);
+        tree.insertIntoAVLTree(2);
+        tree.insertIntoAVLTree(3);
+        tree.insertIntoAVLTree(4);
+        tree.insertIntoAVLTree(5);
+        tree.insertIntoAVLTree(6);
+        tree.insertIntoAVLTree(7);
 
         ArrayList<Integer> preOrder = tree.preorderTraversal();
         System.out.print("Preorder Traversal: ");
