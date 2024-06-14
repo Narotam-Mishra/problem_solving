@@ -241,8 +241,8 @@
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
 ## Trie Problems
-- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)[VVI - Solved]
-- [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[Unsolved]
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)[Solved]
+- [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[VVI - Solved]
 
 
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
