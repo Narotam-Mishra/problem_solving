@@ -243,6 +243,7 @@
 ## Trie Problems
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)[Solved]
 - [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[VVI - Solved]
+- [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) [Unsolved]
 
 
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
@@ -256,4 +257,5 @@
 ## [Intro to Heaps / Priority Queue](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904)
 
 ## Heaps/Priority Queue Problems
-- [Implement your own Priority Queue](https://github.com/Narotam-Mishra/problem_solving#heapspriority-queue-problems)
+- [Implement your own Heaps](https://chatgpt.com/share/3e11f7f6-daf6-407b-b189-62cec64d78a2)
+- [Heap Sort Implementation](https://chatgpt.com/share/a0de6e14-1013-449f-83da-a8d7e22dfb95)
