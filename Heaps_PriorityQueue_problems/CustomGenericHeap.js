@@ -1,9 +1,10 @@
 
-// Implement your own max-Heap with all required methods
+// Implement your own Heaps with all required methods
 
-class CustomMaxHeap {
-  constructor() {
+class CustomGenericHeap {
+  constructor(cmp) {
     this.arr = [];
+    this.cmp = cmp;
   }
 
   // utility method to perfrom upHeapify operation while insertion into heap
@@ -12,7 +13,7 @@ class CustomMaxHeap {
     while (idx > 0) {
       // till the time index 'idx' doesn't reach the root
       let pi = Math.floor((idx - 1) / 2);
-      if (this.arr[pi] < this.arr[idx]) {
+      if (this.cmp(this.arr[pi], this.arr[idx])) {
         // parent is smallert than current element
 
         // swap the parent and child
@@ -47,12 +48,19 @@ class CustomMaxHeap {
       // assume root is max element index
       let maxElementIdx = idx;
 
-      if (lcIdx < this.arr.length && this.arr[maxElementIdx] < this.arr[lcIdx]) {
+      // compare parent and child
+      if (
+        lcIdx < this.arr.length &&
+        this.cmp(this.arr[maxElementIdx], this.arr[lcIdx])
+      ) {
         // left child index exist and it has maximum element also
         maxElementIdx = lcIdx;
       }
 
-      if (rcIdx < this.arr.length && this.arr[maxElementIdx] < this.arr[rcIdx]) {
+      if (
+        rcIdx < this.arr.length &&
+        this.cmp(this.arr[maxElementIdx], this.arr[rcIdx])
+      ) {
         // right child idx exist and it has maximum element also
         maxElementIdx = rcIdx;
       }
@@ -76,8 +84,8 @@ class CustomMaxHeap {
   // utility method to delete into heap
   remove() {
     // corner case:
-    if(this.arr.length === 0) return
-    // remove the highest priority element from heap
+    if (this.arr.length === 0) return;
+    // remove the priority wise element from heap
 
     // step1 - swap the root with last element
     let temp = this.arr[0];
@@ -91,23 +99,38 @@ class CustomMaxHeap {
     this.downHeapify(0);
   }
 
-  // utility method to display heap's elements   
-  display(){
-    console.log("Max Heap's elements: ", this.arr);
+  // utility method to display heap's elements
+  display() {
+    console.log("Heap's elements: ", this.arr);
   }
+
+  // utility method to find top element of heap
+  peek() {
+    return this.arr.length === 0 ? null : this.arr[0];
+  }
+
+  // utility method to get size of max heap
+  size() {
+    return this.arr.length;
+  }
+
 }
+  
+  let hp = new CustomGenericHeap((a,b) => {
+    // a < b for max Heap and a > b for min heap
+    return a < b;
+  });
 
-let maxHp = new CustomMaxHeap();
-maxHp.insert(9);
-maxHp.insert(19);
-maxHp.insert(12);
-maxHp.insert(39);
-maxHp.insert(29);
-maxHp.insert(2);
-maxHp.insert(-9);
-maxHp.insert(6);
-
-maxHp.display();
-
-maxHp.remove();
-maxHp.display();
+hp.insert(9);
+hp.insert(19);
+hp.insert(12);
+hp.insert(39);
+hp.insert(29);
+hp.insert(2);
+hp.insert(-9);
+hp.insert(6);
+  
+hp.display();
+  
+hp.remove();
+hp.display();

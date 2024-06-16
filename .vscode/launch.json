@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthLargestInArray",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.KthLargestInArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "CustomGenericHeap",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.CustomGenericHeap",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "MaximumXOROfTwoNumbers",
             "request": "launch",
             "mainClass": "Tries_problems.MaximumXOROfTwoNumbers",
