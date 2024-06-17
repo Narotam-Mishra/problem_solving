@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.HeapSort",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CustomPriorityQueue",
             "request": "launch",
             "mainClass": "Heaps_PriorityQueue_problems.CustomPriorityQueue",
