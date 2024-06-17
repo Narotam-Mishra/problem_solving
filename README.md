@@ -259,4 +259,5 @@
 ## Heaps/Priority Queue Problems
 - [Implement your own Heaps](https://chatgpt.com/share/3e11f7f6-daf6-407b-b189-62cec64d78a2) [VVI - Solved]
 - [Heap Sort Implementation](https://chatgpt.com/share/a0de6e14-1013-449f-83da-a8d7e22dfb95)
+- [Implement your own Priority Queue using Heap's property](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904) [Solved]
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) [Solved]

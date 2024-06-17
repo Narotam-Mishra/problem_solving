@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CustomPriorityQueue",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.CustomPriorityQueue",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "KthLargestInArray",
             "request": "launch",
             "mainClass": "Heaps_PriorityQueue_problems.KthLargestInArray",
