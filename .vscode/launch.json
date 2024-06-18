@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KClosestPointsToOrigin",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.KClosestPointsToOrigin",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "HeapSort",
             "request": "launch",
             "mainClass": "Heaps_PriorityQueue_problems.HeapSort",
