@@ -253,7 +253,7 @@
 - [Left rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
 - [Right rotation](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
 - [Insert in AVL Tree](https://github.com/Narotam-Mishra/problem_solving#intro-to-avl-tree)
-- [Delete in AVL Tree]()
+- [Delete in AVL Tree]()[Unsolved]
 
 ## [Intro to Heaps / Priority Queue](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904)
 
@@ -264,7 +264,8 @@
 - [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) [Solved]
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) [VVI - Solved]
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) [VVI - Solved]
-- [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)[Unsolved]
+- [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)[Solved]
+- [Merge K Sorted Arrays](https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379)[Unsolved]
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)[Unsolved]
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)[Unsolved]
