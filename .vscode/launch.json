@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KthSmallestPrimeFraction",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.KthSmallestPrimeFraction",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "MergeKSortedLists",
             "request": "launch",
             "mainClass": "Heaps_PriorityQueue_problems.MergeKSortedLists",
