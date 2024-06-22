@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinCostToHireKWorkers",
+            "request": "launch",
+            "mainClass": "Heaps_PriorityQueue_problems.MinCostToHireKWorkers",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "AddBinary",
             "request": "launch",
             "mainClass": "Basic_problems.AddBinary",

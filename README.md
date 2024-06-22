@@ -6,7 +6,7 @@
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
-- [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Unsolved]
+- [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Solved]
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -266,6 +266,7 @@
 - [973. K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/description/) [VVI - Solved]
 - [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) [VVI - Solved]
 - [786. K-th Smallest Prime Fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/description/)[Solved]
+- [857. Minimum Cost to Hire K Workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)[VVI]
 - [Merge K Sorted Arrays](https://www.naukri.com/code360/problems/merge-k-sorted-arrays_975379)[Unsolved]
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)[Unsolved]
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
