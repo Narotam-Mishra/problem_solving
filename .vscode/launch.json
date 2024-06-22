@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddBinary",
+            "request": "launch",
+            "mainClass": "Basic_problems.AddBinary",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "KthSmallestPrimeFraction",
             "request": "launch",
             "mainClass": "Heaps_PriorityQueue_problems.KthSmallestPrimeFraction",

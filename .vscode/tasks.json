@@ -6,6 +6,9 @@
             "command": "C:/MinGW/bin/g++.exe",
             "args": [
                 "-fdiagnostics-color=always",
+                "-std=c++17",
+                "-I",
+                "C:/C++_boost_library/boost_1_85_0",
                 "-g",
                 "${file}",
                 "-o",

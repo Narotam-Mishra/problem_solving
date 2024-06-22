@@ -6,6 +6,7 @@
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/description/)
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
+- [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Unsolved]
 
 ## Arrays and Two Pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
