@@ -8,7 +8,7 @@
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Solved]
 
-## Arrays and Two Pointers
+## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
 - [Reverse A String](https://leetcode.com/problems/reverse-string/)
 - [Squares of sorted array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
@@ -25,7 +25,7 @@
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 
 
-## Arrays and Hashing
+## [Arrays and Hashing](https://leetcode.com/tag/array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)
 - [2 sum and 2sum 2 with hashing](https://leetcode.com/problems/two-sum/)
@@ -35,7 +35,7 @@
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 
 
-## Searching and Sorting
+## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
 - [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 - [min cost to remove all elements such that cost to remove one element is sum of array](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
@@ -77,7 +77,7 @@
 
 ## [Intro to Recursion](https://chatgpt.com/share/94fb6625-6f75-4627-aa86-f0f021ec3cf8)
 
-## Recursion Problems
+## [Recursion Problems](https://leetcode.com/tag/recursion/)
 - [Implement bubble sort using recursion without any single loop](https://www.geeksforgeeks.org/recursive-bubble-sort/)
 - [Implement selection sort using recursion](https://www.geeksforgeeks.org/recursive-selection-sort/) [Unsolved]
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
@@ -97,7 +97,7 @@
 
 ## [Intro to Dynamic Programming](https://chatgpt.com/share/c060c58c-2e0a-4832-be6f-8e3944995c8c)
 
-## Dynamic Programming Problems
+## [Dynamic Programming Problems](https://leetcode.com/tag/dynamic-programming/)
 - [N-th Fibonacci Number](https://www.codingninjas.com/studio/problems/nth-fibonacci-number_1115780)
 - [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/description/)
 - [Friends Pairing Problem](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625?leftPanelTabValue=PROBLEM)
@@ -129,7 +129,7 @@
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
-## Linked List Problems
+## [Linked List Problems](https://leetcode.com/tag/linked-list/)
 - [Linked List Implementation](https://www.geeksforgeeks.org/what-is-linked-list/)
 - [707. Design Linked List](https://leetcode.com/problems/design-linked-list/description/) [VVI]
 - [Design Doubly Linked List](https://aaronice.gitbook.io/lintcode/linked_list/design-linked-list/design-doubly-linked-list)
@@ -152,7 +152,7 @@
 
 ## [Intro to Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
-## Stack Problems
+## [Stack Problems](https://leetcode.com/tag/stack/)
 - [Stack Implementation using Array](https://www.geeksforgeeks.org/implement-stack-using-array/)
 - [Stack Implementation Linked List](https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/)
 - [2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/description/)
@@ -173,7 +173,7 @@
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
-## Queue Problems
+## [Queue Problems](https://leetcode.com/tag/queue/)
 - [Queue Implementation using Array](https://www.geeksforgeeks.org/array-implementation-of-queue-simple/)
 - [Design Queue using Linked List](https://www.geeksforgeeks.org/queue-linked-list-implementation/)
 - [1670. Design Front Middle Back Queue](https://leetcode.com/problems/design-front-middle-back-queue/description/) [VVI]
@@ -186,7 +186,7 @@
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
-## Binary Tree Problems
+## [Binary Tree Problems](https://leetcode.com/tag/binary-tree/)
 - [Design Generic Tree(N-ary Tree)](https://www.geeksforgeeks.org/generic-treesn-array-trees/) [Solved]
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Solved]
 - [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) [Solved]
@@ -220,7 +220,7 @@
 
 ## [Intro to Binary Search Tree (BST)](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)
 
-## Binary Search Tree (BST) Problems 
+## [Binary Search Tree (BST) Problems](https://leetcode.com/tag/binary-search-tree/) 
 - [701. Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/description/) [VVI - Solved]
 - [700. Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/description/) [Solved]
 - [450. Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/description/) [VVI - Solved]
@@ -235,13 +235,13 @@
 
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
-## Hashing and HashMap Problems
+## [Hashing and HashMap Problems](https://leetcode.com/tag/hash-table/)
 - [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)[Solved]
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
-## Trie Problems
+## [Trie Problems](https://leetcode.com/tag/trie/)
 - [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/description/)[Solved]
 - [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[VVI - Solved]
 - [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) [Unsolved]
@@ -258,7 +258,7 @@
 
 ## [Intro to Heaps / Priority Queue](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904)
 
-## Heaps/Priority Queue Problems
+## [Heaps/Priority Queue Problems](https://leetcode.com/tag/heap-priority-queue/)
 - [Implement your own Heaps](https://chatgpt.com/share/3e11f7f6-daf6-407b-b189-62cec64d78a2) [VVI - Solved]
 - [Heap Sort Implementation](https://chatgpt.com/share/a0de6e14-1013-449f-83da-a8d7e22dfb95) [Solved]
 - [Implement your own Priority Queue using Heap's property](https://chatgpt.com/share/151f36ba-a752-4c68-98c9-55ca9df49904) [Solved]
@@ -271,3 +271,7 @@
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)[Unsolved]
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)[Unsolved]
+
+## [Intro to Graph]()
+
+## [Graph Problems](https://leetcode.com/tag/graph/)
