@@ -272,6 +272,11 @@
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)[Unsolved]
 
-## [Intro to Graph]()
+## [Intro to Greedy Algorithms](https://chatgpt.com/share/5a0aabde-8a5f-4ded-9e44-e8a13154a2b6)
+
+## [Greedy Algorithm Problems](https://leetcode.com/tag/greedy/)
+- [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)[Unsolved]
+
+## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 
 ## [Graph Problems](https://leetcode.com/tag/graph/)
