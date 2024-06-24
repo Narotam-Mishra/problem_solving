@@ -65,9 +65,59 @@ class MaxHeap {
     }
 }
 
-// better approach
-let mincostToHireWorkers = function(quality, wage, k) {
+// optimal approach
+let mincostToHireWorkers = function(quality, minWage, k) {
+    const n = quality.length;
+    let minCost = Number.MAX_VALUE;
+
+    // create an array to store the ratio of wage to quality for each worker
+    const workerRatio = new Array(n);
+
+    // create an array of pairs (ratio, quality)
+    for(let worker = 0; worker < n; worker++){
+        workerRatio[worker] = [minWage[worker] / quality[worker], quality[worker]];
+    }
+
+    // sort the workers by their wage-to-quality ratio
+    workerRatio.sort((a, b) => a[0] - b[0]);
+
+    // Use a max-heap to keep track of the k smallest quality values
+    const pq = new MaxHeap();
+
+    // Add the first k workers to the heap and calculate the initial quality sum
+    let qualitySum = 0;
+    for(let i = 0; i < k; i++){
+        pq.push(workerRatio[i][1]);
+        qualitySum += workerRatio[i][1];
+    }
+
+    // get the ratio of the k-th worker (the manager)
+    let managerRatio = workerRatio[k-1][0];
     
+    // calculate the initial minimum cost using the k-th worker's ratio and the quality sum
+    minCost = managerRatio * qualitySum;
+
+    // iterate through the remaining workers
+    for(let manager = k; manager < n; manager++){
+        // update the manager ratio to the current worker's ratio
+        managerRatio = workerRatio[manager][0];
+
+        // add the current worker's quality to the heap and update the quality sum
+        pq.push(workerRatio[manager][1]);
+        qualitySum += workerRatio[manager][1];
+
+        // if the heap size exceeds k, 
+        if(pq.size() > k){
+            // remove the largest quality value to maintain the smallest k qualities
+            qualitySum -= pq.pop();
+        }
+
+        // calculate the new minimum cost and update minCost if the new cost is lower
+        minCost = Math.min(minCost, managerRatio * qualitySum);
+    }
+
+    // return the minimum wage cost
+    return minCost;
 };
 
 // Better approach 
@@ -163,9 +213,9 @@ let mincostToHireWorkers1 = function(quality, minWage, k) {
     return minCost;
 };
 
-// const quality = [10, 20, 5];
-// const minWage = [70, 50, 30];
-// const k = 2;
+const quality = [10, 20, 5];
+const minWage = [70, 50, 30];
+const k = 2;
 
-const quality = [3,1,10,10,1], minWage = [4,8,2,2,7], k = 3
+// const quality = [3,1,10,10,1], minWage = [4,8,2,2,7], k = 3
 console.log(mincostToHireWorkers(quality, minWage, k));

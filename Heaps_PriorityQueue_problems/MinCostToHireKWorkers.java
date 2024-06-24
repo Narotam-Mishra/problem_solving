@@ -3,10 +3,67 @@
 
 package Heaps_PriorityQueue_problems;
 
-import java.util.Arrays;
+import java.util.*;
 
 public class MinCostToHireKWorkers {
+
+    // Optimal Approach
     public static double mincostToHireWorkers(int[] quality, int[] minWage, int k) {
+        int n = quality.length;
+        double minCost = Double.MAX_VALUE;
+
+        // create an array to store the ratio of wage to quality for each worker
+        double[][] workerRatio = new double[n][2];
+
+        // calculate the workerRatio array with (ratio, quality) pairs
+        for(int worker = 0; worker < n; worker++){
+            workerRatio[worker][0] = (double) minWage[worker] / quality[worker];
+            workerRatio[worker][1] = (double) quality[worker];
+        }
+
+        // sort the workers by their wage-to-quality ratio in ascending order
+        Arrays.sort(workerRatio, Comparator.comparingDouble(a -> a[0]));
+
+        // using a max-heap to keep track of the k smallest quality values
+        PriorityQueue<Double> pq = new PriorityQueue<>(Comparator.reverseOrder());
+
+        // add the first k workers to the heap and calculate the initial quality sum
+        double qualitySum = 0;
+        for(int i=0; i<k; i++){
+            pq.add(workerRatio[i][1]);
+            qualitySum += workerRatio[i][1];
+        }
+
+        // get the ratio of the k-th worker (the manager)
+        double managerRatio = workerRatio[k-1][0];
+        // calculate the initial minimum cost using the k-th worker's ratio and the quality sum
+        minCost = managerRatio * qualitySum;
+
+        // iterate through the remaining workers
+        for(int manager = k; manager < n; manager++){
+            // update the manager ratio to the current worker's ratio
+            managerRatio = workerRatio[manager][0];
+
+            // add the current worker's quality to the heap and update the quality sum
+            pq.add(workerRatio[manager][1]);
+            qualitySum += workerRatio[manager][1];
+
+            // if the heap size exceeds k, 
+            // remove the largest quality value to maintain the smallest k qualities
+            if(pq.size() > k){
+                qualitySum -= pq.poll();
+            }
+
+            // calculate the new minimum cost and update minCost if the new cost is lower
+            minCost = Math.min(minCost, managerRatio * qualitySum);
+        }
+
+        // return the minimum wage cost to hire k workers
+        return minCost;
+    }
+
+    // Brute Force Approach (will give TLE)
+    public static double mincostToHireWorkers1(int[] quality, int[] minWage, int k) {
         int n = quality.length;
         double minCost = Double.MAX_VALUE;
 
