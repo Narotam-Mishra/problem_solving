@@ -7,6 +7,7 @@
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Solved]
+- [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01)[Unsolved]
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -281,3 +282,6 @@
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 
 ## [Graph Problems](https://leetcode.com/tag/graph/)
+- [Adjacency List of Graph]()
+- [Adjacency Matrix of Graph]()
+- [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)[Solved]
