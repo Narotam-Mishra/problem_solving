@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PathExistInGraph",
+            "request": "launch",
+            "mainClass": "Graph_problems.PathExistInGraph",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BST_To_GST",
             "request": "launch",
             "mainClass": "BinarySearchTree_problems.BST_To_GST",

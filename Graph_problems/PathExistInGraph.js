@@ -10,6 +10,7 @@ function dfs(src, dest, g, visited){
     // and now we will go to nearest neighbour
     visited.add(src);
 
+    // traverse each neighbour one by one
     let ans = false;
     for(const neighbour of g[src]){
         if(!visited.has(neighbour)){
