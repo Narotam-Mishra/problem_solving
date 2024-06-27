@@ -7,7 +7,7 @@
 - [976. Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/description/)
 - [66. Plus One](https://leetcode.com/problems/plus-one/description/)
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Solved]
-- [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01)[Unsolved]
+- [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01)[Solved]
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)

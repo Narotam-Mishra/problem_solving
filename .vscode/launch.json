@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ScoreOfString",
+            "request": "launch",
+            "mainClass": "Basic_problems.ScoreOfString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "PathExistInGraph",
             "request": "launch",
             "mainClass": "Graph_problems.PathExistInGraph",
