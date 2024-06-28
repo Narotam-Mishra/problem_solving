@@ -7,6 +7,39 @@ import java.util.*;
 
 public class PathExistInGraph {
 
+    // utility method to perfrom BFS graph traversal iteratively
+    public static boolean bfs(int src, int dest, List<List<Integer>> g, Set<Integer> visited){
+        // base case1 : if src is dest:
+        if(src == dest) return true;
+        
+        // using LinkedList as queue
+        Queue<Integer> queue = new LinkedList<>();
+
+        // add the source(src) node to visited set
+        queue.add(src);
+        visited.add(src);
+
+        // while queue is not empty
+        while(!queue.isEmpty()){
+            // remove from the start of the queue
+            int currVer = queue.poll();
+
+            // traverse each neighbour one by one
+            for(int neighbour : g.get(currVer)){
+                // base case 2: if neighbour is destination
+                if(neighbour == dest) return true;
+
+                if(!visited.contains(neighbour)){
+                    // if we have not already visited the neighbour, visit it
+                    visited.add(neighbour);
+                    // add the neighbour to the queue
+                    queue.add(neighbour);
+                }
+            }
+        }
+        return false;
+    }
+
     // utility method to perfrom DFS graph traversal recursively
     public static boolean dfs(int src, int dest, List<List<Integer>> g, Set<Integer> visited){
         // base case: if src is dest only
@@ -48,7 +81,10 @@ public class PathExistInGraph {
         }
 
         // call to dfs method and perform graph traversal recursively
-        return dfs(source, destination, g, new HashSet<>());
+        // return dfs(source, destination, g, new HashSet<>());
+
+        // call to bfs method and perform graph traversal recursively
+        return bfs(source, destination, g, new HashSet<>());
     }
 
     public static void main(String[] args) {

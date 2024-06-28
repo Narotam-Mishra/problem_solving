@@ -1,6 +1,41 @@
 
 // Problem link - https://leetcode.com/problems/find-if-path-exists-in-graph/description/
 
+
+// utility method for BFS traversal
+function bfs(src, dest, g, visited){
+    // base case1: if src is dest only
+    if(src === dest) return true;
+
+    // using array as queue
+    const queue = [];
+    queue.push(src);
+
+    // add the source, 'src' node to visted set as we have visited it 
+    // and now we will go to current node neighbour
+    visited.add(src);
+
+    // till queue is empty
+    while(queue.length > 0){
+        // remove from start
+        const currVer = queue.shift();
+
+        // traverse each neighbour one by one
+        for(const neighbour of g[currVer]){
+            // base case2: neighbor is destination 'dest'
+            if(neighbour === dest) return true;
+            if(!visited.has(neighbour)){
+                // if we have not already visited the neighbour then go to that neighbour
+                visited.add(neighbour);
+                // then add the neighbour to the vsisted set
+                queue.push(neighbour);
+                // then add the neighbouring node into queue
+            }
+        }
+    }
+    return false;
+}
+
 // utility method for DFS traversal
 function dfs(src, dest, g, visited){
     // base case: if src is dest only

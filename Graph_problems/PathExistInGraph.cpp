@@ -4,6 +4,40 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// utility function to perfrom DFS graph traversal iteratively
+bool bfs(int src, int dest, vector<vector<int>>& g, unordered_set<int>& visited){
+    // base case 1: if src is dest
+    if(src == dest) return true;
+
+    // using queue to perform BFS
+    queue<int> q;
+
+    // add the source node to visited set
+    q.push(src);
+    visited.insert(src);
+
+    // while queue is not empty
+    while(!q.empty()){
+        // remove from the start of the queue
+        int curVer = q.front();
+        q.pop();
+
+        // traverse each neighbour one by one
+        for(int neighbour : g[curVer]){
+            // base case 2: if neighbour is destination
+            if(neighbour == dest) return true;
+
+            if(visited.find(neighbour) == visited.end()){
+                // if we have not already visited the neighbour, visit it
+                visited.insert(neighbour);
+                // add the neighbour to the queue
+                q.push(neighbour);
+            }
+        }
+    }
+    return false;
+}
+
 // utility function to perfrom DFS graph traversal recursively
 bool dfs(int src, int dest, vector<vector<int>>& g, unordered_set<int>& visited){
     // base case: if src is dest only
@@ -44,7 +78,10 @@ bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
     unordered_set<int> visited;
 
     // call to dfs method and perform graph traversal recursively
-    return dfs(source, destination, g, visited);
+    // return dfs(source, destination, g, visited);
+
+    // call to bfs method and perform graph traversal recursively
+    return bfs(source, destination, g, visited);
 }
 
 int main(){
