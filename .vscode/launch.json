@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaxAreaOfIsland",
+            "request": "launch",
+            "mainClass": "Graph_problems.MaxAreaOfIsland",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "NumberOfIslands",
             "request": "launch",
             "mainClass": "Graph_problems.NumberOfIslands",
