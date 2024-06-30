@@ -285,3 +285,8 @@
 - [Adjacency List of Graph]()
 - [Adjacency Matrix of Graph]()
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)[Solved]
+- [200. Number of Islands](https://leetcode.com/problems/number-of-islands/description/)[Solved]
+- [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
+- [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
+- [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
+- [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)[Unsolved]

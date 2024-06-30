@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfIslands",
+            "request": "launch",
+            "mainClass": "Graph_problems.NumberOfIslands",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ScoreOfString",
             "request": "launch",
             "mainClass": "Basic_problems.ScoreOfString",
