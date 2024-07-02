@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SurroundedRegions",
+            "request": "launch",
+            "mainClass": "Graph_problems.SurroundedRegions",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RottingOranges",
             "request": "launch",
             "mainClass": "Graph_problems.RottingOranges",
