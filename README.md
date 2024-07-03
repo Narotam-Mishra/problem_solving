@@ -289,6 +289,8 @@
 - [695. Max Area of Island](https://leetcode.com/problems/max-area-of-island/description/)[Solved]
 - [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)[Solved]
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)[Solved]
+- [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)[Solved]
+- [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)[Unsolved]
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
