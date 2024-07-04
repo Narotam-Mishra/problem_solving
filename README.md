@@ -291,7 +291,7 @@
 - [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/description/)[Solved]
 - [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)[Solved]
 - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)[Solved]
-- [Implement Shortest Path Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
+- [Implement Shortest Path Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)[Solved]
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
