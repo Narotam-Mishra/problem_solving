@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DSUAlgo",
+            "request": "launch",
+            "mainClass": "Graph_problems.DSUAlgo",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DijkstraAlgorithm",
             "request": "launch",
             "mainClass": "Graph_problems.DijkstraAlgorithm",
