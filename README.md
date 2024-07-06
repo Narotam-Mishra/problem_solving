@@ -292,6 +292,7 @@
 - [207. Course Schedule](https://leetcode.com/problems/course-schedule/description/)[Solved]
 - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)[Solved]
 - [Implement Shortest Path Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)[Solved]
+- [Implement Disjoint Set Union (DSU) Algorithm][https://chatgpt.com/share/e4d28709-b03d-4563-831b-7c5b18a27cf1]
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
