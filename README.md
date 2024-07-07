@@ -280,6 +280,9 @@
 - [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)[Unsolved]
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
+- [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
+- [Minimum Spanning Tree(MST)](https://chatgpt.com/share/12c367ea-66a4-49b3-9400-81f54365d1e6)
+- [Prim's Algorithm Vs Kruskal's Algorithm](https://chatgpt.com/share/edfb76fe-6d12-4011-ae20-f8eb477418e9)
 
 ## [Graph Problems](https://leetcode.com/tag/graph/)
 - [Adjacency List of Graph]()
@@ -293,6 +296,7 @@
 - [210. Course Schedule II](https://leetcode.com/problems/course-schedule-ii/description/)[Solved]
 - [Implement Shortest Path Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)[Solved]
 - [Implement Disjoint Set Union (DSU) Algorithm](https://chatgpt.com/share/e4d28709-b03d-4563-831b-7c5b18a27cf1)[Solved]
+- [Implement Kruskal's Algorithm to find MST]()
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
