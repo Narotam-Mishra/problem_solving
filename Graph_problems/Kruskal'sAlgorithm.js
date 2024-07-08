@@ -65,6 +65,7 @@ function kruskalAlgoToFindMST(edgeList, numOfVertices){
             spanningTreeSum += weight;
         }
     }
+    // return minimum cost to traverse spanning tree
     return spanningTreeSum;
 }
 

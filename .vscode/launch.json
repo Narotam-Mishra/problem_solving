@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "KruskalAlgorithm",
+            "request": "launch",
+            "mainClass": "Graph_problems.KruskalAlgorithm",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DSUAlgo",
             "request": "launch",
             "mainClass": "Graph_problems.DSUAlgo",
