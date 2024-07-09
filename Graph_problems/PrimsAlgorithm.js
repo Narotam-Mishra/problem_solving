@@ -133,12 +133,12 @@ class Graph {
         // mst array to keep track to nodes/vertices
         let mst = [];
 
-        // vsisted array to keep track to already visited node/vertices
+        // visited array to keep track to already visited node/vertices
         let visited = new Array(this.numOfVetices).fill(false);
         
         // using min-heap (min priority queue) to keep track of minimum weight
         let minHeap = new CustomGenericHeap((a, b) => {
-            return a[2] > b[2];
+            return a.key > b.key;
         });
 
         // assume start node as 0
@@ -151,7 +151,7 @@ class Graph {
         // keep track of MST cost
         let mstCost = 0;
 
-        // traverse neighboring nodes from adjacency list of graph
+        // start with the first node, pushing all its edges into the heap
         this.adjList.get(startNode).forEach(edge => {
             // add weight, nodes 'u' and 'v' into min-heap
             minHeap.insert(edge.weight, { u: startNode, v:edge.node});

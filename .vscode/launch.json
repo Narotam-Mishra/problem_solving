@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimAlgorithm",
+            "request": "launch",
+            "mainClass": "Graph_problems.PrimAlgorithm",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "KruskalAlgorithm",
             "request": "launch",
             "mainClass": "Graph_problems.KruskalAlgorithm",

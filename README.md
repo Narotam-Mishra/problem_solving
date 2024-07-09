@@ -297,7 +297,7 @@
 - [Implement Shortest Path Dijkstra's Algorithm](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)[Solved]
 - [Implement Disjoint Set Union (DSU) Algorithm](https://chatgpt.com/share/e4d28709-b03d-4563-831b-7c5b18a27cf1)[Solved]
 - [Implement Kruskal's Algorithm to find MST]()[Solved]
-- [Implement Prim's Algorithm to find MST]()[Unsolved]
+- [Implement Prim's Algorithm to find MST](https://chatgpt.com/share/d469a31c-c7ca-4f87-ae30-bf64636f17db)[Solved]
 - [797. All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
