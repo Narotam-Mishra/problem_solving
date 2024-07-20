@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfGoodPairs",
+            "request": "launch",
+            "mainClass": "Basic_problems.NumberOfGoodPairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "PrimAlgorithm",
             "request": "launch",
             "mainClass": "Graph_problems.PrimAlgorithm",
