@@ -9,7 +9,7 @@
 - [67. Add Binary](https://leetcode.com/problems/add-binary/description/) [Solved]
 - [3110. Score of a String](https://leetcode.com/problems/score-of-a-string/description/?envType=daily-question&envId=2024-06-01)[Solved]
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)[Solved]
-- [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)[Unsolved]
+- [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/description/)[Solved]
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
