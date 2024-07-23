@@ -26,6 +26,7 @@
 - [386. Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers/description/)
 - [Find missing elements of a range](https://www.geeksforgeeks.org/find-missing-elements-of-a-range/)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
+- [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)[Unsolved]
 
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)

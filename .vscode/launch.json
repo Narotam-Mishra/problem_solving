@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RangeSumQuery",
+            "request": "launch",
+            "mainClass": "Array_problems.RangeSumQuery",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SignOfProductArray",
             "request": "launch",
             "mainClass": "Array_problems.SignOfProductArray",
