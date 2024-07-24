@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindMinimumOperations",
+            "request": "launch",
+            "mainClass": "Basic_problems.FindMinimumOperations",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RangeSumQuery",
             "request": "launch",
             "mainClass": "Array_problems.RangeSumQuery",
