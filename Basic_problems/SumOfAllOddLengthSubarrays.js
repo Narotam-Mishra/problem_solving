@@ -5,6 +5,7 @@ let sumOddLengthSubarrays = function(arr) {
     let totalSum = 0;
     let len = arr.length;
 
+    // iterate on each array's element
     for(let i=0; i<arr.length; i++){
         // the total number of subarrays that include arr[i]
         let subArrCount = (i + 1) * (len - i);

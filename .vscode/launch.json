@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfAllOddLengthSubarrays",
+            "request": "launch",
+            "mainClass": "Basic_problems.SumOfAllOddLengthSubarrays",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindMinimumOperations",
             "request": "launch",
             "mainClass": "Basic_problems.FindMinimumOperations",
