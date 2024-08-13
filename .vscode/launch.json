@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfAllSubsetsXORTotal",
+            "request": "launch",
+            "mainClass": "Basic_problems.SumOfAllSubsetsXORTotal",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SumOfAllOddLengthSubarrays",
             "request": "launch",
             "mainClass": "Basic_problems.SumOfAllOddLengthSubarrays",
