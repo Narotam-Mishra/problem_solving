@@ -32,6 +32,7 @@
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/)
 - [179. Largest Number](https://leetcode.com/problems/largest-number/description/)[VVI]
 - [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/description/)[Unsolved]
+- [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)[Solved]
 
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
