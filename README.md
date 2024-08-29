@@ -44,7 +44,7 @@
 - [Find Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked)[Unsolved]
-
+- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)[Unsloved]
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
