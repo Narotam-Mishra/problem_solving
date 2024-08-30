@@ -44,7 +44,7 @@
 - [Find Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked)[Unsolved]
-- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)[Unsloved]
+- [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
@@ -312,3 +312,6 @@
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/)[Unsolved]
 - [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/description/)[Unsolved]
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)[Unsolved]
+
+## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
+- [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
