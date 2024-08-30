@@ -1,15 +1,19 @@
 
 // Problem link : https://leetcode.com/problems/counting-bits/description/
 
-let countBits = function(n) {
-    let ansArr = new Array(n+1).fill(0);
+#include<bits/stdc++.h>
+using namespace std;
+
+vector<int> countBits(int n) {
+    vector<int> res(n+1);
+    int setBits = 0;
 
     // loop through all numbers from 0 to n
-    for(let i=0; i<=n; i++){
-        let num = i;
+    for(int i=0; i<=n; i++){
+        int num = i;
 
         // reset setBits counter for each number
-        let setBits = 0;
+        setBits = 0;
 
         // count the number of 1's in the binary representation of num
         while(num > 0){
@@ -18,13 +22,20 @@ let countBits = function(n) {
             // right shift num by 1 bit
             num = num >> 1;
         }
-
         // store the result at correct index
-        ansArr[i] = setBits;
+        res[i] = setBits;
     }
-    return ansArr;
-};
+    // return result 'res' array
+    return res;
+}
 
-let num = 5;
-let res = countBits(num);
-console.log(res);
+int main(){
+    int n = 5;
+    vector<int> res = countBits(n);
+
+    for(int num : res){
+        cout<<num<<" ";
+    }
+    cout<<endl;
+    return 0;
+}
