@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOf1Bits",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.NumberOf1Bits",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CountingBits",
             "request": "launch",
             "mainClass": "BitMasking_Problems.CountingBits",

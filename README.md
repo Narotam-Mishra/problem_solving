@@ -315,3 +315,4 @@
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
+- [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
