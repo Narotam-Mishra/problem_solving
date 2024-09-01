@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PowerOfTwo",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.PowerOfTwo",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "NumberOf1Bits",
             "request": "launch",
             "mainClass": "BitMasking_Problems.NumberOf1Bits",
