@@ -318,3 +318,4 @@
 - [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
+- [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=problem-list-v2&envId=bit-manipulation)
