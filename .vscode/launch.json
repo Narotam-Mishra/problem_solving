@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ConvertNumberToHexaDecimal",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.ConvertNumberToHexaDecimal",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindTheDifference",
             "request": "launch",
             "mainClass": "BitMasking_Problems.FindTheDifference",
