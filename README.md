@@ -319,3 +319,4 @@
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/description/)
 - [342. Power of Four](https://leetcode.com/problems/power-of-four/description/)
 - [389. Find the Difference](https://leetcode.com/problems/find-the-difference/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/?envType=problem-list-v2&envId=bit-manipulation)
