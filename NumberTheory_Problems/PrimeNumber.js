@@ -1,4 +1,6 @@
 
+// Problem link : https://www.geeksforgeeks.org/problems/prime-number2314/1
+
 let isPrime = function(n){
     // corner case
     if(n <= 1){

@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PrimeNumberOfSetBitsInBinaryRep",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.PrimeNumberOfSetBitsInBinaryRep",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.PrimeNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BinaryNumberWithAlternatingBits",
             "request": "launch",
             "mainClass": "BitMasking_Problems.BinaryNumberWithAlternatingBits",
