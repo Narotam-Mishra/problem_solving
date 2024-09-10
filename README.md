@@ -324,3 +324,8 @@
 - [461. Hamming Distance](https://leetcode.com/problems/hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [476. Number Complement](https://leetcode.com/problems/number-complement/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [693. Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [762. Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/description/?envType=problem-list-v2&envId=bit-manipulation)
+
+## [Number Theory](https://leetcode.com/problem-list/number-theory/)
+- [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
+- [204. Count Primes](https://leetcode.com/problems/count-primes/description/)[Unsolved]
