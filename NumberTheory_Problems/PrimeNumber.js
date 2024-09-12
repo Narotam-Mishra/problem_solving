@@ -13,3 +13,6 @@ let isPrime = function(n){
     }
     return true;
 }
+
+let num = 2;
+console.log(isPrime(num));
