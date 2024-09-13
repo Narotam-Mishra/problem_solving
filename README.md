@@ -329,4 +329,5 @@
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
-- [204. Count Primes](https://leetcode.com/problems/count-primes/description/)[Unsolved]
+- [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
+- [258. Add Digits](https://leetcode.com/problems/add-digits/description/?envType=problem-list-v2&envId=number-theory)
