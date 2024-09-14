@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddDigits",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.AddDigits",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CountPrimes",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.CountPrimes",
