@@ -6,7 +6,10 @@ let prefixesDivBy5 = function(nums) {
     let res = [];
 
     for(let i=0; i<nums.length; i++){
+        // incrementally build the binary number modulo 5
         num = (num * 2 + nums[i]) % 5;
+
+        // check if divisible by 5
         num === 0 ? res.push(true) : res.push(false);
     }
     return res;
