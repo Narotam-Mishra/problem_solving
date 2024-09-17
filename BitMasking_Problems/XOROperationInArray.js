@@ -1,7 +1,7 @@
 
 // Problem link : https://leetcode.com/problems/xor-operation-in-an-array/?envType=problem-list-v2&envId=bit-manipulation
 
-let xorOperation = function(n, start) {
+let xorOperation1 = function(n, start) {
     let xorVal = 0;
     let nums = new Array(n);
 
@@ -10,6 +10,17 @@ let xorOperation = function(n, start) {
         nums[i] = start + 2 * i;
         // calculate running XOR value
         xorVal ^= nums[i];
+    }
+    // return XOR value 'xorVal'
+    return xorVal;
+};
+
+let xorOperation = function(n, start) {
+    let xorVal = 0;
+    
+    for(let i=0; i<n; i++){
+        // calculate running XOR value
+        xorVal ^= start + 2 * i;
     }
     // return XOR value 'xorVal'
     return xorVal;
