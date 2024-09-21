@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BitwiseORHasTrailingZeros",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.BitwiseORHasTrailingZeros",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ComplementOfBase10Integer",
             "request": "launch",
             "mainClass": "BitMasking_Problems.ComplementOfBase10Integer",

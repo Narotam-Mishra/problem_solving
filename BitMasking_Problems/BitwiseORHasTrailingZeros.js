@@ -3,7 +3,7 @@
 
 /*
 
-Logic - As we know each even number has trailing 0 in their binary representation so when we do bitwise OR of even number with another even number it will be always give a trailing zeros. So if array has just two numbers which are even that will be suffice the given condition in problem.
+Logic - As we know each even number has trailing 0 in their binary representation so when we do bitwise OR of even number with another even number it will always give a trailing zeros. So if array has just two numbers which are even that will suffice the given condition in problem.
 
 */
 
