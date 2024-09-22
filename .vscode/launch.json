@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfTwoIntegers",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.SumOfTwoIntegers",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "BitwiseORHasTrailingZeros",
             "request": "launch",
             "mainClass": "BitMasking_Problems.BitwiseORHasTrailingZeros",
