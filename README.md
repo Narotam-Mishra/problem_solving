@@ -335,6 +335,7 @@
 - [1009. Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/?envType=problem-list-v2&envId=bit-manipulation)
 - [2980. Check if Bitwise OR Has Trailing Zeros](https://leetcode.com/problems/check-if-bitwise-or-has-trailing-zeros/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
