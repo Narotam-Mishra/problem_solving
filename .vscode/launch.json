@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SingleNumberII",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.SingleNumberII",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
+            "name": "SingleNumber",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.SingleNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "TotalhammingDistance",
             "request": "launch",
             "mainClass": "BitMasking_Problems.TotalhammingDistance",
