@@ -338,6 +338,7 @@
 - [477. Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [136. Single Number](https://leetcode.com/problems/single-number/description/)
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
+- [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=problem-list-v2&envId=bit-manipulation)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
