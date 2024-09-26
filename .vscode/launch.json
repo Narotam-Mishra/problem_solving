@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindIfArrayCanBeSorted",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.FindIfArrayCanBeSorted",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CountTheNumberOfConsistentStrings",
             "request": "launch",
             "mainClass": "BitMasking_Problems.CountTheNumberOfConsistentStrings",

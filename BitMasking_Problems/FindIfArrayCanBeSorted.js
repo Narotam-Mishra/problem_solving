@@ -23,9 +23,9 @@ function isSorted(nums) {
 let canSortArray = function(nums) {
     const n = nums.length;
 
-     // Outer loop for passes
+     // outer loop for passes
      for (let i = 0; i < n - 1; i++) {
-        // Inner loop for comparisons in each pass
+        // inner loop for comparisons in each pass
         for (let j = 0; j < n - i - 1; j++) {
             // If adjacent elements can be swapped and are in wrong order
             if (countSetBits(nums[j]) === countSetBits(nums[j + 1]) && nums[j] > nums[j + 1]) {
@@ -35,11 +35,8 @@ let canSortArray = function(nums) {
         }
     }
 
-    if(isSorted(nums)){
-        return true;
-    }else{
-        return false;
-    }
+    // check if array can be sorted or not
+    return isSorted(nums);
 };
 
 // let nums = [8, 4, 2, 30, 15];
@@ -52,4 +49,3 @@ let canSortArray = function(nums) {
 
 let nums = [20, 16];
 console.log(canSortArray(nums));
-console.log(canSortArray1(nums));
