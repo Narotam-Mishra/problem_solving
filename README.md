@@ -340,6 +340,7 @@
 - [137. Single Number II](https://leetcode.com/problems/single-number-ii/)
 - [1684. Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [3011. Find if Array Can Be Sorted](https://leetcode.com/problems/find-if-array-can-be-sorted/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/description/?envType=problem-list-v2&envId=bit-manipulation)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
