@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ShortestSubarrayWithORAtleastK",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.ShortestSubarrayWithORAtleastK",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindIfArrayCanBeSorted",
             "request": "launch",
             "mainClass": "BitMasking_Problems.FindIfArrayCanBeSorted",
