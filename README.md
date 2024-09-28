@@ -287,7 +287,8 @@
 ## [Intro to Greedy Algorithms](https://chatgpt.com/share/5a0aabde-8a5f-4ded-9e44-e8a13154a2b6)
 
 ## [Greedy Algorithm Problems](https://leetcode.com/tag/greedy/)
-- [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)[Unsolved]
+- [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)[Solved]
+- [2027. Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/description/)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
