@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FlippingAnImage",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.FlippingAnImage",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "MinimumMovesToConvertString",
             "request": "launch",
             "mainClass": "GreedyAlgorithms_problems.MinimumMovesToConvertString",
