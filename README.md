@@ -345,6 +345,7 @@
 - [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [645. Set Mismatch](https://leetcode.com/problems/set-mismatch/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [2932. Maximum Strong Pair XOR I](https://leetcode.com/problems/maximum-strong-pair-xor-i/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=problem-list-v2&envId=bit-manipulation)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
