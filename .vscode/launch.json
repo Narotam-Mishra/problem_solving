@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MaximumProductOfWordLength",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.MaximumProductOfWordLength",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindKthCharacterInStringGame",
             "request": "launch",
             "mainClass": "BitMasking_Problems.FindKthCharacterInStringGame",
