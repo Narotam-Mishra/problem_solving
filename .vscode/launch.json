@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "DecodeXORedArray",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.DecodeXORedArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "MaximumProductOfWordLength",
             "request": "launch",
             "mainClass": "BitMasking_Problems.MaximumProductOfWordLength",
