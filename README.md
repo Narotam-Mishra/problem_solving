@@ -127,7 +127,7 @@
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [Unsolved]
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) [Unsolved]
-- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) [Unsolved]
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) [Solved]
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) [Unsolved]
 - [198. House Robber](https://leetcode.com/problems/house-robber/description/) [Unsolved]
 - [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) [Unsolved]
