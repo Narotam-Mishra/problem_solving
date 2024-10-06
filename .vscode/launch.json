@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumBitFlipsToConvertNumber",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.MinimumBitFlipsToConvertNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "ClimbingStairs",
             "request": "launch",
             "mainClass": "DynamicProgramming_problems.ClimbingStairs",

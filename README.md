@@ -348,6 +348,7 @@
 - [3304. Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [318. Maximum Product of Word Lengths](https://leetcode.com/problems/maximum-product-of-word-lengths/?envType=problem-list-v2&envId=bit-manipulation)
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation&favoriteSlug=&status=TO_DO&difficulty=EASY)
+- [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
