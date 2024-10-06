@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ClimbingStairs",
+            "request": "launch",
+            "mainClass": "DynamicProgramming_problems.ClimbingStairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "DecodeXORedArray",
             "request": "launch",
             "mainClass": "BitMasking_Problems.DecodeXORedArray",
