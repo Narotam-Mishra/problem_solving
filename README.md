@@ -350,6 +350,7 @@
 - [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/description/?envType=problem-list-v2&envId=bit-manipulation&favoriteSlug=&status=TO_DO&difficulty=EASY)
 - [2220. Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
+- [2032. Two Out of Three](https://leetcode.com/problems/two-out-of-three/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
