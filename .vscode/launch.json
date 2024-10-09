@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FirstLetterToAppearTwice",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.FirstLetterToAppearTwice",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "TwoOutOfThree",
             "request": "launch",
             "mainClass": "BitMasking_Problems.TwoOutOfThree",
