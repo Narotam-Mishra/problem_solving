@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumOfValuesAtIndicesWithKSetBits",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.SumOfValuesAtIndicesWithKSetBits",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CountPairsOfSimilarStrings",
             "request": "launch",
             "mainClass": "BitMasking_Problems.CountPairsOfSimilarStrings",
@@ -1380,7 +1387,7 @@
             "projectName": "Problem_Solving_23a368ab"
         },
         {
-         "name": "C/C++: g++.exe build and debug active file",
+            "name": "C/C++: g++.exe build and debug active file",
             "type": "cppdbg",
             "request": "launch",
             "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
