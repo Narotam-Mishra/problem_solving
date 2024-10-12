@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumOperationsToCollectElements",
+            "request": "launch",
+            "mainClass": "BitMasking_Problems.MinimumOperationsToCollectElements",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SumOfValuesAtIndicesWithKSetBits",
             "request": "launch",
             "mainClass": "BitMasking_Problems.SumOfValuesAtIndicesWithKSetBits",
