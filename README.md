@@ -355,6 +355,7 @@
 - [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [2859. Sum of Values at Indices With K Set Bits](https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [2869. Minimum Operations to Collect Elements](https://leetcode.com/problems/minimum-operations-to-collect-elements/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
+- [2917. Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
