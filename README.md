@@ -359,6 +359,7 @@
 - [2917. Find the K-or of an Array](https://leetcode.com/problems/find-the-k-or-of-an-array/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [2206. Divide Array Into Equal Pairs](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
+- [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 
 ## [Number Theory](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
