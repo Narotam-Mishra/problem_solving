@@ -361,7 +361,8 @@
 - [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 
-## [Number Theory](https://leetcode.com/problem-list/number-theory/)
+## [Number Theory & Maths](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
 - [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/description/?envType=problem-list-v2&envId=number-theory)
+- [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
