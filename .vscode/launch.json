@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Base7",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.Base7",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "UglyNumber",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.UglyNumber",

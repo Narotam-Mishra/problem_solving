@@ -366,3 +366,4 @@
 - [204. Count Primes](https://leetcode.com/problems/count-primes/description/)
 - [258. Add Digits](https://leetcode.com/problems/add-digits/description/?envType=problem-list-v2&envId=number-theory)
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+- [504. Base 7](https://leetcode.com/problems/base-7/description/)
