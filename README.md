@@ -251,6 +251,7 @@
 - [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)[Solved]
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[Unsolved]
+- [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 

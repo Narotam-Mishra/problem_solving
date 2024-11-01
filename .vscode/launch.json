@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WordPattern",
+            "request": "launch",
+            "mainClass": "Hashing_and_HashMap_problems.WordPattern",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "Base7",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.Base7",
