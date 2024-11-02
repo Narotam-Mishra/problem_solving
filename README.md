@@ -14,6 +14,8 @@
 - [1588. Sum of All Odd Length Subarrays](https://leetcode.com/problems/sum-of-all-odd-length-subarrays/description/)[Solved]
 - [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
+-[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
