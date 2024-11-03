@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "string_problems.LongestCommonPrefix",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "PerfectNumber",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.PerfectNumber",
