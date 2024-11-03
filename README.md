@@ -371,3 +371,4 @@
 - [263. Ugly Number](https://leetcode.com/problems/ugly-number/description/)
 - [504. Base 7](https://leetcode.com/problems/base-7/description/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
+- [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)

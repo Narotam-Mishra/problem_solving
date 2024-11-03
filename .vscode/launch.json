@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerfectNumber",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.PerfectNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "RomanToInteger",
             "request": "launch",
             "mainClass": "Basic_problems.RomanToInteger",
