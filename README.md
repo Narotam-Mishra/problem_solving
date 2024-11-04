@@ -375,3 +375,4 @@
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- [3280. Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
