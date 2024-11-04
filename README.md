@@ -377,3 +377,4 @@
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 - [3280. Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
+- [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
