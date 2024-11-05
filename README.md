@@ -372,6 +372,7 @@
 - [504. Base 7](https://leetcode.com/problems/base-7/description/)
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
+- [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)[Unsolved]
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
@@ -379,3 +380,4 @@
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)[Unsolved]
