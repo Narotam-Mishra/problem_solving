@@ -197,6 +197,10 @@
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) [VVI - Solved]
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/) [Unsolved]
 
+## [Sliding Window](https://leetcode.com/problem-list/sliding-window/)
+- [What is Sliding Window ?](https://chatgpt.com/share/672a6662-ec4c-8004-914d-38e87f9db956)
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)[Unsolved]
+
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
 ## [Binary Tree Problems](https://leetcode.com/tag/binary-tree/)
@@ -254,6 +258,7 @@
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Unsolved]
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[Unsolved]
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
+- [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
@@ -373,6 +378,9 @@
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)[Unsolved]
+- [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)[Unsolved]
+- [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)[Unsolved]
+- [415. Add Strings](https://leetcode.com/problems/add-strings/description/)[Unsolved]
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
