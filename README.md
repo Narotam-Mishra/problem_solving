@@ -197,7 +197,7 @@
 - [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/) [VVI - Solved]
 - [134. Gas Station](https://leetcode.com/problems/gas-station/description/) [Unsolved]
 
-## [Sliding Window](https://leetcode.com/problem-list/sliding-window/)
+## [Sliding Window Problems](https://leetcode.com/problem-list/sliding-window/)
 - [What is Sliding Window ?](https://chatgpt.com/share/672a6662-ec4c-8004-914d-38e87f9db956)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)[Unsolved]
 
@@ -388,4 +388,5 @@
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)
 - [709. To Lower Case](https://leetcode.com/problems/to-lower-case/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/)
+- [796. Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)[Unsolved]
