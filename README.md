@@ -382,6 +382,7 @@
 - [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)[Unsolved]
 - [415. Add Strings](https://leetcode.com/problems/add-strings/description/)[Unsolved]
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [171. Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)

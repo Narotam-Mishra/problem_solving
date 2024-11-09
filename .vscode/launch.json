@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExcelSheetColumnNumber",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.ExcelSheetColumnNumber",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "PascalTriangle",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.PascalTriangle",
