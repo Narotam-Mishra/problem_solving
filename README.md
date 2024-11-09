@@ -378,7 +378,7 @@
 - [202. Happy Number](https://leetcode.com/problems/happy-number/description/)
 - [507. Perfect Number](https://leetcode.com/problems/perfect-number/description/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/description/)
-- [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)[Unsolved]
+- [2520. Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/description/)
 - [326. Power of Three](https://leetcode.com/problems/power-of-three/description/)[Unsolved]
 - [415. Add Strings](https://leetcode.com/problems/add-strings/description/)[Unsolved]
 - [168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
