@@ -393,3 +393,4 @@
 - [796. Rotate String](https://leetcode.com/problems/rotate-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [520. Detect Capital](https://leetcode.com/problems/detect-capital/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)
+- [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/description/)
