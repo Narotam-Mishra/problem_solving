@@ -401,3 +401,4 @@
 - [2942. Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1446. Consecutive Characters](https://leetcode.com/problems/consecutive-characters/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [551. Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
