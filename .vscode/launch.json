@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfBeautifulPairs",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.NumberOfBeautifulPairs",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SmallestEvenMultiple",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.SmallestEvenMultiple",
