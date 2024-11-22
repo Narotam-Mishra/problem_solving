@@ -389,6 +389,7 @@
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 - [2748. Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 - [2427. Number of Common Factors](https://leetcode.com/problems/number-of-common-factors/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
+- [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
