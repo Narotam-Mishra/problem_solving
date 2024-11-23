@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "XKindDeckOfCards",
+            "request": "launch",
+            "mainClass": "NumberTheory_Problems.XKindDeckOfCards",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindGreatestCommonDivisorArray",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.FindGreatestCommonDivisorArray",
