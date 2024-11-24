@@ -259,7 +259,7 @@
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[Unsolved]
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
-- [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)(https://chatgpt.com/share/67431f2f-f774-8004-a13c-3090e1552306)[Unsolved]
+- [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)[Unsolved](https://chatgpt.com/share/67431f2f-f774-8004-a13c-3090e1552306)
 
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
