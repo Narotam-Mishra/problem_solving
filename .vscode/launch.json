@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "GreatestCommonDivisorOfStrings",
+            "request": "launch",
+            "mainClass": "string_problems.GreatestCommonDivisorOfStrings",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "XKindDeckOfCards",
             "request": "launch",
             "mainClass": "NumberTheory_Problems.XKindDeckOfCards",
