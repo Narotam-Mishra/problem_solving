@@ -260,7 +260,7 @@
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)[Unsolved](https://chatgpt.com/share/67431f2f-f774-8004-a13c-3090e1552306)
-
+- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
@@ -411,4 +411,3 @@
 - [821. Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/description/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)
 - [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
-- [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[Unsolved]
