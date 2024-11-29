@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Largest3SameDigitNumberInString",
+            "request": "launch",
+            "mainClass": "string_problems.Largest3SameDigitNumberInString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "LargestOddNumberInString",
             "request": "launch",
             "mainClass": "string_problems.LargestOddNumberInString",
