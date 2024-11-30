@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NumberOfSegmentsInString",
+            "request": "launch",
+            "mainClass": "string_problems.NumberOfSegmentsInString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "Largest3SameDigitNumberInString",
             "request": "launch",
             "mainClass": "string_problems.Largest3SameDigitNumberInString",

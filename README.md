@@ -414,3 +414,4 @@
 - [1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [2264. Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/)
+- [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=string&favoriteSlug=&status=TO_DO&difficulty=EASY)
