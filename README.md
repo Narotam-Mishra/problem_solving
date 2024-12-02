@@ -261,6 +261,7 @@
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)[Unsolved](https://chatgpt.com/share/67431f2f-f774-8004-a13c-3090e1552306)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
