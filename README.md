@@ -418,3 +418,4 @@
 - [434. Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/description/?envType=problem-list-v2&envId=string&favoriteSlug=&status=TO_DO&difficulty=EASY)
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY) 
 - [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
