@@ -259,7 +259,6 @@
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[Unsolved]
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
-- [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)[Unsolved](https://chatgpt.com/share/67431f2f-f774-8004-a13c-3090e1552306)
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 
@@ -419,3 +418,4 @@
 - [459. Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY) 
 - [819. Most Common Word](https://leetcode.com/problems/most-common-word/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)[Unsolved]
