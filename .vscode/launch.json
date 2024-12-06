@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SplitStringInBalancedString",
+            "request": "launch",
+            "mainClass": "string_problems.SplitStringInBalancedString",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "FindCommonCharacters",
             "request": "launch",
             "mainClass": "string_problems.FindCommonCharacters",
