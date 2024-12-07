@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FindWordThatCanBeFormedByCharacters",
+            "request": "launch",
+            "mainClass": "Hashing_and_HashMap_problems.FindWordThatCanBeFormedByCharacters",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "SplitStringInBalancedString",
             "request": "launch",
             "mainClass": "string_problems.SplitStringInBalancedString",
