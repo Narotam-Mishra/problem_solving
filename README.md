@@ -421,3 +421,4 @@
 - [925. Long Pressed Name](https://leetcode.com/problems/long-pressed-name/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1002. Find Common Characters](https://leetcode.com/problems/find-common-characters/?envType=problem-list-v2&envId=string&difficulty=EASY&status=TO_DO)
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
