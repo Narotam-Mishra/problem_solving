@@ -423,3 +423,4 @@
 - [1221. Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1360. Number of Days Between Two Dates](https://leetcode.com/problems/number-of-days-between-two-dates/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1624. Largest Substring Between Two Equal Characters](https://leetcode.com/problems/largest-substring-between-two-equal-characters/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[Unsolved]
+- [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
