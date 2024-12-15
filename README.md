@@ -426,4 +426,5 @@
 - [1408. String Matching in an Array](https://leetcode.com/problems/string-matching-in-an-array/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
-- [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[VVI]
+- [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[Unsolved]
