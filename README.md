@@ -427,4 +427,5 @@
 - [824. Goat Latin](https://leetcode.com/problems/goat-latin/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [541. Reverse String II](https://leetcode.com/problems/reverse-string-ii/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1417. Reformat The String](https://leetcode.com/problems/reformat-the-string/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[VVI]
-- [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[Unsolved]
+- [1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
+- [2255. Count Prefixes of a Given String](https://leetcode.com/problems/count-prefixes-of-a-given-string/description/)[Unsolved]
