@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CheckStringIsPrefixOfArray",
+            "request": "launch",
+            "mainClass": "string_problems.CheckStringIsPrefixOfArray",
+            "projectName": "Problem_Solving_23a368ab"
+        },
+        {
+            "type": "java",
             "name": "CountPrefixesOfGivenString",
             "request": "launch",
             "mainClass": "string_problems.CountPrefixesOfGivenString",
