@@ -434,3 +434,4 @@
 - [1961. Check If String Is a Prefix of Array](https://leetcode.com/problems/check-if-string-is-a-prefix-of-array/description/)
 - [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/?envType=problem-list-v2&envId=string)
+- [2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)[VVI]
