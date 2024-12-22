@@ -263,7 +263,7 @@
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[VVI]
-- [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=problem-list-v2&envId=string)[Unsolved]
+- [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=problem-list-v2&envId=string)[VVI]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
