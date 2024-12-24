@@ -435,3 +435,4 @@
 - [2185. Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix/description/)
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/?envType=problem-list-v2&envId=string)
 - [2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)[VVI]
+- [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=string)
