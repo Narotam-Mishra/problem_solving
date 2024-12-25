@@ -436,3 +436,4 @@
 - [804. Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/description/?envType=problem-list-v2&envId=string)
 - [2287. Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/description/)[VVI]
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=string)
+- [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=problem-list-v2&envId=string)[Unsolved]
