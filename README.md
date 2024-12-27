@@ -438,3 +438,4 @@
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=string)
 - [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=problem-list-v2&envId=string)
 - [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
+- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=string)[Unsolved]
