@@ -265,6 +265,7 @@
 - [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)
 - [1160. Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)[VVI]
 - [1189. Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/description/?envType=problem-list-v2&envId=string)[VVI]
+- [2085. Count Common Words With One Occurrence](https://leetcode.com/problems/count-common-words-with-one-occurrence/description/)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
@@ -440,3 +441,4 @@
 - [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=problem-list-v2&envId=string)
 - [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=string)[VVI]
+- [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/?envType=problem-list-v2&envId=string)[Unsolved]
