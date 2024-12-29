@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DefuseTheBomb",
+      "request": "launch",
+      "mainClass": "sliding_window_problems.DefuseTheBomb",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SortingTheSentence",
       "request": "launch",
       "mainClass": "string_problems.SortingTheSentence",

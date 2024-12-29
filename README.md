@@ -201,6 +201,7 @@
 ## [Sliding Window Problems](https://leetcode.com/problem-list/sliding-window/)
 - [What is Sliding Window ?](https://chatgpt.com/share/672a6662-ec4c-8004-914d-38e87f9db956)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)[Unsolved]
+- [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
@@ -438,4 +439,4 @@
 - [2278. Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/description/?envType=problem-list-v2&envId=string)
 - [1704. Determine if String Halves Are Alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/description/?envType=problem-list-v2&envId=string)
 - [1790. Check if One String Swap Can Make Strings Equal](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/)
-- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=string)[Unsolved]
+- [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=string)[VVI]
