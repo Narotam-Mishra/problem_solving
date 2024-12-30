@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountCommonWordsWithOneOccurence",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.CountCommonWordsWithOneOccurence",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DefuseTheBomb",
       "request": "launch",
       "mainClass": "sliding_window_problems.DefuseTheBomb",
