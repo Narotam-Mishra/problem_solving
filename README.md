@@ -202,6 +202,7 @@
 - [What is Sliding Window ?](https://chatgpt.com/share/672a6662-ec4c-8004-914d-38e87f9db956)
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)[Unsolved]
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
+- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[VVI]
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
@@ -258,7 +259,6 @@
 ## [Hashing and HashMap Problems](https://leetcode.com/tag/hash-table/)
 - [Implement your own Hashing function](https://github.com/Narotam-Mishra/problem_solving#hashing-and-hashmap-problems)[Solved]
 - [706. Design HashMap](https://leetcode.com/problems/design-hashmap/description/)[VVI - Solved]
-- [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[Unsolved]
 - [290. Word Pattern](https://leetcode.com/problems/word-pattern/description/)
 - [383. Ransom Note](https://leetcode.com/problems/ransom-note/description/)[Unsolved]
 - [409. Longest Palindrome](https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string&status=TO_DO&difficulty=EASY)

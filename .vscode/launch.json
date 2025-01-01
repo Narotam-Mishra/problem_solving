@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LongestSubstringWithoutRepeatingCharacters",
+      "request": "launch",
+      "mainClass": "sliding_window_problems.LongestSubstringWithoutRepeatingCharacters",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "UncommonWordsFromTwoSentences",
       "request": "launch",
       "mainClass": "string_problems.UncommonWordsFromTwoSentences",
