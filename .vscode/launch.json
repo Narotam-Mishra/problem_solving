@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DesignHashSet",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.DesignHashSet",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "LongestSubstringWithoutRepeatingCharacters",
       "request": "launch",
       "mainClass": "sliding_window_problems.LongestSubstringWithoutRepeatingCharacters",
