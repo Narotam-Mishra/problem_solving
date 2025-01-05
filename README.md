@@ -269,6 +269,8 @@
 - [705. Design HashSet](https://leetcode.com/problems/design-hashset/description/?envType=problem-list-v2&envId=hash-table)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/description/?envType=problem-list-v2&envId=hash-table)
 - [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/?envType=problem-list-v2&envId=hash-table)
+- [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=problem-list-v2&envId=hash-table)
+- [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 

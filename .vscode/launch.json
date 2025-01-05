@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RankTransformOfAnArray",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.RankTransformOfAnArray",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SumOfUniqueElements",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.SumOfUniqueElements",
