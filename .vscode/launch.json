@@ -2,6 +2,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestSubstringBetweenTwoEqualCharacters",
+      "request": "launch",
+      "mainClass": "string_problems.LargestSubstringBetweenTwoEqualCharacters",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
+      "name": "StringCompression",
+      "request": "launch",
+      "mainClass": "string_problems.StringCompression",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DesignParkingSystem",
       "request": "launch",
       "mainClass": "Design_problems.DesignParkingSystem",
