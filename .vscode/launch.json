@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumbersSmallerThanCurrentNumber",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.NumbersSmallerThanCurrentNumber",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DesignOrderedStream",
       "request": "launch",
       "mainClass": "Design_problems.DesignOrderedStream",
