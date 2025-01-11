@@ -271,7 +271,8 @@
 - [1748. Sum of Unique Elements](https://leetcode.com/problems/sum-of-unique-elements/description/?envType=problem-list-v2&envId=hash-table)
 - [1331. Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array/description/?envType=problem-list-v2&envId=hash-table)
 - [1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=hash-table)[VVI]
-- [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table)[Unsolved]
+- [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table)[VVI]
+- [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=problem-list-v2&envId=hash-table)[VVI]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
