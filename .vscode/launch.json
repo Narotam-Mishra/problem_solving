@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckIfSentenceIsPangram",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.CheckIfSentenceIsPangram",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountLargestGroup",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.CountLargestGroup",
