@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AllCharactersHaveEqualNumberOfOccurrences",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.AllCharactersHaveEqualNumberOfOccurrences",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckIfSentenceIsPangram",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.CheckIfSentenceIsPangram",

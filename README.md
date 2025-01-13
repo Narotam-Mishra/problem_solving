@@ -274,6 +274,7 @@
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table)[VVI]
 - [1399. Count Largest Group](https://leetcode.com/problems/count-largest-group/description/?envType=problem-list-v2&envId=hash-table)[VVI]
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/description/?envType=problem-list-v2&envId=hash-table)[VVI]
+- [1941. Check if All Characters Have Equal Number of Occurrences](https://leetcode.com/problems/check-if-all-characters-have-equal-number-of-occurrences/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
