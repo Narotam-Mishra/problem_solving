@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestPositiveIntegerThatExistsWithItsNegative",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.LargestPositiveIntegerThatExistsWithItsNegative",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "TheTwoSneakyNumbersOfDigitville",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.TheTwoSneakyNumbersOfDigitville",
