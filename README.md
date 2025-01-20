@@ -281,6 +281,7 @@
 - [2441. Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=problem-list-v2&envId=hash-table)
 - [1436. Destination City](https://leetcode.com/problems/destination-city/description/?envType=problem-list-v2&envId=hash-table)
 - [1636. Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/description/?envType=problem-list-v2&envId=hash-table)
+- [3184. Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
