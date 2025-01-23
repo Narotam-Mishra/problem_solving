@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckNAndItsDoubleExist",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.CheckNAndItsDoubleExist",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountNumberOfPairsWithAbsoluteDifferenceK",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.CountNumberOfPairsWithAbsoluteDifferenceK",
