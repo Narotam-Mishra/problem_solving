@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountElementsWithMaximumFrequency",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.CountElementsWithMaximumFrequency",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindNumberOfGoodPairsI",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.FindNumberOfGoodPairsI",
