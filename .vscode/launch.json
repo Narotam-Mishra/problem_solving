@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumNumberOfOperationsToMakeArrayDistinct",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MinimumNumberOfOperationsToMakeArrayDistinct",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SecondLargestDigitInString",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.SecondLargestDigitInString",
