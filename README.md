@@ -293,6 +293,7 @@
 - [1796. Second Largest Digit in a String](https://leetcode.com/problems/second-largest-digit-in-a-string/description/?envType=problem-list-v2&envId=hash-table)
 - [3396. Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/description/?envType=problem-list-v2&envId=hash-table)
 - [1128. Number of Equivalent Domino Pairs](https://leetcode.com/problems/number-of-equivalent-domino-pairs/description/?envType=problem-list-v2&envId=hash-table)
+- [2729. Check if The Number is Fascinating](https://leetcode.com/problems/check-if-the-number-is-fascinating/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
