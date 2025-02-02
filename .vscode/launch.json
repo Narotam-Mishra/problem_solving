@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindLuckyIntegerInArray",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.FindLuckyIntegerInArray",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckIfNumberIsFascinating",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.CheckIfNumberIsFascinating",
