@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumNumberOfBallsInBox",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MaximumNumberOfBallsInBox",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindLuckyIntegerInArray",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.FindLuckyIntegerInArray",
