@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SubstringOfSizeThreeWithDistinctCharacters",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.SubstringOfSizeThreeWithDistinctCharacters",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumNumberOfBallsInBox",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.MaximumNumberOfBallsInBox",
