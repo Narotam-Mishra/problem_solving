@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumNumberOfPairsInArray",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MaximumNumberOfPairsInArray",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SubstringOfSizeThreeWithDistinctCharacters",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.SubstringOfSizeThreeWithDistinctCharacters",
