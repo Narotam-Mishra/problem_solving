@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberOfArithmeticTriplets",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.NumberOfArithmeticTriplets",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "NRepeatedElementIn2NArray",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.NRepeatedElementIn2NArray",
