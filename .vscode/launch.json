@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "IsomorphicStrings",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.IsomorphicStrings",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DegreeOfAnArray",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.DegreeOfAnArray",
