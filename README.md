@@ -302,6 +302,7 @@
 - [2367. Number of Arithmetic Triplets](https://leetcode.com/problems/number-of-arithmetic-triplets/description/?envType=problem-list-v2&envId=hash-table)
 - [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/?envType=problem-list-v2&envId=hash-table)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=problem-list-v2&envId=hash-table)
+- [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
