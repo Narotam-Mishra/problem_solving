@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumNumberOfWordsYouCanType",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MaximumNumberOfWordsYouCanType",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumCommonValue",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.MinimumCommonValue",

@@ -303,6 +303,7 @@
 - [697. Degree of an Array](https://leetcode.com/problems/degree-of-an-array/?envType=problem-list-v2&envId=hash-table)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/?envType=problem-list-v2&envId=hash-table)
 - [2540. Minimum Common Value](https://leetcode.com/problems/minimum-common-value/description/?envType=problem-list-v2&envId=hash-table)
+- [1935. Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
