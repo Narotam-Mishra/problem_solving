@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GreatestEnglishLetterInUpperAndLowerCase",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.GreatestEnglishLetterInUpperAndLowerCase",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "VerifyingAlienDictionary",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.VerifyingAlienDictionary",
