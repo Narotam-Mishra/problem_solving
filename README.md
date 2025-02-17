@@ -309,6 +309,7 @@
 - [2062. Count Vowel Substrings of a String](https://leetcode.com/problems/count-vowel-substrings-of-a-string/description/?envType=problem-list-v2&envId=hash-table)
 - [2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/description/?envType=problem-list-v2&envId=hash-table)
 - [2283. Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/description/?envType=problem-list-v2&envId=hash-table)
+- [3438. Find Valid Pair of Adjacent Digits in String](http://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 

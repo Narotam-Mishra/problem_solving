@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindValidPairOfAdjacentDigitInString",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.FindValidPairOfAdjacentDigitInString",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckNumberHasEqualDigitCountAndDigitValue",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.CheckNumberHasEqualDigitCountAndDigitValue",

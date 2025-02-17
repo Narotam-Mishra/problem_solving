@@ -1,5 +1,2 @@
-for(let key in map){
-    //     if(map[key] == n){
-    //         return Number(key);
-    //     }
-    // }
+res += s[i-1];
+                res += s[i];
