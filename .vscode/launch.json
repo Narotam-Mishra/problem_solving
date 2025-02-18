@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumIndexSumOfTwoLists",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MinimumIndexSumOfTwoLists",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindValidPairOfAdjacentDigitInString",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.FindValidPairOfAdjacentDigitInString",
