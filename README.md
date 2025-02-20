@@ -312,6 +312,7 @@
 - [3438. Find Valid Pair of Adjacent Digits in String](http://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string?envType=problem-list-v2&envId=hash-table)
 - [599. Minimum Index Sum of Two Lists](https://leetcode.com/problems/minimum-index-sum-of-two-lists/description/?envType=problem-list-v2&envId=hash-table)
 - [3442. Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/description/?envType=problem-list-v2&envId=hash-table)
+- [2956. Find Common Elements Between Two Arrays](https://leetcode.com/problems/find-common-elements-between-two-arrays/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
