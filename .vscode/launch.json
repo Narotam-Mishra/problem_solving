@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberOfDifferentIntegersInString",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.NumberOfDifferentIntegersInString",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SubarraysDistinctElementSumOfSquaresI",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.SubarraysDistinctElementSumOfSquaresI",
