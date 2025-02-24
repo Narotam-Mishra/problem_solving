@@ -316,6 +316,7 @@
 - [2996. Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/description/?envType=problem-list-v2&envId=hash-table) 
 - [2913. Subarrays Distinct Element Sum of Squares I](https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/description/?envType=problem-list-v2&envId=hash-table)
 - [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/?envType=problem-list-v2&envId=hash-table)
+- [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
