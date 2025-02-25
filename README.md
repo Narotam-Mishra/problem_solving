@@ -57,7 +57,7 @@
 - [315. Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) [VVI - Solved]
 - [Quick Sort Algorithm](https://hack.codingblocks.com/app/contests/62/736/problem)
 - [Implement partition algorithm and then modify it to make quick sort (randomised)](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-#sorting)
-- [Binary Search](https://hack.codingblocks.com/app/contests/5320/199/problem)
+- [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=binary-search)
 - [Lower Bound](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
 - [Upper Bound](https://github.com/Narotam-Mishra/Data-Structures-Algorithms-Problem-Solving-pw-/blob/master)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
@@ -85,7 +85,8 @@
 - [852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 - [81. Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/)
 - [2426. Number of Pairs Satisfying Inequality](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/) [VVI - Solved]
-- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/) 
+- [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
+- [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search) 
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
 
