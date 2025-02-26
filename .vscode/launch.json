@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "UniqueEmailAddresses",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.UniqueEmailAddresses",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "KthMissingPositiveNumber",
       "request": "launch",
       "mainClass": "BinarySearch_problems.KthMissingPositiveNumber",
