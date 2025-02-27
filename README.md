@@ -319,6 +319,7 @@
 - [1805. Number of Different Integers in a String](https://leetcode.com/problems/number-of-different-integers-in-a-string/description/?envType=problem-list-v2&envId=hash-table)
 - [3083. Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse/description/?envType=problem-list-v2&envId=hash-table)
 - [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=hash-table)
+- [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=hash-table)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
