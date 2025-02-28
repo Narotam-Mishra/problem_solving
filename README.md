@@ -207,6 +207,11 @@
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
+## [Tree Problems](https://leetcode.com/problem-list/tree/)
+- [429. N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)
+- [341. Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/description/)
+- [559. Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/description/)
+
 ## [Binary Tree Problems](https://leetcode.com/tag/binary-tree/)
 - [Design Generic Tree(N-ary Tree)](https://www.geeksforgeeks.org/generic-treesn-array-trees/) [Solved]
 - [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/) [Solved]
@@ -451,6 +456,8 @@
 - [1979. Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 - [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 - [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY%2CMEDIUM)[Unsolved]
+- [1025. Divisor Game](https://leetcode.com/problems/divisor-game/description/?envType=problem-list-v2&envId=math)
+- [292. Nim Game](https://leetcode.com/problems/nim-game/description/?envType=problem-list-v2&envId=brainteaser)[Unsolved]
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)

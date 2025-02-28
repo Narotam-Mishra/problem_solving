@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DivisorGame",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.DivisorGame",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "PointsThatIntersectWithCars",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.PointsThatIntersectWithCars",
