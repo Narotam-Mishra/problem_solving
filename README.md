@@ -457,7 +457,8 @@
 - [914. X of a Kind in a Deck of Cards](https://leetcode.com/problems/x-of-a-kind-in-a-deck-of-cards/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY)
 - [866. Prime Palindrome](https://leetcode.com/problems/prime-palindrome/description/?envType=problem-list-v2&envId=number-theory&status=TO_DO&difficulty=EASY%2CMEDIUM)[Unsolved]
 - [1025. Divisor Game](https://leetcode.com/problems/divisor-game/description/?envType=problem-list-v2&envId=math)
-- [292. Nim Game](https://leetcode.com/problems/nim-game/description/?envType=problem-list-v2&envId=brainteaser)[Unsolved]
+- [292. Nim Game](https://leetcode.com/problems/nim-game/description/?envType=problem-list-v2&envId=brainteaser)
+- [1175. Prime Arrangements](https://leetcode.com/problems/prime-arrangements/description/?envType=problem-list-v2&envId=math)[Unsolved]
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)

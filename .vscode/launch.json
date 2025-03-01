@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NimGame",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.NimGame",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DivisorGame",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.DivisorGame",
