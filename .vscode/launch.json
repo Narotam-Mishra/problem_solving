@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimeArrangements",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.PrimeArrangements",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "NimGame",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.NimGame",
