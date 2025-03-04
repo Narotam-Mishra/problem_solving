@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PrimeInDiagonal",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.PrimeInDiagonal",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckIfDigitsAreEqualInStringAfterOperationI",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.CheckIfDigitsAreEqualInStringAfterOperationI",
