@@ -507,6 +507,7 @@
 - [1859. Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/description/?envType=problem-list-v2&envId=string)[VVI]
 - [884. Uncommon Words from Two Sentences](https://leetcode.com/problems/uncommon-words-from-two-sentences/description/?envType=problem-list-v2&envId=string)
 - [StringCompression](https://leetcode.com/problem-list/string/)
+- [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
