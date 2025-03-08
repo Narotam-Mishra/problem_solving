@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ValidSudoku",
+      "request": "launch",
+      "mainClass": "Array_problems.ValidSudoku",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FirstMissingPositive",
       "request": "launch",
       "mainClass": "Array_problems.FirstMissingPositive",

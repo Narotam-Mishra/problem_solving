@@ -49,6 +49,7 @@
 - [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked)[Unsolved]
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=problem-list-v2&envId=array)
+- [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
