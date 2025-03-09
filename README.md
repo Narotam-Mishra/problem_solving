@@ -37,6 +37,8 @@
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/description/?envType=study-plan-v2&envId=leetcode-75)[Solved]
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 - [2778. Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)[Unsolved]
+- [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/?envType=problem-list-v2&envId=array)
+
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)

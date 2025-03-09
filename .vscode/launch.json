@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Search2DMatrixII",
+      "request": "launch",
+      "mainClass": "Array_problems.Search2DMatrixII",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ValidSudoku",
       "request": "launch",
       "mainClass": "Array_problems.ValidSudoku",
