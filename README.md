@@ -513,6 +513,7 @@
 - [StringCompression](https://leetcode.com/problem-list/string/)
 - [3407. Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/description/?envType=problem-list-v2&envId=string)
 - [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/description/?envType=problem-list-v2&envId=string)
+- [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
