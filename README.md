@@ -516,6 +516,7 @@
 - [1507. Reformat Date](https://leetcode.com/problems/reformat-date/description/?envType=problem-list-v2&envId=string)
 - [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/description/?envType=problem-list-v2&envId=string)
 - [2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/description/?envType=problem-list-v2&envId=string)
+- [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
