@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DecryptStringFromAlphabetToIntegerMapping",
+      "request": "launch",
+      "mainClass": "string_problems.DecryptStringFromAlphabetToIntegerMapping",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "TruncateSentence",
       "request": "launch",
       "mainClass": "string_problems.TruncateSentence",
