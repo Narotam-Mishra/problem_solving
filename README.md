@@ -519,6 +519,7 @@
 - [696. Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/description/?envType=problem-list-v2&envId=string)
 - [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/description/?envType=problem-list-v2&envId=string)
 - [1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/description/?envType=problem-list-v2&envId=string)
+- [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
