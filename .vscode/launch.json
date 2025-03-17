@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GoalParserInterpretation",
+      "request": "launch",
+      "mainClass": "string_problems.GoalParserInterpretation",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumNestingDepthOfParentheses",
       "request": "launch",
       "mainClass": "string_problems.MaximumNestingDepthOfParentheses",
