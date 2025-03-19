@@ -522,6 +522,8 @@
 - [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/?envType=problem-list-v2&envId=string)
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/?envType=problem-list-v2&envId=string)
 - [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/description/?envType=problem-list-v2&envId=string)
+- [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=string)
+- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=string)[Unsolved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)

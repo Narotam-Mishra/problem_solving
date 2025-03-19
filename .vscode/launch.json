@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OccurrencesAfterBigram",
+      "request": "launch",
+      "mainClass": "string_problems.OccurrencesAfterBigram",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "NumberOfValidWordsInSentence",
       "request": "launch",
       "mainClass": "string_problems.NumberOfValidWordsInSentence",
