@@ -523,6 +523,7 @@
 - [1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/description/?envType=problem-list-v2&envId=string)
 - [2047. Number of Valid Words in a Sentence](https://leetcode.com/problems/number-of-valid-words-in-a-sentence/description/?envType=problem-list-v2&envId=string)
 - [1078. Occurrences After Bigram](https://leetcode.com/problems/occurrences-after-bigram/description/?envType=problem-list-v2&envId=string)
+- [3340. Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/?envType=problem-list-v2&envId=string)
 - [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=string)[Unsolved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
