@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RegularExpreesionMatching",
+      "request": "launch",
+      "mainClass": "DynamicProgramming_problems.RegularExpreesionMatching",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ValidWord",
       "request": "launch",
       "mainClass": "string_problems.ValidWord",

@@ -136,6 +136,8 @@
 - [123. Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) [Unsolved]
 - [122. Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) [Unsolved]
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) [Solved]
+- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=string)[Solved]
+- [44. Wildcard Matching](https://leetcode.com/problems/wildcard-matching/description/)[Unsolved]
 - [746. Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/) [Unsolved]
 - [198. House Robber](https://leetcode.com/problems/house-robber/description/) [Unsolved]
 - [740. Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/) [Unsolved]
@@ -526,7 +528,6 @@
 - [3340. Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/?envType=problem-list-v2&envId=string)
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=problem-list-v2&envId=string)
 - [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=problem-list-v2&envId=string)
-- [10. Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/description/?envType=problem-list-v2&envId=string)[Unsolved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
