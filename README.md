@@ -528,6 +528,7 @@
 - [3340. Check Balanced String](https://leetcode.com/problems/check-balanced-string/description/?envType=problem-list-v2&envId=string)
 - [2108. Find First Palindromic String in the Array](https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/?envType=problem-list-v2&envId=string)
 - [3136. Valid Word](https://leetcode.com/problems/valid-word/description/?envType=problem-list-v2&envId=string)
+- [3258. Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
