@@ -531,6 +531,7 @@
 - [3258. Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/description/?envType=problem-list-v2&envId=string)
 - [3019. Number of Changing Keys](https://leetcode.com/problems/number-of-changing-keys/description/?envType=problem-list-v2&envId=string)
 - [3042. Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/?envType=problem-list-v2&envId=string)
+- [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
