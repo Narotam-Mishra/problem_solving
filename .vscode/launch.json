@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "GenrateStringWithCharactersThatHaveOddCounts",
+      "request": "launch",
+      "mainClass": "string_problems.GenrateStringWithCharactersThatHaveOddCounts",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ClearDigits",
       "request": "launch",
       "mainClass": "string_problems.ClearDigits",
