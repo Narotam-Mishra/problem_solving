@@ -191,6 +191,7 @@
 - [Stock Span Problem](https://www.interviewbit.com/blog/stock-span-problem/) [Unsolved]
 - [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1) [Unsolved]
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Solved]
+- [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/?envType=problem-list-v2&envId=string)
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
