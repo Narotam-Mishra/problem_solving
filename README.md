@@ -535,6 +535,7 @@
 - [2678. Number of Senior Citizens](https://leetcode.com/problems/number-of-senior-citizens/description/?envType=problem-list-v2&envId=string)
 - [3174. Clear Digits](https://leetcode.com/problems/clear-digits/description/?envType=problem-list-v2&envId=string)
 - [1374. Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/description/?envType=problem-list-v2&envId=string)
+- [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
