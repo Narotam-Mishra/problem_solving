@@ -538,6 +538,7 @@
 - [3168. Minimum Number of Chairs in a Waiting Room](https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/?envType=problem-list-v2&envId=string)
 - [3210. Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/description/?envType=problem-list-v2&envId=string)
 - [3248. Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/description/?envType=problem-list-v2&envId=string)
+- [3498. Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
