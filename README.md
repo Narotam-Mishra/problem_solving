@@ -544,6 +544,7 @@
 - [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/?envType=problem-list-v2&envId=string)
 - [2810. Faulty Keyboard](https://leetcode.com/problems/faulty-keyboard/description/?envType=problem-list-v2&envId=string)
 - [942. DI String Match](https://leetcode.com/problems/di-string-match/description/?envType=problem-list-v2&envId=string)
+- [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)

@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DefangingAnIPAddress",
+      "request": "launch",
+      "mainClass": "string_problems.DefangingAnIPAddress",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DIStringMatch",
       "request": "launch",
       "mainClass": "string_problems.DIStringMatch",
