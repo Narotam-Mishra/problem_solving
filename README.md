@@ -547,6 +547,7 @@
 - [942. DI String Match](https://leetcode.com/problems/di-string-match/description/?envType=problem-list-v2&envId=string)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/?envType=problem-list-v2&envId=string)
 - [3330. Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/description/?envType=problem-list-v2&envId=string)
+- [2833. Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
