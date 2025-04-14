@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SplitStringsBySeparator",
+      "request": "launch",
+      "mainClass": "string_problems.SplitStringsBySeparator",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckIfTwoStringArraysAreEquivalent",
       "request": "launch",
       "mainClass": "string_problems.CheckIfTwoStringArraysAreEquivalent",
