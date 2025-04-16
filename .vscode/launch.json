@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindMaximumNumberOfStringPairs",
+      "request": "launch",
+      "mainClass": "string_problems.FindMaximumNumberOfStringPairs",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CapitalizeTheTitle",
       "request": "launch",
       "mainClass": "string_problems.CapitalizeTheTitle",
