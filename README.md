@@ -552,6 +552,7 @@
 - [2788. Split Strings by Separator](https://leetcode.com/problems/split-strings-by-separator/description/?envType=problem-list-v2&envId=string)
 - [2129. Capitalize the Title](https://leetcode.com/problems/capitalize-the-title/description/?envType=problem-list-v2&envId=string)
 - [2744. Find Maximum Number of String Pairs](https://leetcode.com/problems/find-maximum-number-of-string-pairs/description/?envType=problem-list-v2&envId=string)
+- [1945. Sum of Digits of String After Convert](https://leetcode.com/problems/sum-of-digits-of-string-after-convert/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
