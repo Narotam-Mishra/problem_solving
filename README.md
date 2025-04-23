@@ -556,6 +556,7 @@
 - [2243. Calculate Digit Sum of a String](https://leetcode.com/problems/calculate-digit-sum-of-a-string/description/?envType=problem-list-v2&envId=string)
 - [2114. Maximum Number of Words Found in Sentences](https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/?envType=problem-list-v2&envId=string)
 - [1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/description/?envType=problem-list-v2&envId=string)
+- [3456. Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)

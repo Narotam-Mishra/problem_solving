@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindSpecialSubstringOfLengthK",
+      "request": "launch",
+      "mainClass": "string_problems.FindSpecialSubstringOfLengthK",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ReplaceAllDigitsWithCharacters",
       "request": "launch",
       "mainClass": "string_problems.ReplaceAllDigitsWithCharacters",
