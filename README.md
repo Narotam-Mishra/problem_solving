@@ -560,6 +560,7 @@
 - [2716. Minimize String Length](https://leetcode.com/problems/minimize-string-length/description/?envType=problem-list-v2&envId=string)
 - [1967. Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/description/?envType=problem-list-v2&envId=string)
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/description/?envType=problem-list-v2&envId=string)
+- [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)

@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemovePalindromicSubsequences",
+      "request": "launch",
+      "mainClass": "string_problems.RemovePalindromicSubsequences",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountAsterisks",
       "request": "launch",
       "mainClass": "string_problems.CountAsterisks",
