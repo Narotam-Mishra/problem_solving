@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckIfWordEqualsSummationOfTwoWords",
+      "request": "launch",
+      "mainClass": "string_problems.CheckIfWordEqualsSummationOfTwoWords",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "RemovePalindromicSubsequences",
       "request": "launch",
       "mainClass": "string_problems.RemovePalindromicSubsequences",
