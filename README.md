@@ -562,6 +562,7 @@
 - [2315. Count Asterisks](https://leetcode.com/problems/count-asterisks/description/?envType=problem-list-v2&envId=string)
 - [1332. Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/description/?envType=problem-list-v2&envId=string)
 - [1880. Check if Word Equals Summation of Two Words](https://leetcode.com/problems/check-if-word-equals-summation-of-two-words/?envType=problem-list-v2&envId=string)
+- [2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)

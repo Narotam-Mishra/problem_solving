@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveTrailingZerosFromString",
+      "request": "launch",
+      "mainClass": "string_problems.RemoveTrailingZerosFromString",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckIfWordEqualsSummationOfTwoWords",
       "request": "launch",
       "mainClass": "string_problems.CheckIfWordEqualsSummationOfTwoWords",
