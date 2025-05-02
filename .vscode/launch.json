@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DetermineColorOfChessboardSquare",
+      "request": "launch",
+      "mainClass": "string_problems.DetermineColorOfChessboardSquare",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CheckDistancesBetweenSameLetters",
       "request": "launch",
       "mainClass": "string_problems.CheckDistancesBetweenSameLetters",
