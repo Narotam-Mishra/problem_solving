@@ -567,6 +567,7 @@
 - [2399. Check Distances Between Same Letters](https://leetcode.com/problems/check-distances-between-same-letters/description/?envType=problem-list-v2&envId=string)
 - [1812. Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/description/?envType=problem-list-v2&envId=string)
 - [1957. Delete Characters to Make Fancy String](https://leetcode.com/problems/delete-characters-to-make-fancy-string/description/?envType=problem-list-v2&envId=string)
+- [2437. Number of Valid Clock Times](https://leetcode.com/problems/number-of-valid-clock-times/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
