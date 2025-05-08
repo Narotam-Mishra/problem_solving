@@ -571,6 +571,7 @@
 - [1668. Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/description/?envType=problem-list-v2&envId=string)
 - [2515. Shortest Distance to Target String in a Circular Array](https://leetcode.com/problems/shortest-distance-to-target-string-in-a-circular-array/description/?envType=problem-list-v2&envId=string)
 - [1758. Minimum Changes To Make Alternating Binary String](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/description/?envType=problem-list-v2&envId=string)
+- [1370. Increasing Decreasing String](https://leetcode.com/problems/increasing-decreasing-string/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
