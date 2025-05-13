@@ -31,7 +31,11 @@ public class CheckIfNumberAreAscendingInSentence {
     }
 
     public static void main(String[] args) {
-        String s = "1 box has 3 blue 4 red 6 green and 12 yellow marbles";
+        // String s = "1 box has 3 blue 4 red 6 green and 12 yellow marbles";
+        
+        // String s = "hello world 5 x 5";
+
+        String s = "sunset is at 7 51 pm overnight lows will be in the low 50 and 60 s";
         System.out.println(areNumbersAscending(s));
     }
 }
