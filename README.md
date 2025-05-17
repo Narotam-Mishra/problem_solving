@@ -581,7 +581,8 @@
 - [2068. Check Whether Two Strings are Almost Equivalent](https://leetcode.com/problems/check-whether-two-strings-are-almost-equivalent/description/?envType=problem-list-v2&envId=string)
 - [2124. Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/description/)
 - [1784. Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/description/)
-- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)[Unsolved]
+- [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)[VVI - Solved]
+- [65. Valid Number](https://leetcode.com/problems/valid-number/description/)[Unsolved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
