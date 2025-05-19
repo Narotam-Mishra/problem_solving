@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "RemoveLetterToEqualizeFrequency",
+      "request": "launch",
+      "mainClass": "string_problems.RemoveLetterToEqualizeFrequency",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ValidNumber",
       "request": "launch",
       "mainClass": "string_problems.ValidNumber",
