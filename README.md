@@ -334,6 +334,7 @@
 - [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/description/?envType=problem-list-v2&envId=hash-table)
 - [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=hash-table)
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
+- [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
@@ -584,7 +585,7 @@
 - [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)[VVI - Solved]
 - [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 - [2423. Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/?envType=problem-list-v2&envId=string)
-- [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)[Unsolved]
+- [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
