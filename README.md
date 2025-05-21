@@ -586,6 +586,7 @@
 - [65. Valid Number](https://leetcode.com/problems/valid-number/description/)
 - [2423. Remove Letter To Equalize Frequency](https://leetcode.com/problems/remove-letter-to-equalize-frequency/description/?envType=problem-list-v2&envId=string)
 - [2575. Find the Divisibility Array of a String](https://leetcode.com/problems/find-the-divisibility-array-of-a-string/description/)
+- [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
