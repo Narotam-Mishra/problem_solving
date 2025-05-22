@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumDeletionsForAtmostKDistinctCharacters",
+      "request": "launch",
+      "mainClass": "string_problems.MinimumDeletionsForAtmostKDistinctCharacters",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindMostFrequentVowelAndConsonant",
       "request": "launch",
       "mainClass": "string_problems.FindMostFrequentVowelAndConsonant",
