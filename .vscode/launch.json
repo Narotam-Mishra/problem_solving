@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CheckIfStringsCanBeMadeEqualWithOperationsI",
+      "request": "launch",
+      "mainClass": "string_problems.CheckIfStringsCanBeMadeEqualWithOperationsI",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FinalValueOfVariableAfterPerformingOperations",
       "request": "launch",
       "mainClass": "string_problems.FinalValueOfVariableAfterPerformingOperations",
