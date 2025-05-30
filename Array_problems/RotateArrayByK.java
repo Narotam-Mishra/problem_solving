@@ -1,5 +1,7 @@
 package Array_problems;
 
+import java.util.Arrays;
+
 public class RotateArrayByK {
 
     public static int[] rotateArrayByK(int []arr, int k){
@@ -14,5 +16,11 @@ public class RotateArrayByK {
             res[j++] = arr[i];
         }
         return res;
+    }
+
+    public static void main(String[] args) {
+        int[] arr = {1, 2, 3, 4, 5};
+        int k = 2;
+        System.out.println(Arrays.toString(rotateArrayByK(arr, k)));
     }
 }
