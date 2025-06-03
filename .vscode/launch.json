@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SortCharacterByFrequency",
+      "request": "launch",
+      "mainClass": "string_problems.SortCharacterByFrequency",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumValueOfStringInArray",
       "request": "launch",
       "mainClass": "string_problems.MaximumValueOfStringInArray",

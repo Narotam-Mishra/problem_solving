@@ -337,6 +337,7 @@
 - [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=hash-table)
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)[VVI - Solved]
+- [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
@@ -599,6 +600,7 @@
 - [806. Number of Lines To Write String](https://leetcode.com/problems/number-of-lines-to-write-string/description/)[Solved]
 - [3216. Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/description/?envType=problem-list-v2&envId=string)
 - [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=string)
+- [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=problem-list-v2&envId=string)[VVI]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
