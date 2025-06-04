@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MakeTheStringGreat",
+      "request": "launch",
+      "mainClass": "Stack_Problems.MakeTheStringGreat",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SortCharacterByFrequency",
       "request": "launch",
       "mainClass": "string_problems.SortCharacterByFrequency",

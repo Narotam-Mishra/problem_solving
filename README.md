@@ -194,6 +194,7 @@
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/description/) [Solved]
 - [224. Basic Calculator](https://leetcode.com/problems/basic-calculator/description/?envType=problem-list-v2&envId=string)
 - [316. Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/description/?envType=problem-list-v2&envId=string)[VVI]
+- [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/?envType=problem-list-v2&envId=string)[VVI]
 - [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)[Unsolved]
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
