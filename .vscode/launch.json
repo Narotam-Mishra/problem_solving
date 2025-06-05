@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MostFrquentEvenNumber",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.MostFrquentEvenNumber",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MakeTheStringGreat",
       "request": "launch",
       "mainClass": "Stack_Problems.MakeTheStringGreat",
