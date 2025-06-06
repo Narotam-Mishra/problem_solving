@@ -602,6 +602,7 @@
 - [3216. Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/description/?envType=problem-list-v2&envId=string)
 - [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=string)
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=problem-list-v2&envId=string)[VVI]
+- [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=string)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
