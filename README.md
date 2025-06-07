@@ -215,6 +215,7 @@
 - [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)[Unsolved]
 - [1652. Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)[VVI]
+- [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/?envType=problem-list-v2&envId=string)
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
