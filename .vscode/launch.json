@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PermutationInString",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.PermutationInString",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindAllAnagramsInString",
       "request": "launch",
       "mainClass": "sliding_window_problems.FindAllAnagramsInString",

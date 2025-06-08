@@ -339,7 +339,8 @@
 - [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/description/?envType=problem-list-v2&envId=hash-table)
 - [500. Keyboard Row](https://leetcode.com/problems/keyboard-row/description/)
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)[VVI - Solved]
-- [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)[Unsolved]
+- [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
+- [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)[Unsolved]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
