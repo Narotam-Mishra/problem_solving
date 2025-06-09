@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumAverageSubarrayI",
+      "request": "launch",
+      "mainClass": "sliding_window_problems.MaximumAverageSubarrayI",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "PermutationInString",
       "request": "launch",
       "mainClass": "Hashing_and_HashMap_problems.PermutationInString",
