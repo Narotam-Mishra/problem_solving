@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumSubarrayWithEqualProducts",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.MaximumSubarrayWithEqualProducts",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindTheKBeautyOfNumber",
       "request": "launch",
       "mainClass": "sliding_window_problems.FindTheKBeautyOfNumber",
