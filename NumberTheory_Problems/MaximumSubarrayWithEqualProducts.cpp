@@ -34,7 +34,7 @@ int maxLength(vector<int>& nums) {
             for (int j = i; j < n; j++) {
                 if (j > i) {
                     // step 3 - to prevent overflow, break if product is too large
-                    if(currProd > 1e18) break;
+                    if(currProd > 1e18 / nums[j]) break;
 
                     currProd *= nums[j];
 
