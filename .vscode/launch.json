@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumDifferenceBetweenHighestAndLowestOfKScores",
+      "request": "launch",
+      "mainClass": "sliding_window_problems.MinimumDifferenceBetweenHighestAndLowestOfKScores",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "LongestHarmoniousSubsequence",
       "request": "launch",
       "mainClass": "sliding_window_problems.LongestHarmoniousSubsequence",
