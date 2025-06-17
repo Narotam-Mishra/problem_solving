@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ArrayPartition",
+      "request": "launch",
+      "mainClass": "Array_problems.ArrayPartition",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "LongestEvenOddSubarrayWithThreshold",
       "request": "launch",
       "mainClass": "sliding_window_problems.LongestEvenOddSubarrayWithThreshold",
