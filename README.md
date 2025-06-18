@@ -54,6 +54,7 @@
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=problem-list-v2&envId=array)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 - [561. Array Partition](https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array)
+- [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)

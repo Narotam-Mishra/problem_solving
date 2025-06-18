@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumCostOfBuyingCandiesWithDiscount",
+      "request": "launch",
+      "mainClass": "Array_problems.MinimumCostOfBuyingCandiesWithDiscount",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ArrayPartition",
       "request": "launch",
       "mainClass": "Array_problems.ArrayPartition",
