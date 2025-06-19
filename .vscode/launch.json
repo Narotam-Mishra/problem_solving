@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "BaseballGame",
+      "request": "launch",
+      "mainClass": "Stack_Problems.BaseballGame",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumCostOfBuyingCandiesWithDiscount",
       "request": "launch",
       "mainClass": "Array_problems.MinimumCostOfBuyingCandiesWithDiscount",
