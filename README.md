@@ -117,6 +117,11 @@
 - [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
 
+## [Intro to Backtracking](https://claude.ai/share/e019e497-0851-4afe-8a13-a92aab790391)
+
+## [Backtracking Problems](https://leetcode.com/problem-list/backtracking/)
+- [46. Permutations](https://leetcode.com/problems/permutations/description/?envType=problem-list-v2&envId=array)
+
 ## [Intro to Dynamic Programming](https://chatgpt.com/share/c060c58c-2e0a-4832-be6f-8e3944995c8c)
 
 ## [Dynamic Programming Problems](https://leetcode.com/tag/dynamic-programming/)

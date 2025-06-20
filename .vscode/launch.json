@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Permutations",
+      "request": "launch",
+      "mainClass": "Backtracking_problems.Permutations",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "BaseballGame",
       "request": "launch",
       "mainClass": "Stack_Problems.BaseballGame",
