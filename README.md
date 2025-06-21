@@ -55,6 +55,7 @@
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
 - [561. Array Partition](https://leetcode.com/problems/array-partition/description/?envType=problem-list-v2&envId=array)
 - [2144. Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/description/)
+- [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
@@ -611,7 +612,6 @@
 - [3541. Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=problem-list-v2&envId=string)
 - [3545. Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters/description/?envType=problem-list-v2&envId=string)
 - [2697. Lexicographically Smallest Palindrome](https://leetcode.com/problems/lexicographically-smallest-palindrome/description/?envType=problem-list-v2&envId=string)
-- [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=string)[Backtracking - Solved]
 - [1974. Minimum Time to Type Word Using Special Typewriter](https://leetcode.com/problems/minimum-time-to-type-word-using-special-typewriter/description/?envType=problem-list-v2&envId=string)
 - [2696. Minimum String Length After Removing Substrings](https://leetcode.com/problems/minimum-string-length-after-removing-substrings/description/?envType=problem-list-v2&envId=string)
 - [2011. Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/?envType=problem-list-v2&envId=string)
@@ -621,6 +621,7 @@
 - [2496. Maximum Value of a String in an Array](https://leetcode.com/problems/maximum-value-of-a-string-in-an-array/description/?envType=problem-list-v2&envId=string)
 - [451. Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/?envType=problem-list-v2&envId=string)[VVI]
 - [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/?envType=problem-list-v2&envId=string)
+- [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=string)[Backtracking - Solved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
