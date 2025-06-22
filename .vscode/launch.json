@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "HeightChecker",
+      "request": "launch",
+      "mainClass": "Array_problems.HeightChecker",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SummaryRanges",
       "request": "launch",
       "mainClass": "Array_problems.SummaryRanges",
