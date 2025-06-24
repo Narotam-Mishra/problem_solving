@@ -58,6 +58,7 @@
 - [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/description/?envType=problem-list-v2&envId=array)
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=problem-list-v2&envId=array)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/?envType=problem-list-v2&envId=two-pointers)
+- [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
