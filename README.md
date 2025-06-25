@@ -400,6 +400,7 @@
 - [2037. Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/)[Solved]
 - [2027. Minimum Moves to Convert String](https://leetcode.com/problems/minimum-moves-to-convert-string/description/)
 - [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
+- [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=array)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
