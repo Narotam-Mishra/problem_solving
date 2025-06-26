@@ -59,6 +59,8 @@
 - [1051. Height Checker](https://leetcode.com/problems/height-checker/description/?envType=problem-list-v2&envId=array)
 - [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/?envType=problem-list-v2&envId=two-pointers)
 - [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=problem-list-v2&envId=array)
+- [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
+- [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/?envType=problem-list-v2&envId=array)[Unsolved]
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
