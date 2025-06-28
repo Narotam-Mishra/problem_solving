@@ -49,7 +49,7 @@
 - [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) [VVI]
 - [Find Missing And Repeating](https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/)
-- [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked)[Unsolved]
+- [169. Majority Element](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-100-liked)[Unsolved]F
 - [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/?envType=study-plan-v2&envId=top-100-liked)
 - [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=problem-list-v2&envId=array)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/)
@@ -61,6 +61,7 @@
 - [1122. Relative Sort Array](https://leetcode.com/problems/relative-sort-array/description/?envType=problem-list-v2&envId=array)
 - [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/?envType=problem-list-v2&envId=array)
+- [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)

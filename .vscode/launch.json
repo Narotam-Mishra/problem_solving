@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestNumberAtLeastTwiceOfOthers",
+      "request": "launch",
+      "mainClass": "Array_problems.LargestNumberAtLeastTwiceOfOthers",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ThirdMaximumNumber",
       "request": "launch",
       "mainClass": "Array_problems.ThirdMaximumNumber",
