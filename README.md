@@ -62,6 +62,7 @@
 - [2733. Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/description/)
 - [414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/description/?envType=problem-list-v2&envId=array)
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/?envType=problem-list-v2&envId=array)
+- [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=problem-list-v2&envId=array)[VVI]
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
