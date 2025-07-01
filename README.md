@@ -64,6 +64,7 @@
 - [747. Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others/description/?envType=problem-list-v2&envId=array)
 - [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=problem-list-v2&envId=array)[VVI]
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=problem-list-v2&envId=array)
+- [32. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
