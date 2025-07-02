@@ -65,6 +65,7 @@
 - [506. Relative Ranks](https://leetcode.com/problems/relative-ranks/description/?envType=problem-list-v2&envId=array)[VVI]
 - [1637. Widest Vertical Area Between Two Points Containing No Points](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/?envType=problem-list-v2&envId=array)
 - [32. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/description/?envType=problem-list-v2&envId=array)
+- [389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
