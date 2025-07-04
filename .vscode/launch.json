@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountGoodTriplets",
+      "request": "launch",
+      "mainClass": "Array_problems.CountGoodTriplets",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DecompressRunLengthEncodedList",
       "request": "launch",
       "mainClass": "Array_problems.DecompressRunLengthEncodedList",
