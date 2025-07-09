@@ -72,6 +72,7 @@
 - [3402. Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/description/)[VVI- Solved]
 - [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/description/?envType=problem-list-v2&envId=array)
 - [2160. Minimum Sum of Four Digit Number After Splitting Digits](https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/)
+- [1380. Lucky Numbers in a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
