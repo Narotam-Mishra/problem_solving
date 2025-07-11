@@ -13,6 +13,17 @@ void printVector(vector<int>& vec){
     cout<< "]" <<endl;
 }
 
+void printVector1(vector<bool>& vec){
+    cout << "[";
+    for (size_t i = 0; i < vec.size(); ++i) {
+        cout << (vec[i] ? "true" : "false");
+        if (i < vec.size() - 1) {
+            cout << ",";
+        }
+    }
+    cout << "]" << endl;
+}
+
 void print2DVector(vector<vector<int>>& matrix){
     cout << "[";
     for (size_t i = 0; i < matrix.size(); ++i) {
