@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumProductOfTwoElementsInArray",
+      "request": "launch",
+      "mainClass": "Array_problems.MaximumProductOfTwoElementsInArray",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountEqualAndDivisiblePairsInArray",
       "request": "launch",
       "mainClass": "Array_problems.CountEqualAndDivisiblePairsInArray",
