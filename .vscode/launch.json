@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LeftAndRightSumDifferences",
+      "request": "launch",
+      "mainClass": "Array_problems.LeftAndRightSumDifferences",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FinalPricesWithSpecialDiscountInShop",
       "request": "launch",
       "mainClass": "Array_problems.FinalPricesWithSpecialDiscountInShop",
