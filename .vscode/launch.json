@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PascalTriangleII",
+      "request": "launch",
+      "mainClass": "Array_problems.PascalTriangleII",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumSumWithExactlyKElements",
       "request": "launch",
       "mainClass": "Array_problems.MaximumSumWithExactlyKElements",
