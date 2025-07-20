@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountPairsWhoseSumIsLessThanTarget",
+      "request": "launch",
+      "mainClass": "Array_problems.CountPairsWhoseSumIsLessThanTarget",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumNumberGame",
       "request": "launch",
       "mainClass": "Array_problems.MinimumNumberGame",

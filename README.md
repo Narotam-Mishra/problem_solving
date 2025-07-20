@@ -83,7 +83,7 @@
 - [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/?envType=problem-list-v2&envId=array)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/description/?envType=problem-list-v2&envId=array)
 - [2974. Minimum Number Game](https://leetcode.com/problems/minimum-number-game/description/?envType=problem-list-v2&envId=array)
-- [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/?envType=problem-list-v2&envId=array)[Unsolved]
+- [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
