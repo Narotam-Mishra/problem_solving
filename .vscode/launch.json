@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberOfEmployeesWhoMetTarget",
+      "request": "launch",
+      "mainClass": "Array_problems.NumberOfEmployeesWhoMetTarget",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindIfDigitGameCanBeWon",
       "request": "launch",
       "mainClass": "Array_problems.FindIfDigitGameCanBeWon",
