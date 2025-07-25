@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumAvergaeOfSmallestAndLargestElements",
+      "request": "launch",
+      "mainClass": "Array_problems.MinimumAvergaeOfSmallestAndLargestElements",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SpecialArrayI",
       "request": "launch",
       "mainClass": "Array_problems.SpecialArrayI",
