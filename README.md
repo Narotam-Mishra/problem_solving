@@ -90,7 +90,7 @@
 - [3151. Special Array I](https://leetcode.com/problems/special-array-i/description/?envType=problem-list-v2&envId=array)
 - [3194. Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/description/?envType=problem-list-v2&envId=array)
 - [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/?envType=problem-list-v2&envId=array)
-- [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=problem-list-v2&envId=array)[Unsolved]
+- [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
