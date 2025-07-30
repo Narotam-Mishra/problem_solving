@@ -92,6 +92,7 @@
 - [3285. Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/description/?envType=problem-list-v2&envId=array)
 - [3300. Minimum Element After Replacement With Digit Sum](https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/description/?envType=problem-list-v2&envId=array)
 - [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/?envType=problem-list-v2&envId=array)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
