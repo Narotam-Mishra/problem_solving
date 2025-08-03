@@ -96,6 +96,7 @@
 - [717. 1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=problem-list-v2&envId=array)
 - [3591. Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency/description/?envType=problem-list-v2&envId=array)
 - [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/?envType=problem-list-v2&envId=array)
+- [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
