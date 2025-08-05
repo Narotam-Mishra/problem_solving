@@ -98,6 +98,7 @@
 - [2239. Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/?envType=problem-list-v2&envId=array)
 - [2094. Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers/description/?envType=problem-list-v2&envId=array)
 - [2057. Smallest Index With Equal Value](https://leetcode.com/problems/smallest-index-with-equal-value/?envType=problem-list-v2&envId=array)
+- [1991. Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
