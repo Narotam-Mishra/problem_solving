@@ -45,6 +45,7 @@ int main(){
 
     vector<int> nums = {1,2,5,2,3};
     int target = 5;
+    
     vector<int> res = targetIndices(nums, target);
     printVector(res);
 }
