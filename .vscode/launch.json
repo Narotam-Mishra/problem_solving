@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindTargetIndicesAfterSortingArray",
+      "request": "launch",
+      "mainClass": "Array_problems.FindTargetIndicesAfterSortingArray",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindPivotIndex",
       "request": "launch",
       "mainClass": "Array_problems.FindPivotIndex",
