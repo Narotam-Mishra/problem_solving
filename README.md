@@ -102,7 +102,7 @@
 - [1995. Count Special Quadruplets](https://leetcode.com/problems/count-special-quadruplets/description/?envType=problem-list-v2&envId=array)
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 - [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=problem-list-v2&envId=array)
-- [2293. Min Max Game](https://leetcode.com/problems/min-max-game/description/?envType=problem-list-v2&envId=array)[Unsolved]
+- [2293. Min Max Game](https://leetcode.com/problems/min-max-game/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
