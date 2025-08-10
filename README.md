@@ -103,6 +103,7 @@
 - [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/description/)
 - [2089. Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/description/?envType=problem-list-v2&envId=array)
 - [2293. Min Max Game](https://leetcode.com/problems/min-max-game/description/?envType=problem-list-v2&envId=array)
+- [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
