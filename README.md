@@ -546,6 +546,7 @@
 - [3461. Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/description/?envType=problem-list-v2&envId=number-theory)
 - [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/?envType=problem-list-v2&envId=number-theory)
 - [3411. Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/description/?envType=problem-list-v2&envId=number-theory)
+- [812. Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/description/?envType=problem-list-v2&envId=array)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)

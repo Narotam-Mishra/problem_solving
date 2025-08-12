@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LargestTriangleArea",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.LargestTriangleArea",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindMaximumDivisibilityScore",
       "request": "launch",
       "mainClass": "Array_problems.FindMaximumDivisibilityScore",
