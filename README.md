@@ -106,6 +106,7 @@
 - [1848. Minimum Distance to the Target Element](https://leetcode.com/problems/minimum-distance-to-the-target-element/description/?envType=problem-list-v2&envId=array)
 - [2644. Find the Maximum Divisibility Score](https://leetcode.com/problems/find-the-maximum-divisibility-score/description/?envType=problem-list-v2&envId=array)
 - [896. Monotonic Array](https://leetcode.com/problems/monotonic-array/description/?envType=problem-list-v2&envId=array)
+- [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
