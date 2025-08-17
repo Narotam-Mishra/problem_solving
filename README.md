@@ -38,6 +38,7 @@
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)
 - [2778. Sum of Squares of Special Elements ](https://leetcode.com/problems/sum-of-squares-of-special-elements/description/)[Unsolved]
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/?envType=problem-list-v2&envId=array)
+- [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/?envType=problem-list-v2&envId=array)
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)[Unsolved]
 
 
@@ -109,7 +110,7 @@
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/?envType=problem-list-v2&envId=array)
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/?envType=problem-list-v2&envId=array)
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array)
-- [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/?envType=problem-list-v2&envId=array)[Unsolved]
+
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)

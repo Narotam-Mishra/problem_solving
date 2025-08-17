@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DuplicateZeros",
+      "request": "launch",
+      "mainClass": "Array_problems.DuplicateZeros",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumAbsoluteDifference",
       "request": "launch",
       "mainClass": "Array_problems.MinimumAbsoluteDifference",
