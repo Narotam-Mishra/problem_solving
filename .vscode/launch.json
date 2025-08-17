@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximizeNumberOfPartitionsAfterOperations",
+      "request": "launch",
+      "mainClass": "DynamicProgramming_problems.MaximizeNumberOfPartitionsAfterOperations",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SmallestMissingNonNegativeIntegerAfterOperations",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.SmallestMissingNonNegativeIntegerAfterOperations",
