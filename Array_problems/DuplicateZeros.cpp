@@ -21,7 +21,7 @@ void duplicateZeros(vector<int>& arr) {
     while(i >= 0){
         // step 4 - if write position is within the bound of original array
         if(writePosition < n){
-            // place non-zero element
+            // place non-zero elements
             arr[writePosition] = arr[i];
         }
 
@@ -58,7 +58,7 @@ int main(){
 
     vector<int> arr = {1,2,3};
     duplicateZeros(arr);
-    
+
     printVector(arr);
     return 0;
 }

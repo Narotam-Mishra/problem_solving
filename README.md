@@ -110,6 +110,7 @@
 - [867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/description/?envType=problem-list-v2&envId=array)
 - [1232. Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line/description/?envType=problem-list-v2&envId=array)
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array)
+- [2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/?envType=problem-list-v2&envId=array)
 
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
