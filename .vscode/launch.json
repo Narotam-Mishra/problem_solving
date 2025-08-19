@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MaximumProductOfThreeNumbers",
+      "request": "launch",
+      "mainClass": "Array_problems.MaximumProductOfThreeNumbers",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DeleteGreatestValueInEachRow",
       "request": "launch",
       "mainClass": "Array_problems.DeleteGreatestValueInEachRow",
