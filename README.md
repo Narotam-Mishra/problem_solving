@@ -112,7 +112,7 @@
 - [1200. Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array)
 - [2500. Delete Greatest Value in Each Row](https://leetcode.com/problems/delete-greatest-value-in-each-row/description/?envType=problem-list-v2&envId=array)
 - [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/?envType=problem-list-v2&envId=array)
-
+- [2348. Number of Zero-Filled Subarrays](https://leetcode.com/problems/number-of-zero-filled-subarrays/?envType=daily-question&envId=2025-08-19)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
