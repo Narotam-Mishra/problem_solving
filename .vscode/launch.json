@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CountSubmatricesWithAllOnes",
+      "request": "launch",
+      "mainClass": "DynamicProgramming_problems.CountSubmatricesWithAllOnes",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountSquareSubmatricesWithAllOnes",
       "request": "launch",
       "mainClass": "DynamicProgramming_problems.CountSquareSubmatricesWithAllOnes",
