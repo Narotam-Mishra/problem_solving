@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindMinimumAreaToCoverAllOnesI",
+      "request": "launch",
+      "mainClass": "Array_problems.FindMinimumAreaToCoverAllOnesI",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountSubmatricesWithAllOnes",
       "request": "launch",
       "mainClass": "DynamicProgramming_problems.CountSubmatricesWithAllOnes",
