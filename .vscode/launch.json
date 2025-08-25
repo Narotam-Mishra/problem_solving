@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DiagonalTraverse",
+      "request": "launch",
+      "mainClass": "Array_problems.DiagonalTraverse",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindMinimumAreaToCoverAllOnesII",
       "request": "launch",
       "mainClass": "Array_problems.FindMinimumAreaToCoverAllOnesII",
