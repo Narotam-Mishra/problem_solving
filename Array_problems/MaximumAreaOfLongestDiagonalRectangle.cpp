@@ -6,38 +6,39 @@ using namespace std;
 
 int areaOfMaxDiagonal(vector<vector<int>>& dimensions) {
     // keep track of maximum area
-        int maxArea = 0;
+    int maxArea = 0;
 
-        // keep track of longest digonal
-        long maxDigonalSqr = 0;
+    // keep track of longest digonal
+    long maxDigonalSqr = 0;
 
-        // step 1 - iterate on each reactangle's dimesion
-        for(vector<int> dimesion : dimensions){
-            // step 2 - extract length and breadth from dimension
-            int l = dimesion[0];
-            int b = dimesion[1];
+    // step 1 - iterate on each reactangle's dimesion
+    for (vector<int> dimesion : dimensions) {
+        // step 2 - extract length and breadth from dimension
+        int l = dimesion[0];
+        int b = dimesion[1];
 
-            // step 3 - calculate diagonal
-            long currDiagonalSqr = (long) l * l + (long) b * b;
+        // step 3 - calculate diagonal
+        long currDiagonalSqr = (long)l * l + (long)b * b;
 
-            // step 4 - calculate rectangle's area with current dimesion
-            int area = l * b;
+        // step 4 - calculate rectangle's area with current dimesion
+        int area = l * b;
 
-            // step 5 - compare current diagonal with maximum diagonal found so far
-            if(currDiagonalSqr > maxDigonalSqr){
-                // case 1 - found rectangle with longer diagonal
-                // update maximum area and maximum diagonal in this case
-                maxArea = area;
-                maxDigonalSqr = currDiagonalSqr;
-            }else if(currDiagonalSqr == maxDigonalSqr){
-                // case 2 - found a rectangle with same diagonal length as current maximum
-                // keep the maximum area among all
-                maxArea = max(maxArea, area);
-            }
+        // step 5 - compare current diagonal with maximum diagonal found so far
+        if (currDiagonalSqr > maxDigonalSqr) {
+            // case 1 - found rectangle with longer diagonal
+            // update maximum area and maximum diagonal in this case
+            maxArea = area;
+            maxDigonalSqr = currDiagonalSqr;
         }
+        else if (currDiagonalSqr == maxDigonalSqr) {
+            // case 2 - found a rectangle with same diagonal length as current maximum
+            // keep the maximum area among all
+            maxArea = max(maxArea, area);
+        }
+    }
 
-        // step 6 - return maximum area of longest diagonal
-        return maxArea;
+    // step 6 - return maximum area of longest diagonal
+    return maxArea;
 }
 
 int main(){
