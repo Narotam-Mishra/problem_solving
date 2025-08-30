@@ -120,6 +120,8 @@
 - [3000. Maximum Area of Longest Diagonal Rectangle](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
 - [566. Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/?envType=problem-list-v2&envId=array)
 - [3446. Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/description/?envType=daily-question&envId=2025-08-28)
+- [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/?envType=problem-list-v2&envId=array)
+- [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)[Unsolved]
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
