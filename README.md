@@ -461,6 +461,7 @@
 - [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/description/)[Unsolved]
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)[Unsolved]
+- [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
 
 ## [Intro to Greedy Algorithms](https://chatgpt.com/share/5a0aabde-8a5f-4ded-9e44-e8a13154a2b6)
 
