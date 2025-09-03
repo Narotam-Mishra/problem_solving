@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindNumberOfWaysToPlacePeopleII",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.FindNumberOfWaysToPlacePeopleII",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindNumberOfWaysToPlacePeopleI",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.FindNumberOfWaysToPlacePeopleI",
