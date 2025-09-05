@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumOperationsToMakeTheIntegerZero",
+      "request": "launch",
+      "mainClass": "BitMasking_Problems.MinimumOperationsToMakeTheIntegerZero",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindClosestPerson",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.FindClosestPerson",
