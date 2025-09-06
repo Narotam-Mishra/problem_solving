@@ -575,6 +575,7 @@
 - [3025. Find the Number of Ways to Place People I](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-i/description/?envType=daily-question&envId=2025-09-02)
 - [3027. Find the Number of Ways to Place People II](https://leetcode.com/problems/find-the-number-of-ways-to-place-people-ii/description/)
 - [3516. Find Closest Person](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)
+- [3495. Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero/description/?envType=daily-question&envId=2025-09-06)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
