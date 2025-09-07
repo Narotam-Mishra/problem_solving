@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindNUniqueIntegersSumUpToZero",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.FindNUniqueIntegersSumUpToZero",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumOperationsToMakeArrayElementsZero",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.MinimumOperationsToMakeArrayElementsZero",
