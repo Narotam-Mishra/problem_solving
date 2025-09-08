@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ConvertIntegerToTheSumOfTwoNoZeroIntegers",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.ConvertIntegerToTheSumOfTwoNoZeroIntegers",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindNUniqueIntegersSumUpToZero",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.FindNUniqueIntegersSumUpToZero",
