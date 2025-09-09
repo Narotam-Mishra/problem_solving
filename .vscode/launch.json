@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "NumberOfPeopleAwareOfSecret",
+      "request": "launch",
+      "mainClass": "DynamicProgramming_problems.NumberOfPeopleAwareOfSecret",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ConvertIntegerToTheSumOfTwoNoZeroIntegers",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.ConvertIntegerToTheSumOfTwoNoZeroIntegers",
