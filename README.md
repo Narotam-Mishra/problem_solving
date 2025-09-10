@@ -472,6 +472,7 @@
 - [55. Jump Game](https://leetcode.com/problems/jump-game/description/)
 - [605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/description/?envType=problem-list-v2&envId=array)
 - [3200. Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/description/?envType=problem-list-v2&envId=array)
+- [1733. Minimum Number of People to Teach](https://leetcode.com/problems/minimum-number-of-people-to-teach/description/?envType=daily-question&envId=2025-09-10)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)

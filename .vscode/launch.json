@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumNumberOfPeopleToTeach",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithms_problems.MinimumNumberOfPeopleToTeach",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "NumberOfPeopleAwareOfSecret",
       "request": "launch",
       "mainClass": "DynamicProgramming_problems.NumberOfPeopleAwareOfSecret",
