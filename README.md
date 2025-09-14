@@ -709,6 +709,7 @@
 - [131. Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/description/?envType=problem-list-v2&envId=string)[Backtracking - Solved]
 - [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/description/?envType=daily-question&envId=2025-09-11)
 - [3227. Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/description/?envType=daily-question&envId=2025-09-12)
+- [966. Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/?envType=daily-question&envId=2025-09-14)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
