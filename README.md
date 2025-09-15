@@ -40,6 +40,7 @@
 - [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/?envType=problem-list-v2&envId=array)
 - [1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/description/?envType=problem-list-v2&envId=array)
 - [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)[Unsolved]
+- [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=problem-list-v2&envId=array)
 
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
