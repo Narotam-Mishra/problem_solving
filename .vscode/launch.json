@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DesignFoodRatingSystem",
+      "request": "launch",
+      "mainClass": "Design_problems.DesignFoodRatingSystem",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ReplaceNonCoprimeNumbersInArray",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.ReplaceNonCoprimeNumbersInArray",
