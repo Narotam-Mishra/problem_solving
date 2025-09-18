@@ -716,3 +716,4 @@
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
 - [1656. Design an Ordered Stream](https://leetcode.com/problems/design-an-ordered-stream/description/?envType=problem-list-v2&envId=design)
 - [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17)
+- [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
