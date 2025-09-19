@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DesignSpreadsheet",
+      "request": "launch",
+      "mainClass": "Design_problems.DesignSpreadsheet",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "DesignTaskManager",
       "request": "launch",
       "mainClass": "Design_problems.DesignTaskManager",
