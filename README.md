@@ -718,3 +718,4 @@
 - [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system/description/?envType=daily-question&envId=2025-09-17)
 - [3408. Design Task Manager](https://leetcode.com/problems/design-task-manager/description/?envType=daily-question&envId=2025-09-18)
 - [3484. Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/description/?envType=daily-question&envId=2025-09-19)
+- [3508. Implement Router](https://leetcode.com/problems/implement-router/description/?envType=daily-question&envId=2025-09-20)
