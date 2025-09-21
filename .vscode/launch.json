@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "DesignMovieRentalSystem",
+      "request": "launch",
+      "mainClass": "Design_problems.DesignMovieRentalSystem",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "ImplementRouter",
       "request": "launch",
       "mainClass": "Design_problems.ImplementRouter",
