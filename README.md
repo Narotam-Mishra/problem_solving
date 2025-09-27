@@ -125,6 +125,7 @@
 - [2363. Merge Similar Items](https://leetcode.com/problems/merge-similar-items/description/?envType=problem-list-v2&envId=array)
 - [2570. Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/)
 - [3427. Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/description/?envType=problem-list-v2&envId=array)
+- [3467. Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/description/?envType=problem-list-v2&envId=array)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
