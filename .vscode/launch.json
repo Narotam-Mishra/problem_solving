@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "WaterBottles",
+      "request": "launch",
+      "mainClass": "NumberTheory_Problems.WaterBottles",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindTriangularSumOfArray",
       "request": "launch",
       "mainClass": "Array_problems.FindTriangularSumOfArray",
