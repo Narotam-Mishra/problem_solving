@@ -43,6 +43,7 @@
 - [2460. Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=problem-list-v2&envId=array)
 - [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/?envType=problem-list-v2&envId=array)
 - [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)
+- [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)[Unsolved]
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
@@ -469,6 +470,7 @@
 - [Build Min Heap](https://www.naukri.com/code360/problems/build-min-heap_1171167)[Unsolved]
 - [767. Reorganize String](https://leetcode.com/problems/reorganize-string/description/)[Unsolved]
 - [1792. Maximum Average Pass Ratio](https://leetcode.com/problems/maximum-average-pass-ratio/description/?envType=daily-question&envId=2025-09-01)
+- [407. Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii/description/?envType=daily-question&envId=2025-10-03)[Unsolved]
 
 ## [Intro to Greedy Algorithms](https://chatgpt.com/share/5a0aabde-8a5f-4ded-9e44-e8a13154a2b6)
 
