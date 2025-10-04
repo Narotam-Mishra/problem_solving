@@ -44,6 +44,7 @@
 - [2562. Find the Array Concatenation Value](https://leetcode.com/problems/find-the-array-concatenation-value/?envType=problem-list-v2&envId=array)
 - [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
+- [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=daily-question&envId=2025-10-04)
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)

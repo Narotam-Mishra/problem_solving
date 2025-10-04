@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "ContainerWithMostWater",
+      "request": "launch",
+      "mainClass": "Array_problems.ContainerWithMostWater",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "TrappingRainWater",
       "request": "launch",
       "mainClass": "Array_problems.TrappingRainWater",
