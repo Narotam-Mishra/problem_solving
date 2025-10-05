@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PacificAtlanticWaterFlow",
+      "request": "launch",
+      "mainClass": "Graph_problems.PacificAtlanticWaterFlow",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "TrappingRainWaterII",
       "request": "launch",
       "mainClass": "Heaps_PriorityQueue_problems.TrappingRainWaterII",
