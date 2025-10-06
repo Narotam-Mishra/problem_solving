@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SwimInRisingWater",
+      "request": "launch",
+      "mainClass": "Graph_problems.SwimInRisingWater",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "PacificAtlanticWaterFlow",
       "request": "launch",
       "mainClass": "Graph_problems.PacificAtlanticWaterFlow",
