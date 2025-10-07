@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AvoidFloodInCity",
+      "request": "launch",
+      "mainClass": "Hashing_and_HashMap_problems.AvoidFloodInCity",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "SwimInRisingWater",
       "request": "launch",
       "mainClass": "Graph_problems.SwimInRisingWater",

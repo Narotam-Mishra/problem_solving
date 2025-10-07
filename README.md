@@ -437,6 +437,7 @@
 - [1647. Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/description/)[VVI - Solved]
 - [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+- [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
