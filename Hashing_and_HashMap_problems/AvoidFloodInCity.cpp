@@ -4,7 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-vector<int> avoidFlood(vector<int>& rains) {
+vector<int> avoidFlood1(vector<int>& rains) {
     // get the total number of days
     int n = rains.size();
 
@@ -85,6 +85,56 @@ vector<int> avoidFlood(vector<int>& rains) {
     }
 
     // step 11 - return the final result vector
+    return res;
+}
+
+vector<int> avoidFlood(vector<int>& rains) {
+    int n = rains.size();
+
+    // lake -> first day rain
+    unordered_map<int, int> rainDay;
+
+    // set to store zero days for best lookup
+    set<int> zeroDays;
+
+    // store final result in `res`
+    vector<int> res(n, -1);
+
+    for(int i=0; i<n; i++){
+        int lake = rains[i];
+
+        if(lake == 0){
+            zeroDays.insert(i);
+        }
+        else{
+            res[i] = -1;
+
+            // also check if this lake already has water,
+            // if yes then we will check if we can dry it up
+            if(rainDay.count(lake)){
+                // already has water
+                // so find the first zero day to dry it up
+                auto it = zeroDays.lower_bound(rainDay[lake]);
+
+                // check if no zero day exist
+                if(it == zeroDays.end()){
+                    // then it will cause flood
+                    return {}; 
+                }
+
+                // day on which no rain happened
+                int zerothDay = *it;
+                res[zerothDay] = lake;
+
+                // since this zero day is utlised , so remove it
+                zeroDays.erase(it);
+            }
+
+            // store entry in map - ith day it ran on lake
+            rainDay[lake] = i;
+        }
+    }
+
     return res;
 }
 

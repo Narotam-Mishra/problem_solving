@@ -556,6 +556,7 @@
 - [3314. Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [1763. Longest Nice Substring](https://leetcode.com/problems/longest-nice-substring/description/?envType=problem-list-v2&envId=bit-manipulation&status=TO_DO&difficulty=EASY)
 - [2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/?envType=daily-question&envId=2025-09-05)
+- [3688. Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/description/?envType=problem-list-v2&envId=array)
 
 ## [Number Theory & Maths Problems](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
