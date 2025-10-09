@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07
 
-let avoidFlood = function(rains) {
+let avoidFlood1 = function(rains) {
     // get the total number of days
     const n = rains.length;
     
@@ -86,9 +86,83 @@ let avoidFlood = function(rains) {
     return res;
 };
 
-// const rains = [1,2,3,4];
+let avoidFlood = function(rains) {
+    // get the total number of days
+    const n = rains.length;
+    
+    // map to track which day each lake last received rain
+    // key - lake number & value - day index when it rained
+    const rainyDay = new Map();
+
+    // array to store all days with no rain (rains[i] === 0)
+    const zeroDays = [];
+
+    // store final result in `res` and initialize all values to 1
+    const res = new Array(n).fill(1);
+
+    // helper function to finds the first index in zeroDays where value > targetDay
+    const findNextZeroDay = (targetDay) => {
+        let l = 0, r = zeroDays.length;
+        
+        while(l < r){
+            const mid = Math.floor((l + r) / 2);
+            if(zeroDays[mid] > targetDay){
+                r = mid;
+            }else{
+                l = mid + 1;
+            }
+        }
+        
+        return l < zeroDays.length ? l : -1;
+    }
+
+    // step 1 - process each day
+    for(let i=0; i<n; i++){
+        const lake = rains[i];
+
+        // step 2 - check if it is zero day, store it for later use
+        if(lake === 0){
+            zeroDays.push(i);
+        }
+
+        // step 3 - check if it's rainy day
+        else{
+            // mark -1 in the result `res` for this day
+            res[i] = -1;
+
+            // step 4 - check if this lake has already water from previous rain
+            if(rainyDay.has(lake)){
+                // it means lake is already full
+                // step 5 - find the first zero day that comes after the last rain on this lake
+                const lastRainDay = rainyDay.get(lake);
+                const zeroIdx = findNextZeroDay(lastRainDay);
+
+                // step 5 - if no such zero day exists, we cannot prevent flood
+                if(zeroIdx === -1){
+                    // return empty array if we can't prevent flood
+                    return [];
+                }
+
+                // step 6 - found zeroth day to dry this lake
+                const zerothDay = zeroDays[zeroIdx];
+                res[zerothDay] = lake;
+
+                // step 7 - remove this zero day as it's now been utilized
+                zeroDays.splice(zeroIdx, 1);
+            }
+
+            // step 8 - update map with the current day as the last rain day for this lake
+            rainyDay.set(lake, i);
+        }
+    }
+
+    // step 9 - return final result `res`
+    return res;
+};
+
+const rains = [1,2,3,4];
 
 // const rains = [1,2,0,0,2,1];
 
-const rains = [1,2,0,1,2];
+// const rains = [1,2,0,1,2];
 console.log(avoidFlood(rains));

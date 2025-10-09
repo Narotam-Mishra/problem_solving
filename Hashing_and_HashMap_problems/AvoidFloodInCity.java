@@ -6,7 +6,7 @@ package Hashing_and_HashMap_problems;
 import java.util.*;
 
 public class AvoidFloodInCity {
-    public static int[] avoidFlood(int[] rains) {
+    public static int[] avoidFlood1(int[] rains) {
         // get the total number of days
         int n = rains.length;
 
@@ -81,6 +81,62 @@ public class AvoidFloodInCity {
         }
 
         // step 9 - return the final result array
+        return res;
+    }
+
+    public static int[] avoidFlood(int[] rains) {
+        // get the total number of days
+        int n = rains.length;
+
+        // map to track which day each lake last received rain
+        // key: lake number, value: the day index when it was last filled
+        Map<Integer, Integer> rainyDay = new HashMap<>();
+
+        // TreeSet (ordered set) to store all days with no rain (rains[i] == 0)
+        TreeSet<Integer> zeroDays = new TreeSet<>();
+
+        // store final result in `res` array, initialize all values to 1
+        int[] res = new int[n];
+        Arrays.fill(res, 1);
+
+        // step 1 - process each day
+        for(int i=0; i<n; i++){
+            int lake = rains[i];
+
+            // step 1 - check if it zero day (no rain), store it for later use
+            if(lake == 0){
+                zeroDays.add(i);
+            }
+            // step 2 - check if it's rainy day
+            else{
+                // mark -1 in the result `res` for this day
+                res[i] = -1;
+
+                // step 3 - check if this lake has already water from previous rain
+                if(rainyDay.containsKey(lake)){
+                    // it means lake is already full,
+                    // step 4 - we need to find most recent zero day to dry it up
+                    Integer zerothDay = zeroDays.ceiling(rainyDay.get(lake));
+
+                    // step 5 - if no such zeroth day exist then we can't prevent flood
+                    if(zerothDay == null){
+                        // return empty array
+                        return new int[0];
+                    }
+
+                    // step 6 - found zeroth day to dry this lake
+                    res[zerothDay] = lake;
+
+                    // step 7 - remove this zeroth day as it is utilised now
+                    zeroDays.remove(zerothDay);
+                }
+
+                // step 8 - update the map with the current day as the last rain day for this lake
+                rainyDay.put(lake, i);
+            }
+        }
+
+        // step 9 - return final result `res`
         return res;
     }
 

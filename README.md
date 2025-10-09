@@ -45,6 +45,7 @@
 - [611. Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=daily-question&envId=2025-09-26)
 - [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/)
 - [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?envType=daily-question&envId=2025-10-04)
+- [3494. Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions/description/?envType=daily-question&envId=2025-10-09)
 
 ## [Arrays and Hashing](https://leetcode.com/tag/array/)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
