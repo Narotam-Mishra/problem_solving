@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindResultantArrayAfterRemovingAnagrams",
+      "request": "launch",
+      "mainClass": "string_problems.FindResultantArrayAfterRemovingAnagrams",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumTotalDamageWithSpellCasting",
       "request": "launch",
       "mainClass": "DynamicProgramming_problems.MaximumTotalDamageWithSpellCasting",
