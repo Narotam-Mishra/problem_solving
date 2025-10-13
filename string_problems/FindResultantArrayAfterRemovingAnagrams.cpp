@@ -17,7 +17,7 @@ bool areAnagrams(const string& word1, const string& word2){
     return sortedWord1 == sortedWord2;
 }
 
-vector<string> removeAnagrams(vector<string>& words) {
+vector<string> removeAnagrams1(vector<string>& words) {
     // step 2 - start from index `1` as need to check previous index (i-1) as well
     int i = 1;
 
@@ -46,6 +46,22 @@ vector<string> removeAnagrams(vector<string>& words) {
     return words;
 }
 
+vector<string> removeAnagrams(vector<string>& words) {
+    vector<string> res;
+
+    // step 1 - iterate on each word of `words` list
+    for(const string& word : words){
+        // step 2 - if result is empty or not an anagram of last word, keep it
+        if(res.empty() || !areAnagrams(res.back(), word)){
+            res.push_back(word);
+        }
+        // step 3 - otherwise skip the word (automatically removes consecutive anagrams)
+    }
+
+    // step 4 - return final result `res`
+    return res;
+}
+
 void printVector(vector<string>& vec){
     cout << "[";
     for (size_t i = 0; i < vec.size(); ++i) {
@@ -58,9 +74,9 @@ void printVector(vector<string>& vec){
 }
 
 int main(){
-    // vector<string> words = {"abba","baba","bbaa","cd","cd"};
+    vector<string> words = {"abba","baba","bbaa","cd","cd"};
 
-    vector<string> words = {"a", "b", "c", "d", "e"};
+    // vector<string> words = {"a", "b", "c", "d", "e"};
     vector<string> res = removeAnagrams(words);
     printVector(res);
     return 0;

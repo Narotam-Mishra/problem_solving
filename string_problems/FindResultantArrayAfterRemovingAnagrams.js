@@ -1,7 +1,7 @@
 
 // Problem link - https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/description/?envType=daily-question&envId=2025-10-13
 
-let removeAnagrams = function(words) {
+let removeAnagrams1 = function(words) {
     // step 1 - utility function check if two strings are anagram or not
     const isAnagram = (word1, word2) => {
         if(word1.length !== word2.length) return false;
@@ -40,7 +40,36 @@ let removeAnagrams = function(words) {
     return words;
 };
 
-// const words = ["abba","baba","bbaa","cd","cd"];
+let removeAnagrams = function(words) {
+    // step 1 - utility function check if two strings are anagram or not
+    const areAnagrams = (word1, word2) => {
+        if(word1.length !== word2.length) return false;
 
-const words = ["a","b","c","d","e"];
+        const sortedWord1 = word1.split('').sort().join('');
+        const sortedWord2 = word2.split('').sort().join('');
+
+        return sortedWord1 === sortedWord2;
+    }
+
+    // store final result in `res`
+    const res = [];
+
+    // step 2 - iterate on each word of `words` list
+    for(const word of words){
+        // step 3 - if result is empty or not an anagram of last word, keep it
+        if(res.length === 0 || !areAnagrams(res[res.length - 1], word)){
+            res.push(word);
+        }
+
+        // step 4 - otherwise skip the word (automatically removes
+        // consecutive anagrams)
+    }
+
+    // step 5 - return final result `res`
+    return res;
+};
+
+const words = ["abba","baba","bbaa","cd","cd"];
+
+// const words = ["a","b","c","d","e"];
 console.log(removeAnagrams(words));

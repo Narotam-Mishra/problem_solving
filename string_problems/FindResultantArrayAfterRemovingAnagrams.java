@@ -22,7 +22,7 @@ public class FindResultantArrayAfterRemovingAnagrams {
         return Arrays.equals(strChar1, strChar2);
     }
 
-    public static List<String> removeAnagrams(String[] words) {
+    public static List<String> removeAnagrams1(String[] words) {
         // step 1 - store a copy of words in list of string
         List<String> res = new ArrayList<>(Arrays.asList(words));
 
@@ -55,8 +55,29 @@ public class FindResultantArrayAfterRemovingAnagrams {
         return res;
     }
 
+    public static List<String> removeAnagrams(String[] words) {
+        // store result in `res`
+        List<String> res = new ArrayList<>();
+
+        // step 1 - iterate on each word of `words` list
+        for(String word : words){
+            // step 2 - if result is empty or not an anagram of last word, keep it
+            if(res.isEmpty() || !areAnagrams(res.get(res.size() - 1), word)){
+                res.add(word);
+            }
+
+            // step 3 - otherwise skip the word (automatically removes
+            // consecutive anagrams)
+        }
+
+        // step 4 - return final result `res`
+        return res;
+    }
+
     public static void main(String[] args) {
-        String[] words = {"abba","baba","bbaa","cd","cd"};
+        // String[] words = {"abba","baba","bbaa","cd","cd"};
+
+        String[] words = {"a","b", "c", "d", "e"};
         System.out.println(removeAnagrams(words));
     }
 }
