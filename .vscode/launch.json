@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "AdjacentIncreasingSubarraysDetectionI",
+      "request": "launch",
+      "mainClass": "Array_problems.AdjacentIncreasingSubarraysDetectionI",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindResultantArrayAfterRemovingAnagrams",
       "request": "launch",
       "mainClass": "string_problems.FindResultantArrayAfterRemovingAnagrams",
