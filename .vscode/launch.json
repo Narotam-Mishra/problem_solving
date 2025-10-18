@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindSumOfArrayProductOfMagicalSequences",
+      "request": "launch",
+      "mainClass": "DynamicProgramming_problems.FindSumOfArrayProductOfMagicalSequences",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MaximumNumberOfDistinctElementsAfterOperations",
       "request": "launch",
       "mainClass": "Array_problems.MaximumNumberOfDistinctElementsAfterOperations",
