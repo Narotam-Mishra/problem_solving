@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "LexicographicallySmallestStringAfterApplyingOperations",
+      "request": "launch",
+      "mainClass": "string_problems.LexicographicallySmallestStringAfterApplyingOperations",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "FindSumOfArrayProductOfMagicalSequences",
       "request": "launch",
       "mainClass": "DynamicProgramming_problems.FindSumOfArrayProductOfMagicalSequences",
