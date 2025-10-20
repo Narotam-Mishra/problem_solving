@@ -6,58 +6,94 @@ using namespace std;
 
 const int mod = 1e9 + 7;
 typedef long long ll;
-int N, M, K;
+int N, K;
 
-// using map as cache
-unordered_map<string, int> cache;
+vector<ll> fact;
+vector<ll> invFact;
 
-// recursive helper function to calculate sum of products for all magical sequences
-ll solveRec(int count, ll sum, vector<int>& nums){
-    // step 1 - base case: we've selected M indices
-    if(count == M){
-        // step 1.1 - check if the binary representation of sum has exactly K set bits
-        if(__builtin_popcountll(sum) == K){
-            // valid magical sequence found, contribute 1 to the product chain
-            return 1;
-        }
-        // invalid sequence, contribute 0
-        return 0;
+map<tuple<ll, int, int, int>, ll> cache;
+
+// utility function to compute a^b
+ll fastPower(ll a, ll b){
+    // base case:
+    if(b == 0) return 1;
+
+    // recursively compute power
+    ll halfPower = fastPower(a, b/2);
+
+    // store result in `res`
+    ll res = (halfPower * halfPower) % mod;
+
+    if(b % 2 == 1){
+        res = (res * a) % mod;
     }
+    return res;
+}
 
-    // step 2 - create unique key for memoization based on current state
-    string key = to_string(count) + "-" + to_string(sum);
+// utility function to compute nCr % mod
+ll nCr(int n, int r) {
+    // nCr = n! * invFact(n-r)! * invFact(r)!
+    return (((fact[n] * invFact[r]) % mod) * invFact[n-r]) % mod;
+}
 
-    // step 3 - return cached result if this state was computed before
+// Optimized Approach using Combinatorics
+ll computeRec(ll binarySum, int m, int k, int i, vector<int>& nums){
+    auto key = make_tuple(binarySum, m, k, i);
+
     if(cache.count(key)){
         return cache[key];
     }
 
-    // step 4 - try adding each index from 0 to N-1 to the current sequence
+    // base case:
+    if(m == 0 && __builtin_popcount(binarySum) == k){
+        return 1;
+    }
+
+    if(m == 0 || i>= N){
+        return 0;
+    }
+
     ll totalSum = 0;
-    for(int i=0; i<N; i++){
-        //step 4.1 - add 2^i to the current sum (representing selection of index i)
-        ll newSum = sum + (1LL << i);
-        
-        // step 4.2 - recursively calculate sum for sequences that include index i at this position
-        // multiply by nums[i] as this index contributes nums[i] to the product
-        ll prod = (nums[i] * solveRec(count+1, newSum, nums)) % mod;
-        
-        // step 4.3 - add this contribution to the total sum
+
+    // skip index `i`
+    totalSum = (totalSum + computeRec((binarySum>>1), m, k-(binarySum & 1), i+1, nums)) % mod;
+    
+    // take index `i` frq number of times
+    for(int frq=1; frq<=m; frq++){
+        ll newBinarySum = binarySum + frq;
+
+        ll prod = computeRec((newBinarySum >> 1), m-frq, k - (newBinarySum & 1), i+1, nums) % mod;
+
+        prod = (fastPower(nums[i], frq) % mod * prod % mod) % mod;
+
+        prod = (prod * nCr(m, frq)) % mod;
+
         totalSum = (totalSum + prod) % mod;
     }
 
-    // step 5 - cache the result before returning
     return cache[key] = totalSum;
 }
 
 int magicalSum(int m, int k, vector<int>& nums) {
     // initialization
-    M = m;
     K = k;
     N = nums.size();
 
+    // precompute factorial and inverse factorial
+    fact.assign(m+1, 1);
+    invFact.assign(m+1, 1);
+
+    for(int i=2; i<=m; i++){
+        fact[i] = (fact[i-1] * i) % mod;
+    }
+
+    // using Fermat's Little Thorem for inverse factorial
+    for(int i=0; i<=m; i++){
+        invFact[i] = fastPower(fact[i], mod-2);
+    }
+
     // solve the problem recursively by using memoization
-    return (int)(solveRec(0, 0, nums) % mod);
+    return (int)(computeRec(0, m, k, 0, nums)) % mod;
 }
 
 int main(){

@@ -1,6 +1,8 @@
 
 // Problem link - https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences/description/
 
+// Brute Force Approach
+
 const MOD = 1000000007;
 
 /**
@@ -24,7 +26,7 @@ function countSetBits(n) {
  * @param {number[]} nums - Input array
  * @return {number} - Sum of products modulo 10^9 + 7
  */
-let magicalSum = function(m, k, nums) {
+let magicalSum1 = function(m, k, nums) {
     const N = nums.length;
     const M = m;
     const K = k;
@@ -80,6 +82,93 @@ let magicalSum = function(m, k, nums) {
     
     return solveRec(0, 0) % MOD;
 }
+
+const mod = 1000000007n; // make mod a BigInt
+
+let magicalSum = function (m, k, nums) {
+  const N = nums.length;
+  const fact = new Array(m + 1).fill(1n);
+  const invFact = new Array(m + 1).fill(1n);
+  const cache = new Map();
+
+  // Utility: fast exponentiation (a^b % mod)
+  const fastPower = (a, b) => {
+    a = BigInt(a);
+    b = BigInt(b);
+    let res = 1n;
+    while (b > 0n) {
+      if (b & 1n) res = (res * a) % mod;
+      a = (a * a) % mod;
+      b >>= 1n;
+    }
+    return res;
+  };
+
+  // Precompute factorials and inverse factorials
+  for (let i = 2; i <= m; i++) {
+    fact[i] = (fact[i - 1] * BigInt(i)) % mod;
+  }
+
+  for (let i = 0; i <= m; i++) {
+    invFact[i] = fastPower(fact[i], mod - 2n);
+  }
+
+  // Utility: nCr % mod
+  const nCr = (n, r) => {
+    if (r > n || r < 0) return 0n;
+    return (((fact[n] * invFact[r]) % mod) * invFact[n - r]) % mod;
+  };
+
+  // Helper: count set bits
+  const popcount = (x) => {
+    let count = 0;
+    while (x > 0) {
+      if (x & 1) count++;
+      x >>= 1;
+    }
+    return count;
+  };
+
+  // Recursive function with memoization
+  const computeRec = (binarySum, m, k, i) => {
+    const key = `${binarySum},${m},${k},${i}`;
+    if (cache.has(key)) return cache.get(key);
+
+    if (m === 0 && popcount(binarySum) === k) return 1n;
+    if (m === 0 || i >= N) return 0n;
+
+    let totalSum = 0n;
+
+    // Skip index i
+    totalSum =
+      (totalSum +
+        computeRec(binarySum >> 1, m, k - (binarySum & 1), i + 1)) %
+      mod;
+
+    // Take index i with different frequencies
+    for (let frq = 1; frq <= m; frq++) {
+      const newBinarySum = binarySum + frq;
+
+      let prod = computeRec(
+        newBinarySum >> 1,
+        m - frq,
+        k - (newBinarySum & 1),
+        i + 1
+      );
+
+      prod = (fastPower(BigInt(nums[i]), BigInt(frq)) * prod) % mod;
+      prod = (prod * nCr(m, frq)) % mod;
+
+      totalSum = (totalSum + prod) % mod;
+    }
+
+    cache.set(key, totalSum);
+    return totalSum;
+  };
+
+  return Number(computeRec(0, m, k, 0) % mod);
+};
+
 
 // const m = 5, k = 5, nums = [1,10,100,10000,1000000];
 

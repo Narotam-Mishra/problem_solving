@@ -52,6 +52,7 @@ public class FindSumOfArrayProductOfMagicalSequences {
         cache.put(key, totalSum);
         return totalSum;
     }
+
     public static int magicalSum(int m, int k, int[] nums) {
         M = m;
         K = k;
