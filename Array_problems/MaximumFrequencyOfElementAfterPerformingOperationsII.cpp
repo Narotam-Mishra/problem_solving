@@ -33,7 +33,7 @@ int maxFrequency(vector<int>& nums, int k, int numOperations) {
 
     // step 3 - try each possible target value 
     int res = 0, cumSum = 0;
-    for(auto it=diff.begin(); it != diff.end(); it++){
+    for(auto it = diff.begin(); it != diff.end(); it++){
         int target = it->first;
         it->second += cumSum;
 
@@ -51,7 +51,7 @@ int maxFrequency(vector<int>& nums, int k, int numOperations) {
         // total frequency = elements already at target + modified elements
         res = max(res, targetFreq + maxFreq);
 
-        cumSum += it->second;
+        cumSum = it->second;
     }
 
     // step 4 - return final result `res`
