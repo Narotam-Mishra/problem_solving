@@ -15,7 +15,7 @@
 - [1863. Sum of All Subset XOR Totals](https://leetcode.com/problems/sum-of-all-subset-xor-totals/description/)
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
-
+- [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2025-10-25)
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)

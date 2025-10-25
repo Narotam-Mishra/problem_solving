@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "CalculateMoneyInLeetcodeBank",
+      "request": "launch",
+      "mainClass": "Basic_problems.CalculateMoneyInLeetcodeBank",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "NextGreaterNumericallyBalancedNumber",
       "request": "launch",
       "mainClass": "NumberTheory_Problems.NextGreaterNumericallyBalancedNumber",
