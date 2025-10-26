@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "SimpleBankSystem",
+      "request": "launch",
+      "mainClass": "Design_problems.SimpleBankSystem",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CalculateMoneyInLeetcodeBank",
       "request": "launch",
       "mainClass": "Basic_problems.CalculateMoneyInLeetcodeBank",
