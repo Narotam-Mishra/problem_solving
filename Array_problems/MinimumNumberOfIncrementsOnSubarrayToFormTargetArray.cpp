@@ -5,11 +5,36 @@
 using namespace std;
 
 int minNumberOperations(vector<int>& target) {
-    
+    // get size of input array `nums`
+    int n = target.size();
+
+    // store final result in `res`
+    int res = 0;
+
+    // step 1 - iterate on `target` perform given operations
+    int curr = 0, prev = 0;
+    for(int i=0; i<n; i++){
+        curr = target[i];
+
+        // step 2 - check if absolute value of current is greater than previous value
+        if(abs(curr) > abs(prev)){
+            res += abs(curr - prev);
+        }
+
+        // step 3 - update previous, `prev`
+        prev = curr;
+    }
+
+    // step 4 - return final result `res`
+    return res;
 }
 
 int main(){
-    vector<int> target = {1,2,3,2,1};
+    // vector<int> target = {1,2,3,2,1};
+
+    // vector<int> target = {3,1,1,2};
+
+    vector<int> target = {3,1,5,4,2};
     cout<<minNumberOperations(target);
     return 0;
 }
