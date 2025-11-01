@@ -272,6 +272,7 @@
 - [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [Unsolved]
 - [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/) [Unsolved]
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) [VVI - Solved]
+- [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2025-11-01)
 
 ## [Intro to Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
