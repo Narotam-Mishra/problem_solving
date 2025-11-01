@@ -11,12 +11,6 @@ long long minimumOperations(vector<int>& nums, vector<int>& target) {
     // store final result in `res`
     long long res = 0;
 
-    // step 1 - find difference between target and nums array
-    // vector<int> diff(n);
-    // for(int i=0; i<n; i++){
-    //     diff[i] = target[i] - nums[i];
-    // }
-
     // step 2 - iterate on nums perform given operations
     int curr = 0, prev = 0;
     for(int i=0; i<n; i++){

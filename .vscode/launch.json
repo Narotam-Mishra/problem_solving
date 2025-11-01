@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumOperationsToMakeArrayEqualToTarget",
+      "request": "launch",
+      "mainClass": "Array_problems.MinimumOperationsToMakeArrayEqualToTarget",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumNumberOfIncrementsOnSubarrayToFormTargetArray",
       "request": "launch",
       "mainClass": "Array_problems.MinimumNumberOfIncrementsOnSubarrayToFormTargetArray",
