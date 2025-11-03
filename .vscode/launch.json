@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "MinimumTimeToMakeRopeColorful",
+      "request": "launch",
+      "mainClass": "GreedyAlgorithms_problems.MinimumTimeToMakeRopeColorful",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "CountUnguardedCellsInGrid",
       "request": "launch",
       "mainClass": "Array_problems.CountUnguardedCellsInGrid",
