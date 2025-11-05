@@ -2,6 +2,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "FindXSumOfAllKLongSubarraysI",
+      "request": "launch",
+      "mainClass": "sliding_window_problems.FindXSumOfAllKLongSubarraysI",
+      "projectName": "Problem_Solving_23a368ab"
+    },
+    {
+      "type": "java",
       "name": "MinimumTimeToMakeRopeColorful",
       "request": "launch",
       "mainClass": "GreedyAlgorithms_problems.MinimumTimeToMakeRopeColorful",
