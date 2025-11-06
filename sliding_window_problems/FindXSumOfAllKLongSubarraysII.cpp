@@ -5,10 +5,11 @@
 using namespace std;
 
 vector<long long> findXSum(vector<int>& nums, int k, int x) {
-        
+    vector<long long> res;
+    return res;
 }
 
-void printVector(vector<int>& vec){
+void printVector(vector<long long>& vec){
     cout << "[";
     for (size_t i = 0; i < vec.size(); ++i) {
         cout<<vec[i];
@@ -25,7 +26,7 @@ int main(){
 
     vector<int> nums = {3,8,7,8,7,5};
     int k = 2, x = 2;
-    vector<int> res = findXSum(nums, k, x);
+    vector<long long> res = findXSum(nums, k, x);
     printVector(res);
     return 0;
 }

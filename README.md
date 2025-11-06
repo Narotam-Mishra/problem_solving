@@ -329,7 +329,7 @@
 - [2760. Longest Even Odd Subarray With Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/?envType=problem-list-v2&envId=sliding-window)
 - [1493. Longest Subarray of 1's After Deleting One Element](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
 - [3318. Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/description/?envType=daily-question&envId=2025-11-04)
-- [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)
+- [3321. Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/description/?envType=daily-question&envId=2025-11-05)[Unsolved]
 
 ## [Intro to Tree Data Structure](https://www.geeksforgeeks.org/introduction-to-tree-data-structure-and-algorithm-tutorials/)
 
@@ -528,6 +528,7 @@
 - [1162. As Far from Land as Possible](https://leetcode.com/problems/as-far-from-land-as-possible/description/)[Unsolved]
 - [417. Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/description/?envType=daily-question&envId=2025-10-05)
 - [778. Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/description/?envType=daily-question&envId=2025-10-06)
+- [3607. Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance/description/?envType=daily-question&envId=2025-11-06)
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
