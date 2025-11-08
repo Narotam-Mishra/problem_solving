@@ -6,3 +6,22 @@ include/
 /out
 
 *.class
+
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+
+# Build directories
+build/
+bin/
+debug/
+release/
+
+
+# macOS specific
+.DS_Store
