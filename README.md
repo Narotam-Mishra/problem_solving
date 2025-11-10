@@ -301,6 +301,7 @@
 - [1544. Make The String Great](https://leetcode.com/problems/make-the-string-great/description/?envType=problem-list-v2&envId=string)[VVI]
 - [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)[Unsolved]
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=array)
+- [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
