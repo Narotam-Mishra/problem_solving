@@ -393,6 +393,7 @@
 - [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)[Unsolved]
 - [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)[Unsolved]
 
+
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
 ## [Hashing and HashMap Problems](https://leetcode.com/tag/hash-table/)
@@ -463,6 +464,7 @@
 - [2404. Most Frequent Even Element](https://leetcode.com/problems/most-frequent-even-element/description/)
 - [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
 - [1488. Avoid Flood in The City](https://leetcode.com/problems/avoid-flood-in-the-city/description/?envType=daily-question&envId=2025-10-07)
+- [2154. Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two/?envType=daily-question&envId=2025-11-19)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
