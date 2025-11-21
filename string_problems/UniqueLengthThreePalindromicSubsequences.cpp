@@ -4,7 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int countPalindromicSubsequence(string s) {
+int countPalindromicSubsequence1(string s) {
     int n = s.length();
 
     // step 1 - find all unique characters in input s
@@ -43,12 +43,55 @@ int countPalindromicSubsequence(string s) {
     return res;
 }
 
+int countPalindromicSubsequence(string s) {
+    int n = s.length();
+
+    // step 1 - precompute first and last occurence of each character in s
+    vector<pair<int, int>> indices(26, {-1, -1});
+
+    for(int i=0; i<n; i++){
+        char ch = s[i];
+        int idx = ch - 'a';
+
+        if(indices[idx].first == -1){
+            indices[idx].first = i;
+        }
+        indices[idx].second = i;
+    }
+
+    // store final result in res
+    int res = 0;
+
+    // step 2 - find first and last occurence for each character
+    // using precomputed vector of pairs
+    for(int i=0; i<26; i++){
+        int leftIdx = indices[i].first;
+        int rightIdx = indices[i].second;
+
+        if(leftIdx == -1){
+            continue;
+        }
+
+        // step 3 - count how many unique characters exist in mid 
+        // of first and last occurences 
+        unordered_set<char> set;
+        for(int mid = leftIdx+1; mid<=rightIdx-1; mid++){
+            set.insert(s[mid]);
+        }
+        // calculate result, res
+        res += set.size();
+    }
+
+    // step 4 - return final result, res
+    return res;
+}
+
 int main(){
-    // string s = "aabca";
+    string s = "aabca";
 
     // string s = "adc";
 
-    string s = "bbcbaba";
+    // string s = "bbcbaba";
     cout<<countPalindromicSubsequence(s);
     return 0;
 }
