@@ -255,6 +255,7 @@
 - [3003. Maximize the Number of Partitions After Operations](https://leetcode.com/problems/maximize-the-number-of-partitions-after-operations/?envType=daily-question&envId=2025-10-17)
 - [474. Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/description/?envType=daily-question&envId=2025-11-11)
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=dynamic-programming)[Unsolved] 
+- [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/?envType=problem-list-v2&envId=dynamic-programming)[Unsolved]
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
