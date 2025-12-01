@@ -186,6 +186,7 @@
 - [1539. Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search) 
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/) [Unsolved]
 - [Additional Binary Search's Problems](https://hack.codingblocks.com/app/contests/4464) [Unsolved]
+- [2141. Maximum Running Time of N Computers](https://leetcode.com/problems/maximum-running-time-of-n-computers/description/?envType=daily-question&envId=2025-12-01)
 
 ## [Intro to Recursion](https://chatgpt.com/share/94fb6625-6f75-4627-aa86-f0f021ec3cf8)
 
