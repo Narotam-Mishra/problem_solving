@@ -310,6 +310,7 @@
 - [1081. Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/description/)[Unsolved]
 - [682. Baseball Game](https://leetcode.com/problems/baseball-game/description/?envType=problem-list-v2&envId=array)
 - [3542. Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero/description/?envType=daily-question&envId=2025-11-10)
+- [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/?envType=daily-question&envId=2025-12-04)
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
