@@ -530,6 +530,7 @@
 - [757. Set Intersection Size At Least Two](https://leetcode.com/problems/set-intersection-size-at-least-two/description/?envType=daily-question&envId=2025-11-20)
 - [1262. Greatest Sum Divisible by Three](https://leetcode.com/problems/greatest-sum-divisible-by-three/description/?envType=daily-question&envId=2025-11-23)
 - [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/?envType=daily-question&envId=2025-12-21)
+- [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/?envType=daily-question&envId=2025-12-24)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
