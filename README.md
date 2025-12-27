@@ -149,6 +149,7 @@
 - [3381. Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/description/?envType=daily-question&envId=2025-11-27)
 - [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05)
 - [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12)
+- [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2025-12-27)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
