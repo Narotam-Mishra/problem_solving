@@ -150,6 +150,7 @@
 - [3432. Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/description/?envType=daily-question&envId=2025-12-05)
 - [3433. Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/description/?envType=daily-question&envId=2025-12-12)
 - [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii/description/?envType=daily-question&envId=2025-12-27)
+- [1351. Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/description/?envType=daily-question&envId=2025-12-28)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
