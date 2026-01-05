@@ -539,6 +539,7 @@
 - [955. Delete Columns to Make Sorted II](https://leetcode.com/problems/delete-columns-to-make-sorted-ii/description/?envType=daily-question&envId=2025-12-21)
 - [3074. Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes/description/?envType=daily-question&envId=2025-12-24)
 - [3075. Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/?envType=daily-question&envId=2025-12-25)
+- [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
