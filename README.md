@@ -580,6 +580,7 @@
 - [2092. Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/description/?envType=daily-question&envId=2025-12-19)
 - [3650. Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/description/?envType=daily-question&envId=2026-01-27)
 - [2976. Minimum Cost to Convert String I](https://leetcode.com/problems/minimum-cost-to-convert-string-i/description/?envType=daily-question&envId=2026-01-29)
+- [2977. Minimum Cost to Convert String II](https://leetcode.com/problems/minimum-cost-to-convert-string-ii/description/?envType=daily-question&envId=2026-01-30)[DP on Graph]
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
