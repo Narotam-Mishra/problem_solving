@@ -158,6 +158,7 @@
 - [744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/?envType=daily-question&envId=2026-01-31)
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01)
 - [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03)
+- [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/?envType=daily-question&envId=2026-02-05)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
