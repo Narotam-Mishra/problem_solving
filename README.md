@@ -337,6 +337,7 @@
 - [2211. Count Collisions on a Road](https://leetcode.com/problems/count-collisions-on-a-road/description/?envType=daily-question&envId=2025-12-04)
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=dynamic-programming)
+- [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2026-02-07)
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
