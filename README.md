@@ -426,6 +426,7 @@
 - [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/)[Solved]
 - [1038. Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)[Solved]
 - [538. Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/description/)[Solved]
+- [1382. Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/description/?envType=daily-question&envId=2026-02-09)
 - [1307 · Verify Preorder Sequence in Binary Search Tree](https://www.naukri.com/code360/problems/verify-preorder-sequence-in-binary-search-tree_1281309)[Unsolved]
 - [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/description/)[Unsolved]
 - [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)[Unsolved]

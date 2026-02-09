@@ -60,16 +60,48 @@ public:
     }
 
     // is BT height balanced
-    bool isBalanced(TreeNode* root) {
+    bool isBalanced1(TreeNode* root) {
         ans = true;
         findMaxDepthOfBT(root);
         return ans;
+    }
+
+    int findHeight(TreeNode* root){
+        // base case
+        if(root == nullptr) return 0;
+
+        // recursive case: recursively find height of left and right subtree
+        int lsHeight = findHeight(root->left);
+        int rsHeight = findHeight(root->right);
+
+        // return height of BT
+        return 1 + max(lsHeight, rsHeight);
+    }
+
+    bool isBalanced(TreeNode* root) {
+        // step 1 - base case
+        if(!root) return true;
+
+        // step 2 - find left and right subtree height
+        int lsh = findHeight(root->left);
+        int rsh = findHeight(root->right);
+
+        // step 3 - check if height difference of left and right subtree
+        // return false if height difference is greater than 1
+        if(abs(lsh - rsh) > 1) return false;
+
+        // step 4 - check for height balanced tree and return
+        return isBalanced(root->left) && isBalanced(root->right);
     }
 };
 
 int main(){
     BinaryTree bt;
-    vector<int> arr = {1, 2, 3, 4, 5, 6, 7};
+    // vector<int> arr = {1, 2, 3, 4, 5, 6, 7};
+
+    // vector<int> arr = {3,9,20,-1,-1,15,7};
+
+    vector<int> arr = {1,2,2,3,3,-1,-1,4,4};
     bt.initializeTree(arr);
     if(bt.isBalanced(bt.root)){
         cout <<"Is Binary Tree Height Balanced:"<<"true"<<endl;
