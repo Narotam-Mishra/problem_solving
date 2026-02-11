@@ -433,6 +433,12 @@
 - [669. Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/description/)[Unsolved]
 - [1569. Number of Ways to Reorder Array to Get Same BST](https://leetcode.com/problems/number-of-ways-to-reorder-array-to-get-same-bst/description/)[Unsolved]
 
+## [Intro to Segment Tree](https://chatgpt.com/share/698c3736-045c-8004-8396-c00a15339da3)
+
+## [Segment Tree Problems](https://leetcode.com/problem-list/segment-tree/)
+- [Implement Segment Tree]()
+- [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)[Unsolved]
+
 
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
 
