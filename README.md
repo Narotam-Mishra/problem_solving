@@ -282,6 +282,7 @@
 - [712. Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/description/?envType=daily-question&envId=2026-01-10)
 - [3651. Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations/description/?envType=daily-question&envId=2026-01-28)[Layered DP]
 - [3640. Trionic Array II](https://leetcode.com/problems/trionic-array-ii/description/?envType=daily-question&envId=2026-02-04)
+- [799. Champagne Tower](https://leetcode.com/problems/champagne-tower/description/?envType=daily-question&envId=2026-02-14)
 - [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)[Unsolved] 
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/?envType=problem-list-v2&envId=dynamic-programming)[Unsolved]
 
