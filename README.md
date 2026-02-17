@@ -230,6 +230,7 @@
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
 - [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/?envType=daily-question&envId=2025-12-29)
 
+
 ## [Intro to Dynamic Programming](https://chatgpt.com/share/c060c58c-2e0a-4832-be6f-8e3944995c8c)
 
 ## [Dynamic Programming Problems](https://leetcode.com/tag/dynamic-programming/)
@@ -649,6 +650,7 @@
 - [3688. Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array/description/?envType=problem-list-v2&envId=array)
 - [3370. Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/description/?envType=daily-question&envId=2025-10-29)
 - [1611. Minimum One Bit Operations to Make Integers Zero](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/description/?envType=daily-question&envId=2025-11-08)
+- [401. Binary Watch](https://leetcode.com/problems/binary-watch/description/?envType=daily-question&envId=2026-02-17)
 
 ## [Number Theory & Maths Problems](https://leetcode.com/problem-list/number-theory/)
 - [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1)
