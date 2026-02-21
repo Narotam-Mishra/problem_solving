@@ -223,7 +223,7 @@
 - [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/description/)
 - [516. Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/description/) [VVI]
 - [188. Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
-- [761. Special Binary String](https://leetcode.com/problems/special-binary-string/description/?envType=daily-question&envId=2026-02-20)[Unsolved]
+- [761. Special Binary String](https://leetcode.com/problems/special-binary-string/description/?envType=daily-question&envId=2026-02-20)
 
 ## [Intro to Backtracking](https://claude.ai/share/e019e497-0851-4afe-8a13-a92aab790391)
 
