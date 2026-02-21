@@ -16,7 +16,7 @@ let isPrime = function(n){
     return true;
 }
 
-let countPrimeSetBits = function(left, right) {
+let countPrimeSetBits1 = function(left, right) {
     // initialize counter for numbers with prime set bits
     let cntPrimeSetBits = 0
     
@@ -42,7 +42,38 @@ let countPrimeSetBits = function(left, right) {
     return cntPrimeSetBits;
 };
 
-// let left = 10, right = 15;
+let countPrimeSetBits = function(left, right) {
+    // initialize counter for numbers with prime set bits
+    let cntPrimeSetBits = 0
 
-let left = 6, right = 10;
+    // store prime numbers in set (for fast lookup)
+    const primes = new Set([2, 3, 5, 7, 11, 13, 17, 19]);
+    
+    // step 1 - iterate through all numbers in the range [left, right]
+    for(let i=left; i<=right; i++){
+        let num = i, setBits = 0;
+        
+        // step 2 - count the number of set bits (1s) in the binary representation of num
+        while(num > 0){
+            // increment setBits if the least significant bit is 1
+            setBits += num & 1;
+            // right shift num to check the next bit
+            num = num >> 1;
+        }
+
+        // step 3 - check if the number of set bits is prime
+        if(primes.has(setBits)){
+            // increment counter if setBits is prime
+            cntPrimeSetBits++;
+        }
+    }
+
+    // step 4 - return the total count of numbers with prime set bits
+    return cntPrimeSetBits;
+};
+
+
+let left = 10, right = 15;
+
+// let left = 6, right = 10;
 console.log(countPrimeSetBits(left, right));

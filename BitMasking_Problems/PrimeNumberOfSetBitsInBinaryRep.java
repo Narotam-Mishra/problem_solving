@@ -3,6 +3,8 @@
 
 package BitMasking_Problems;
 
+import java.util.*;
+
 public class PrimeNumberOfSetBitsInBinaryRep {
 
     private static boolean isPrime(int n){
@@ -19,7 +21,7 @@ public class PrimeNumberOfSetBitsInBinaryRep {
         return true;
     }
 
-    public static int countPrimeSetBits(int left, int right) {
+    public static int countPrimeSetBits1(int left, int right) {
         // initialize counter for numbers with prime set bits
         int cntPrimeSetBits = 0;
 
@@ -46,10 +48,40 @@ public class PrimeNumberOfSetBitsInBinaryRep {
         return cntPrimeSetBits;
     }
 
-    public static void main(String[] args) {
-        // int left = 6, right = 10;
+    public static int countPrimeSetBits(int left, int right) {
+        // counter for numbers with prime set bits
+        int cntPrimeSetBits = 0;
 
-        int left = 10, right = 15;
+        // store prime numbers in set (for fast lookup)
+        Set<Integer> primes = new HashSet<>(Arrays.asList(2, 3, 5, 7, 11, 13, 17, 19));
+
+        // step 1 - iterate through all numbers in the range [left, right]
+        for(int i=left; i<=right; i++){
+            int num = i, setBits = 0;
+
+            // step 2 - count the number of set bits (1s) in the binary representation of num
+            while(num > 0){
+                // increment setBits if the least significant bit is 1
+                setBits += num & 1;
+                // right shift num to check the next bit
+                num >>= 1;
+            }
+
+            // step 3 - check if the number of set bits is prime
+            if(primes.contains(setBits)){
+                // increment counter if setBits is prime
+                cntPrimeSetBits++;
+            }
+        }
+
+        // step 4 - return the total count of numbers with prime set bits
+        return cntPrimeSetBits;
+    }
+
+    public static void main(String[] args) {
+        int left = 6, right = 10;
+
+        // int left = 10, right = 15;
         System.out.println(countPrimeSetBits(left, right));
     }
 }
