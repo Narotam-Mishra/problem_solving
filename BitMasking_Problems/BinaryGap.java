@@ -4,7 +4,7 @@
 package BitMasking_Problems;
 
 public class BinaryGap {
-    public static int binaryGap(int n) {
+    public static int binaryGap1(int n) {
         int maxDistance = 0;
         int currPos = 0;
         int lastPos = -1;
@@ -28,12 +28,35 @@ public class BinaryGap {
         return maxDistance;
     }
 
+    public static int binaryGap(int n) {
+        // keep track of last 1's position
+        int prevPos = -1;
+
+        // keep track of maximum distance in `res`
+        int res = 0;
+
+        // step 1 - iterate of 32-bits
+        for (int cp = 0; cp < 32; cp++) {
+            // step 2 - check if current bit is 1 or not (set bit)
+            if (((n >> cp) & 1) > 0) {
+                // step 3 - update longest distance
+                res = (prevPos != -1) ? Math.max(res, cp - prevPos) : res;
+
+                // update previous 1's position
+                prevPos = cp;
+            }
+        }
+
+        // step  4 - return longest distance
+        return res;
+    }
+
     public static void main(String[] args) {
-        // int num = 22;
+        int num = 22;
 
         // int num = 8;
 
-        int num = 5;
+        // int num = 5;
         System.out.println(binaryGap(num));
     }
 }
