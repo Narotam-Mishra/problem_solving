@@ -23,17 +23,23 @@ public class NumberOfStepsToReduceNumber {
     public static int numSteps(String s) {
         int steps = 0;
 
+        // step 1 - iterate on each binary number
         while(s.length() > 1){
             int n = s.length();
+
+            // step 2 - for even number remove LSB
             if(s.charAt(n-1) == '0'){
                 s = s.substring(0, n-1);
             }
+            // step 3 - for odd number add 1 to i
             else{
                 s = addOne(s);
             }
+            // step 4 - increment step for each operation
             steps++;
         }
 
+        // step 5 - return number of steps
         return steps;
     }
 
