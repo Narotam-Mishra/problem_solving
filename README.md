@@ -160,7 +160,8 @@
 - [3010. Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01)
 - [3637. Trionic Array I](https://leetcode.com/problems/trionic-array-i/description/?envType=daily-question&envId=2026-02-03)
 - [3379. Transformed Array](https://leetcode.com/problems/transformed-array/description/?envType=daily-question&envId=2026-02-05)
-- [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02)[Unsolved]
+- [1536. Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid/description/?envType=daily-question&envId=2026-03-02)
+- [1582. Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix/description/?envType=daily-question&envId=2026-03-04)
 - [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/description/?envType=problem-list-v2&envId=sorting)[Unsolved]
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
