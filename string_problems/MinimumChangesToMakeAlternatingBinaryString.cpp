@@ -4,7 +4,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int minOperations(string s) {
+int minOperations1(string s) {
     // step 1 - initialize counts for two patterns, '010101..' & '10101010..'
     int countAPattern = 0;
     int countBPattern = 0;
@@ -30,12 +30,47 @@ int minOperations(string s) {
     return min(countAPattern, countBPattern);
 }
 
+int minOperations(string s) {
+    // find size of input string `s`
+    int n = s.length();
+
+    // keep track of operations needed for two patterns
+    int startWithZero = 0; // 01010101...
+    int startWithOne = 0;  // 10101010...
+
+    // step 1 - iterate on each character of binary string
+    for(int i=0; i<n; i++){
+        // step 2 - find expected character for both patterns
+        if(i % 2 == 0){
+            // step 3 - count mismatch for 1st pattern
+            if(s[i] == '0'){
+                startWithOne++;
+            }else{
+                startWithZero++;
+            }
+        }
+
+        // step 4 - count mismatch for 2nd pattern
+        else{
+            if(s[i] == '1'){
+                startWithOne++;
+            }else{
+                startWithZero++;
+            }
+        }
+    }
+
+    // step 5 - return minimum number of operations 
+    // needed to make s alternating
+    return min(startWithOne, startWithZero);
+}
+
 int main(){
-    // string s = "0100";
+    string s = "0100";
 
     // string s = "1111";
 
-    string s = "10";
+    // string s = "10";
     cout<<minOperations(s)<<endl;
     return 0;
 }
