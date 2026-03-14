@@ -234,6 +234,7 @@
 - [46. Permutations](https://leetcode.com/problems/permutations/description/?envType=problem-list-v2&envId=array)
 - [37. Sudoku Solver](https://leetcode.com/problems/sudoku-solver/?envType=daily-question&envId=2025-08-31)
 - [756. Pyramid Transition Matrix](https://leetcode.com/problems/pyramid-transition-matrix/description/?envType=daily-question&envId=2025-12-29)
+- [1415. The k-th Lexicographical String of All Happy Strings of Length n](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2026-03-14)
 
 
 ## [Intro to Dynamic Programming](https://chatgpt.com/share/c060c58c-2e0a-4832-be6f-8e3944995c8c)
