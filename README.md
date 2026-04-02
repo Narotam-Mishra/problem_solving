@@ -294,6 +294,7 @@
 - [3130. Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/description/?envType=daily-question&envId=2026-03-10)
 - [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)[Unsolved] 
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/?envType=problem-list-v2&envId=dynamic-programming)[Unsolved]
+- [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/?envType=daily-question&envId=2026-04-02)
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
@@ -349,6 +350,7 @@
 - [901. Online Stock Span](https://leetcode.com/problems/online-stock-span/description/)
 - [85. Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/description/?envType=problem-list-v2&envId=dynamic-programming)
 - [1653. Minimum Deletions to Make String Balanced](https://leetcode.com/problems/minimum-deletions-to-make-string-balanced/description/?envType=daily-question&envId=2026-02-07)
+- [2751. Robot Collisions](https://leetcode.com/problems/robot-collisions/description/)[Unsolved]
 
 ## [Intro to Queue](https://www.geeksforgeeks.org/queue-data-structure/) 
 
