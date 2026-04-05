@@ -295,6 +295,7 @@
 - [1931. Painting a Grid With Three Different Colors](https://leetcode.com/problems/painting-a-grid-with-three-different-colors/description/)[Unsolved] 
 - [221. Maximal Square](https://leetcode.com/problems/maximal-square/description/?envType=problem-list-v2&envId=dynamic-programming)[Unsolved]
 - [3418. Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/description/?envType=daily-question&envId=2026-04-02)
+- [3661. Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots/description/?envType=daily-question&envId=2026-04-03)[Unsolved]
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
@@ -869,6 +870,7 @@
 - [3713. Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i/description/?envType=daily-question&envId=2026-02-12)
 - [1461. Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/description/?envType=daily-question&envId=2026-02-23)
 - [1980. Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2026-03-08)
+- [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/?envType=daily-question&envId=2026-04-04)[Unsolved]
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
