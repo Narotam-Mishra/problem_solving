@@ -16,6 +16,7 @@
 - [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
 - [1716. Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank/description/?envType=daily-question&envId=2025-10-25)
+- [3783. Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/description/?envType=daily-question&envId=2026-04-18)
 
 ## [Arrays and Two Pointers](https://leetcode.com/tag/two-pointers/)
 - [Two Sum](https://leetcode.com/problems/two-sum/)
