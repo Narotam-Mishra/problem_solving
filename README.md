@@ -634,6 +634,7 @@
 - [1722. Minimize Hamming Distance After Swap Operations](https://leetcode.com/problems/minimize-hamming-distance-after-swap-operations/description/?envType=daily-question&envId=2026-04-21)[Unsolved]
 - [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)
 - [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)[Unsolved]
+- [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)[Unsolved]
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)

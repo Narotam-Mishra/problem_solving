@@ -1,3 +1,6 @@
+
+// Problem link - https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02
+
 package NumberTheory_Problems;
 
 public class RotatedDigits {
