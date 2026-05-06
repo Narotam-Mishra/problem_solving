@@ -174,6 +174,7 @@
 - [3741. Minimum Distance Between Three Equal Elements II](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-ii/description/?envType=daily-question&envId=2026-04-11)
 - [3225. Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)[Unsolved]
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=daily-question&envId=2026-05-04)
+- [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2026-05-06)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
