@@ -175,6 +175,7 @@
 - [3225. Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/description/?envType=daily-question&envId=2026-04-29)[Unsolved]
 - [48. Rotate Image](https://leetcode.com/problems/rotate-image/description/?envType=daily-question&envId=2026-05-04)
 - [1861. Rotating the Box](https://leetcode.com/problems/rotating-the-box/description/?envType=daily-question&envId=2026-05-06)
+- [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
@@ -638,6 +639,7 @@
 - [1559. Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/?envType=daily-question&envId=2026-04-26)
 - [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)[Unsolved]
 - [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)[Unsolved]
+- [3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)[VVI]
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
