@@ -553,6 +553,7 @@
 - [3488. Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/description/?envType=daily-question&envId=2026-04-16)
 - [3761. Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/?envType=daily-question&envId=2026-04-17)
 - [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/?envType=daily-question&envId=2026-04-23)[Unsolved]
+- [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/?envType=daily-question&envId=2026-05-13)[using DAT - VVI]
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
