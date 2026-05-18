@@ -647,6 +647,7 @@
 - [1391. Check if There is a Valid Path in a Grid](https://leetcode.com/problems/check-if-there-is-a-valid-path-in-a-grid/description/?envType=daily-question&envId=2026-04-27)[Unsolved]
 - [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)[Unsolved]
 - [3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)[VVI]
+- [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/?envType=daily-question&envId=2026-05-18)[VVI]
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
