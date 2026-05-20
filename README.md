@@ -179,6 +179,7 @@
 - [3660. Jump Game IX](https://leetcode.com/problems/jump-game-ix/description/?envType=daily-question&envId=2026-05-07)
 - [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/?envType=daily-question&envId=2026-05-09)[Unsolved]
 - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/?envType=daily-question&envId=2026-05-17)
+- [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2026-05-20)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
