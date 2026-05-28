@@ -567,6 +567,7 @@
 - [421. Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/description/)[VVI - Solved]
 - [211. Design Add and Search Words Data Structure](https://leetcode.com/problems/design-add-and-search-words-data-structure/description/) [Unsolved]
 - [3043. Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/description/?envType=daily-question&envId=2026-05-21)
+- [3093. Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/description/?envType=daily-question&envId=2026-05-28)
 
 
 ## [Intro to AVL Tree](https://chatgpt.com/share/02b85d32-7927-46d6-a5e9-6ec9b2744bb8)
