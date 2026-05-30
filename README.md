@@ -479,6 +479,7 @@
 ## [Segment Tree Problems](https://leetcode.com/problem-list/segment-tree/)
 - [Implement Segment Tree]()
 - [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)[Unsolved]
+- [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/?envType=daily-question&envId=2026-05-30)[Unsolved]
 
 
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
