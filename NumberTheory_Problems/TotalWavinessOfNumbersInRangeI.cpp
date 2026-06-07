@@ -18,6 +18,11 @@ int getWaviness(int num){
     // find digits size
     int len = digits.size();
 
+    // edge case
+    if(len < 3){
+        return 0;
+    }
+
     // step 3 - iterate only over middle digits (index 1 to len-2)
     int waviness = 0;
     for(int i=1; i<len-1; i++){
