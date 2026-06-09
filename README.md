@@ -619,6 +619,7 @@
 - [1975. Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/description/?envType=daily-question&envId=2026-01-05)
 - [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/description/?envType=daily-question&envId=2026-05-31)
 - [3633. Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i/description/?envType=daily-question&envId=2026-06-02)
+- [3689. Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i/description/?envType=daily-question&envId=2026-06-09)
 
 ## [Intro to Graph](https://chatgpt.com/share/9ae921e6-44d9-4306-9183-cddfdb5394dd)
 - [Dense Graph Vs Sparse Graph](https://chatgpt.com/share/3a4f7947-22fe-4a8f-b659-02ea24bd90c6)
