@@ -483,6 +483,7 @@
 - [Implement Segment Tree]()
 - [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)[Unsolved]
 - [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/?envType=daily-question&envId=2026-05-30)[Unsolved]
+- [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/description/?envType=daily-question&envId=2026-06-10)[Unsolved]
 
 
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
@@ -778,6 +779,8 @@
 - [396. Rotate Function](https://leetcode.com/problems/rotate-function/description/?envType=daily-question&envId=2026-05-01)
 - [788. Rotated Digits](https://leetcode.com/problems/rotated-digits/description/?envType=daily-question&envId=2026-05-02)
 - [3751. Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/description/?envType=daily-question&envId=2026-06-04)
+- [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/?envType=daily-question&envId=2026-06-11)[Unsolved]
+- [3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/?envType=daily-question&envId=2026-06-12)[Unsolved]
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
@@ -923,6 +926,7 @@
 - [2075. Decode the Slanted Ciphertext](https://leetcode.com/problems/decode-the-slanted-ciphertext/description/?envType=daily-question&envId=2026-04-04)
 - [2452. Words Within Two Edits of Dictionary](https://leetcode.com/problems/words-within-two-edits-of-dictionary/description/?envType=daily-question&envId=2026-04-22)
 - [3121. Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/description/?envType=daily-question&envId=2026-05-27)
+- [3838. Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/description/?envType=daily-question&envId=2026-06-13)
 
 ## [Design Problems](https://leetcode.com/problem-list/design/)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/description/?envType=problem-list-v2&envId=design)
