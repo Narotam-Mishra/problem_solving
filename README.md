@@ -337,7 +337,7 @@
 - [86. Partition List](https://leetcode.com/problems/partition-list/description/) [VVI]
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)[Solved]
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) [VVI - Unsolved]
-- [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)[Unsolved - VVI]
+- [2130. Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)[VVI]
 - [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/) [Unsolved]
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) [Unsolved]
 - [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) [Unsolved]
