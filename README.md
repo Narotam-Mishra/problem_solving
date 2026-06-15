@@ -347,6 +347,7 @@
 - [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/) [VVI - Solved]
 - [3217. Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/description/?envType=daily-question&envId=2025-11-01)
 - [61. Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=daily-question&envId=2026-05-05)
+- [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=daily-question&envId=2026-06-15)
 
 ## [Intro to Stack](https://www.geeksforgeeks.org/stack-data-structure/)
 
