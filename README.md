@@ -180,6 +180,7 @@
 - [1914. Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/description/?envType=daily-question&envId=2026-05-09)[Unsolved]
 - [1306. Jump Game III](https://leetcode.com/problems/jump-game-iii/description/?envType=daily-question&envId=2026-05-17)
 - [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?envType=daily-question&envId=2026-05-20)
+- [3737. Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i/description/?envType=daily-question&envId=2026-06-25)
 
 ## [Searching and Sorting](https://leetcode.com/tag/binary-search/)
 - [selection sort, bubble sort, insertion sort, merge sort, quick sort](https://www.geeksforgeeks.org/searching-algorithms/)
@@ -322,6 +323,8 @@
 - [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/?envType=daily-question&envId=2026-05-10)
 - [1340. Jump Game V](https://leetcode.com/problems/jump-game-v/description/?envType=daily-question&envId=2026-05-24)
 - [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/?envType=daily-question&envId=2026-06-05)[Unsolved]
+- [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/?envType=daily-question&envId=2026-06-23)[Unsolved]
+- [3700. Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/submissions/2044070630/?envType=daily-question&envId=2026-06-24)[Unsolved]
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
@@ -785,6 +788,7 @@
 - [3558. Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i/description/?envType=daily-question&envId=2026-06-11)[Unsolved]
 - [3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/?envType=daily-question&envId=2026-06-12)[Unsolved]
 - [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18)
+- [Count Numbers With Equal First and Last Digit](https://www.naukri.com/code360/problems/equal-first-digit-and-last-digit_4607860)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
