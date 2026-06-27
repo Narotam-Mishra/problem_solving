@@ -488,6 +488,7 @@
 - [3721. Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii/description/?envType=daily-question&envId=2026-02-11)[Unsolved]
 - [3161. Block Placement Queries](https://leetcode.com/problems/block-placement-queries/description/?envType=daily-question&envId=2026-05-30)[Unsolved]
 - [3691. Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii/description/?envType=daily-question&envId=2026-06-10)[Unsolved]
+- [3739. Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii/description/?envType=daily-question&envId=2026-06-26)[Unsolved]
 
 
 ## [Intro to Hashing and HashMaps](https://chatgpt.com/share/cc474ba9-e43a-46b3-9570-589b15bf8d7d)
@@ -568,6 +569,7 @@
 - [3761. Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/description/?envType=daily-question&envId=2026-04-17)
 - [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/?envType=daily-question&envId=2026-04-23)[Unsolved]
 - [1674. Minimum Moves to Make Array Complementary](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/description/?envType=daily-question&envId=2026-05-13)[using DAT - VVI]
+- [3020. Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/description/?envType=daily-question&envId=2026-06-27)
 
 ## [Intro to Trie](https://chatgpt.com/share/38f85ebd-2e5e-4d98-a464-965269cf7204)
 
