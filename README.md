@@ -671,6 +671,10 @@
 - [547. Number of Provinces](https://leetcode.com/problems/number-of-provinces/)[Unsolved]
 - [3629. Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/description/?envType=daily-question&envId=2026-05-08)[VVI]
 - [1345. Jump Game IV](https://leetcode.com/problems/jump-game-iv/description/?envType=daily-question&envId=2026-05-18)[VVI]
+- [2812. Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid/description/?envType=daily-question&envId=2026-07-01)[Unsolved]
+- [3286. Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02)[Unsolved]
+- [3620. Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/?envType=daily-question&envId=2026-07-03)[Unsolved]
+- [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/?envType=daily-question&envId=2026-07-04)
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
