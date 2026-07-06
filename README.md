@@ -226,6 +226,7 @@
 - [1665. Minimum Initial Energy to Finish Tasks](https://leetcode.com/problems/minimum-initial-energy-to-finish-tasks/description/?envType=daily-question&envId=2026-05-12)[VVI - Binary Search on Answer]
 - [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
 - [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
+- [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/?envType=daily-question&envId=2026-07-06)
 
 ## [Intro to Recursion](https://chatgpt.com/share/94fb6625-6f75-4627-aa86-f0f021ec3cf8)
 
@@ -325,6 +326,7 @@
 - [3753. Total Waviness of Numbers in Range II](https://leetcode.com/problems/total-waviness-of-numbers-in-range-ii/description/?envType=daily-question&envId=2026-06-05)[Unsolved]
 - [3699. Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i/description/?envType=daily-question&envId=2026-06-23)[Unsolved]
 - [3700. Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii/submissions/2044070630/?envType=daily-question&envId=2026-06-24)[Unsolved]
+- [1301. Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score/description/?envType=daily-question&envId=2026-07-05)[Unsolved]
 
 ## [Intro to Linked List](https://www.geeksforgeeks.org/linked-list-data-structure/)
 
