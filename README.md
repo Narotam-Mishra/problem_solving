@@ -799,6 +799,7 @@
 - [3559. Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii/description/?envType=daily-question&envId=2026-06-12)[Unsolved]
 - [1344. Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/description/?envType=daily-question&envId=2026-06-18)
 - [Count Numbers With Equal First and Last Digit](https://www.naukri.com/code360/problems/equal-first-digit-and-last-digit_4607860)
+- [3754. Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/description/?envType=daily-question&envId=2026-07-07&__cf_chl_f_tk=AIXUgrEVBvRtT74DjzgeO1xUlmN6xI7lkLbLJCGh7Fw-1783435511-1.0.1.1-5MJbbC59g.k5RJmPCvWbE9jCCFVxA84SoYB0ceFEUxQ)
 
 ## [String Problems](https://leetcode.com/problem-list/string/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)
