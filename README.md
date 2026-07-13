@@ -227,6 +227,7 @@
 - [154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/?envType=daily-question&envId=2026-05-16)
 - [3635. Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii/description/?envType=daily-question&envId=2026-06-03)
 - [1288. Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/description/?envType=daily-question&envId=2026-07-06)
+- [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/description/?envType=daily-question&envId=2026-07-13)
 
 ## [Intro to Recursion](https://chatgpt.com/share/94fb6625-6f75-4627-aa86-f0f021ec3cf8)
 
@@ -677,6 +678,9 @@
 - [3286. Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/description/?envType=daily-question&envId=2026-07-02)[Unsolved]
 - [3620. Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways/description/?envType=daily-question&envId=2026-07-03)[Unsolved]
 - [2492. Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/description/?envType=daily-question&envId=2026-07-04)
+- [3532. Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/description/?envType=daily-question&envId=2026-07-09)[Unsolved]
+- [3534. Path Existence Queries in a Graph II](https://leetcode.com/problems/path-existence-queries-in-a-graph-ii/description/)[Unsolved]
+- [2685. Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components/description/?envType=daily-question&envId=2026-07-11)[Unsolved]
 
 ## [Bit Manipulation Problems](https://leetcode.com/tag/bit-manipulation/)
 - [338. Counting Bits](https://leetcode.com/problems/counting-bits/description/)
